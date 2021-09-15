@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Argentina",
+      "id": "Q414"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q108550284",
+      "start": "2019-12-10",
+      "parent": "Q30344748"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://mapadelestado.jefatura.gob.ar/index.php",
+        "title": "Mapa del Estado",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "es",
+            "wikidata": "Q1321"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/argentina-ministers"
 }
