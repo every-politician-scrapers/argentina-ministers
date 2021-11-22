@@ -1,0 +1,878 @@
+{
+  "title": "Eduardo de Pedro",
+  "pageID": 62742225,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "Justicialist Party politicians",
+    "Members of La Cámpora",
+    "Ministers of Internal Affairs of Argentina",
+    "Members of the Argentine Chamber of Deputies",
+    "Members of the Argentine Council of Magistracy",
+    "People from Mercedes, Buenos Aires",
+    "Children of people disappeared during Dirty War"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eduardo Enrique \"Wado\" de Pedro (born 11 November 1976) is an Argentine lawyer and Justicialist Party politician currently serving as the country's Minister of the Interior.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                },
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Argentina)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eduardo Enrique \"Wado\" de Pedro"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as National Deputy for Buenos Aires Province, as member of the Council of Magistracy, and General Secretary to President Cristina Fernández de Kirchner.",
+              "links": [
+                {
+                  "text": "National Deputy",
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires Province"
+                },
+                {
+                  "text": "Council of Magistracy",
+                  "type": "internal",
+                  "page": "Council of Magistracy of the Nation"
+                },
+                {
+                  "text": "General Secretary",
+                  "type": "internal",
+                  "page": "General Secretariat of the Presidency (Argentina)"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Argentina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cristina Fernández de Kirchner"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Pedro was one of the founding members of La Cámpora, the Front for Victory's youth wing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "La Cámpora"
+                },
+                {
+                  "type": "internal",
+                  "page": "Front for Victory"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "La Cámpora"
+                ]
+              }
+            },
+            {
+              "text": "He served as Vice-president of Aerolíneas Argentinas and Austral Líneas Aéreas from 2009 to 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aerolíneas Argentinas"
+                },
+                {
+                  "type": "internal",
+                  "page": "Austral Líneas Aéreas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1976",
+          "month": "11",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eduardo de Pedro"
+          },
+          "image": {
+            "text": "Eduardo de Pedro 2019.jpg"
+          },
+          "office": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Ministry of the Interior (Argentina)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 December 2019"
+          },
+          "predecessor": {
+            "text": "Rogelio Frigerio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rogelio Frigerio"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Councillor of Magistracy",
+            "links": [
+              {
+                "text": "Councillor of Magistracy",
+                "type": "internal",
+                "page": "Council of Magistracy of the Nation"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 November 2018"
+          },
+          "term_end1": {
+            "text": "10 December 2019"
+          },
+          "appointer1": {
+            "text": "Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 February 2014"
+          },
+          "term_end2": {
+            "text": "26 February 2015"
+          },
+          "appointer2": {
+            "text": "Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "office3": {
+            "text": "National Deputy",
+            "links": [
+              {
+                "text": "National Deputy",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Buenos Aires",
+            "links": [
+              {
+                "text": "Buenos Aires",
+                "type": "internal",
+                "page": "Buenos Aires Province"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "10 December 2015"
+          },
+          "term_end3": {
+            "text": "10 December 2019"
+          },
+          "constituency4": {
+            "text": "Buenos Aires",
+            "links": [
+              {
+                "text": "Buenos Aires",
+                "type": "internal",
+                "page": "Buenos Aires Province"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "10 December 2011"
+          },
+          "term_end4": {
+            "text": "26 February 2015"
+          },
+          "office5": {
+            "text": "General Secretary of the Presidency",
+            "links": [
+              {
+                "text": "General Secretary of the Presidency",
+                "type": "internal",
+                "page": "General Secretariat of the Presidency (Argentina)"
+              }
+            ]
+          },
+          "president5": {
+            "text": "Cristina Fernández de Kirchner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristina Fernández de Kirchner"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Aníbal Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aníbal Fernández"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Fernando de Andreis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando de Andreis"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "26 February 2015"
+          },
+          "term_end5": {
+            "text": "10 December 2015"
+          },
+          "birth_date": {
+            "text": "November 11, 1976"
+          },
+          "birth_place": {
+            "text": "Mercedes, Buenos Aires Province, Argentina",
+            "links": [
+              {
+                "text": "Mercedes",
+                "type": "internal",
+                "page": "Mercedes, Buenos Aires"
+              },
+              {
+                "type": "internal",
+                "page": "Buenos Aires Province"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Front for Victory (2003–2017)\nCitizen's Unity (2017–2019)\nFrente de Todos (2019–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Front for Victory"
+              },
+              {
+                "type": "internal",
+                "page": "Citizen's Unity"
+              },
+              {
+                "text": "Frente de Todos",
+                "type": "internal",
+                "page": "Frente de Todos (2019 coalition)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Buenos Aires\nUniversity of San Andrés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Buenos Aires"
+              },
+              {
+                "type": "internal",
+                "page": "University of San Andrés"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "La dramática historia que une a \"Wado\" De Pedro y \"Juani\" Ustarroz",
+          "url": "https://www.perfil.com/noticias/politica/La-dramatica-historia-que-une-a-Wado-De-Pedro-y-Juani-Ustarroz-20110714-0031.phtml",
+          "work": "Perfil",
+          "date": "14 July 2011",
+          "accessdate": "4 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eduardo Enrique de Pedro was born on 11 November 1976 in Mercedes, in Buenos Aires Province.",
+              "links": [
+                {
+                  "text": "Mercedes",
+                  "type": "internal",
+                  "page": "Mercedes, Buenos Aires"
+                },
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires Province"
+                }
+              ]
+            },
+            {
+              "text": "His father, Eduardo Osvaldo de Pedro (b."
+            },
+            {
+              "text": "1950), a law student at the University of Buenos Aires and a member of the organization Montoneros, was killed by the last military dictatorship in Argentina in 1977.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Buenos Aires"
+                },
+                {
+                  "type": "internal",
+                  "page": "Montoneros"
+                },
+                {
+                  "text": "last military dictatorship in Argentina",
+                  "type": "internal",
+                  "page": "National Reorganization Process"
+                }
+              ]
+            },
+            {
+              "text": "His mother, Lucila Adela Révora (b."
+            },
+            {
+              "text": "1953) was kidnapped by state authorities in 1978 while pregnant."
+            },
+            {
+              "text": "Her name is mentioned in the Nunca Más report.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nunca Más"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Nunca Más"
+                ]
+              }
+            },
+            {
+              "text": "The two-year-old Eduardo Enrique was thereafter raised by his aunt Estela Révora."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "De Pedro has had a stutter since childhood.",
+              "links": [
+                {
+                  "text": "stutter",
+                  "type": "internal",
+                  "page": "Stuttering"
+                }
+              ]
+            },
+            {
+              "text": "Like his father, de Pedro studied law at the University of Buenos Aires, and then went on to receive a Master's Degree on public policy at the University of San Andrés.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of San Andrés"
+                }
+              ]
+            },
+            {
+              "text": "He is a founding member of HIJOS.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "HIJOS"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "DE PEDRO, Enrique Osvaldo",
+          "url": "http://www.robertobaschetti.com/biografia/d/45.html",
+          "work": "robertobaschetti.com",
+          "date": "26 February 2015",
+          "accessdate": "4 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.desaparecidos.org/nuncamas/web/juicios/argentin/cfp_300103.htm",
+          "title": "Causa 19.580, punto V- a. Hecho ocurrido en la calle Belén № 335, dpto. \"2\" de Capital Federal, el 11 de octubre de 1978",
+          "work": "Desaparecidos.org",
+          "accessdate": "4 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.jus.gob.ar/media/3120903/2._anexo_i___listado_de_v_ctimas_de_desap_forzada_y_asesinato___l_-_z.pdf",
+          "title": "RÉVORA LUCILA ADELA",
+          "work": "Registro unificado de víctimas del terrorismo de Estado - Listado L-Z",
+          "publisher": "Secretaría de Derechos Humanos de la Nación",
+          "date": "8 December 2015",
+          "page": "1025",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.infobae.com/politica/2019/12/06/wado-de-pedro-el-lider-de-la-campora-que-construyo-su-propio-poder-bajo-el-paraguas-de-cristina-kirchner/",
+          "work": "Infobae",
+          "title": "\"Wado\" De Pedro, el líder de La Cámpora que construyó su propio poder bajo el paraguas de Cristina Kirchner",
+          "language": "Spanish",
+          "date": "6 December 2019",
+          "accessdate": "12 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.pagina12.com.ar/diario/economia/2-176555-2011-09-11.html",
+          "title": "Los hijos que llegaron a ser candidatos",
+          "accessdate": "26 March 2011",
+          "date": "11 September 2011",
+          "work": "Página/12",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://tn.com.ar/politica/quien-es-wado-de-pedro-el-nuevo-secretario-general-de-la-presidencia_573537",
+          "title": "¿Quién es \"Wado\" De Pedro, el nuevo secretario general de la Presidencia?",
+          "date": "26 February 2015",
+          "accessdate": "4 January 2020",
+          "work": "TN.com.ar",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.hoymercedes.com.ar/principal/2010/12/21/el-mercedino-wado-de-pedro-en-los-medios-nacionales-como-nueva-estrella-politica/",
+          "title": "El mercedino \"Wado\" de Pedro en los medios nacionales mencionado como nueva estrella política",
+          "date": "21 December 2010",
+          "accessdate": "4 January 2020",
+          "work": "hoymercedes.com.ar",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "De Pedro's political career began in 2004 when he was designated Chief of Cabinet of the Undersecretariat of Tourism of Buenos Aires City, during the administration of Aníbal Ibarra.",
+              "links": [
+                {
+                  "text": "Buenos Aires City",
+                  "type": "internal",
+                  "page": "Buenos Aires"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aníbal Ibarra"
+                }
+              ]
+            },
+            {
+              "text": "In 2006, alongside Máximo Kirchner, Andrés Larroque, Juan Cabandié, Mariano Recalde and José Ottavis, de Pedro co-founded La Cámpora, a youth political organization that acted as the youth wing of the Front for Victory.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Máximo Kirchner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrés Larroque"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juan Cabandié"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mariano Recalde"
+                },
+                {
+                  "type": "internal",
+                  "page": "La Cámpora"
+                },
+                {
+                  "type": "internal",
+                  "page": "Front for Victory"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "La Cámpora"
+                ]
+              }
+            },
+            {
+              "text": "In 2009, he was appointed to the board of the recently re-nationalized Aerolíneas Argentinas and Austral Líneas Aéreas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aerolíneas Argentinas"
+                },
+                {
+                  "type": "internal",
+                  "page": "Austral Líneas Aéreas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2011 he was elected to the Chamber of Deputies on the Front for Victory list, representing Buenos Aires Province.",
+              "links": [
+                {
+                  "text": "2011",
+                  "type": "internal",
+                  "page": "2011 Argentine general election"
+                },
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires Province"
+                }
+              ]
+            },
+            {
+              "text": "Representing the majority bloc in the Chamber, de Pedro was designated as member of the Council of Magistracy of the Nation in February 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Council of Magistracy of the Nation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 February 2015 he was designated as General Secretary of the Presidency under President Cristina Fernández de Kirchner, a post he held until 10 December 2015, when Fernández de Kirchner's term ended.",
+              "links": [
+                {
+                  "text": "General Secretary",
+                  "type": "internal",
+                  "page": "General Secretariat of the Presidency (Argentina)"
+                },
+                {
+                  "text": "Presidency",
+                  "type": "internal",
+                  "page": "President of Argentina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cristina Fernández de Kirchner"
+                }
+              ]
+            },
+            {
+              "text": "De Pedro headed the Front for Victory's deputies party list in Buenos Aires Province in the 2015 legislative election, and in 2018 he was again designated as one of the Chamber's representatives to the Council of Magistracy, this time representing the minority bloc.",
+              "links": [
+                {
+                  "text": "2015 legislative election",
+                  "type": "internal",
+                  "page": "2015 Argentine general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 10 December 2019, he has served in the cabinet of President Alberto Fernández as Minister of the Interior.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alberto Fernández"
+                },
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Argentina)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.cronista.com/economiapolitica/Quien-es-Wado-De-Pedro-el-camporista-que-gana-poder-en-el-Gobierno-20150226-0110.html",
+          "title": "Quién es Wado De Pedro, el camporista que gana poder en el Gobierno",
+          "date": "26 February 2015",
+          "accessdate": "4 January 2020",
+          "work": "El Cronista",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.noticiasmercedinas.com/090721depedro.htm",
+          "title": "El mercedino Eduardo De Pedro se suma al directorio de Aerolíneas Argentinas - Austral",
+          "accessdate": "13 September 2013",
+          "date": "21 July 2009",
+          "work": "Noticias Mercedinas",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/diario/elpais/1-267016-2015-02-27.html",
+          "last": "Bruschtein",
+          "first": "Julián",
+          "title": "Desde HIJOS a la Casa Rosada",
+          "date": "27 February 2015",
+          "accessdate": "4 January 2020",
+          "work": "Página/12",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lanacion.com.ar/politica/la-campora-gana-espacio-en-el-consejo-de-la-magistratura-nid1661415",
+          "title": "La Cámpora gana espacio en el Consejo de la Magistratura",
+          "work": "La Nación",
+          "last": "Rodríguez Niell",
+          "first": "Paz",
+          "date": "5 February 2014",
+          "accessdate": "4 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.telam.com.ar/notas/201405/62546-de-pedro-el-objetivo-es-generar-discusion-dentro-del-partido-y-formar-cuadros.html",
+          "title": "De Pedro: \"El objetivo es generar discusión dentro del partido y formar cuadros\"",
+          "date": "9 May 2014",
+          "work": "Télam",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Eduardo \"Wado\" de Pedro, referente nacional de La Cámpora, será el nuevo secretario general de la Presidencia",
+          "url": "http://www.telam.com.ar/notas/201502/96213-wado-de-pedro-campora-secretario-presidencia.html",
+          "work": "Télam",
+          "date": "26 February 2015",
+          "accessdate": "4 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Eduardo \"Wado\" de Pedro encabezará la lista de diputados nacionales del FpV en la provincia de Buenos Aires",
+          "url": "https://www.lanacion.com.ar/politica/eduardo-wado-de-pedro-encabezara-la-lista-de-diputado-nacionales-del-frente-para-la-victoria-nid1803413",
+          "work": "La Nación",
+          "date": "20 June 2015",
+          "accessdate": "4 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.perfil.com/noticias/politica/piden-anular-designacion-eduardo-wado-de-pedro-consejo-magistratura.phtml",
+          "title": "Consejo de la Magistratura: piden anular la designación de Wado de Pedro",
+          "work": "Perfil",
+          "date": "20 November 2018",
+          "accessdate": "4 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.letrap.com.ar/nota/2019-11-4-16-32-0-hablen-con-wado",
+          "last": "Pepe",
+          "first": "Gabriela",
+          "title": "Hablen con Wado",
+          "date": "4 November 2019",
+          "accessdate": "4 January 2020",
+          "work": "Letra P",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commonscat"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Aníbal Fernández",
+          "template": "s-bef"
+        },
+        {
+          "title": "General Secretary of the Presidency",
+          "years": "February 2015–December 2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Fernando de Andreis",
+          "template": "s-aft"
+        },
+        {
+          "before": "Rogelio Frigerio",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of the Interior",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "template": "alberto fernández cabinet"
+        },
+        {
+          "template": "cfk cabinet 2"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ministry of the Interior (in Spanish)",
+            "links": [
+              {
+                "text": "Ministry of the Interior (in Spanish)",
+                "type": "external",
+                "site": "https://www.argentina.gob.ar/interior"
+              }
+            ]
+          },
+          {
+            "text": "Official website of La Cámpora",
+            "links": [
+              {
+                "text": "Official website of ''La Cámpora''",
+                "type": "external",
+                "site": "http://www.lacampora.org/"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "La Cámpora"
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}

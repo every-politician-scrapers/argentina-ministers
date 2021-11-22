@@ -1,0 +1,792 @@
+{
+  "title": "Juan Luis Manzur",
+  "pageID": 23453002,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "People from San Miguel de Tucumán",
+    "Argentine people of Lebanese descent",
+    "Argentine Maronites",
+    "University of Buenos Aires alumni",
+    "Argentine surgeons",
+    "Maronite politicians",
+    "Justicialist Party politicians",
+    "Argentine ministers of health",
+    "Chiefs of Cabinet of Ministers of Argentina"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Luis Manzur (born 8 January 1969) is an Argentine surgeon and politician.",
+              "formatting": {
+                "bold": [
+                  "Juan Luis Manzur"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Justicialist Party, he currently serves as Chief of the Cabinet of Ministers, under President Alberto Fernández.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chief of the Cabinet of Ministers"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alberto Fernández"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Minister of Health of Argentina from 2009 to 2015, and as Governor of Tucumán Province from 2015 to 2021.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Argentina)"
+                },
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "Governor of Tucumán Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tucumán Province"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1969",
+          "month": "1",
+          "day": "8",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Juan Luis Manzur"
+          },
+          "image": {
+            "text": "Manzur y Trotta (cropped).jpg"
+          },
+          "office": {
+            "text": "Chief of the Cabinet of Ministers",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief of the Cabinet of Ministers"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "20 September 2021"
+          },
+          "predecessor": {
+            "text": "Santiago Cafiero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago Cafiero"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Governor of Tucumán",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Tucumán"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Vice Governor"
+          },
+          "1namedata1": {
+            "text": "Osvaldo Jaldo"
+          },
+          "term_start1": {
+            "text": "29 October 2015"
+          },
+          "term_end1": {
+            "text": "20 September 2021"
+          },
+          "predecessor1": {
+            "text": "José Alperovich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Alperovich"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Osvaldo Jaldo (acting)"
+          },
+          "office2": {
+            "text": "Vice Governor of Tucumán",
+            "links": [
+              {
+                "text": "Vice Governor of Tucumán",
+                "type": "internal",
+                "page": "Governor of Tucumán"
+              }
+            ]
+          },
+          "governor2": {
+            "text": "José Alperovich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Alperovich"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 February 2015"
+          },
+          "term_end2": {
+            "text": "29 October 2015"
+          },
+          "predecessor2": {
+            "text": "Regino Amado"
+          },
+          "successor2": {
+            "text": "Osvaldo Jaldo"
+          },
+          "governor3": {
+            "text": "José Alperovich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Alperovich"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "10 December 2007"
+          },
+          "term_end3": {
+            "text": "1 July 2009"
+          },
+          "predecessor3": {
+            "text": "Fernando Juri"
+          },
+          "successor3": {
+            "text": "Sergio Mansilla"
+          },
+          "office4": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Argentina)"
+              }
+            ]
+          },
+          "president4": {
+            "text": "Cristina Fernández de Kirchner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristina Fernández de Kirchner"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1 July 2009"
+          },
+          "term_end4": {
+            "text": "26 February 2015"
+          },
+          "predecessor4": {
+            "text": "Graciela Ocaña",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Graciela Ocaña"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Daniel Gollán",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Gollán"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Minister of Health of Tucumán"
+          },
+          "governor5": {
+            "text": "José Alperovich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Alperovich"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "10 December 2003"
+          },
+          "term_end5": {
+            "text": "10 December 2007"
+          },
+          "successor5": {
+            "text": "Pablo Yedlin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pablo Yedlin"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 8, 1969"
+          },
+          "birth_place": {
+            "text": "San Miguel de Tucumán, Argentina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Miguel de Tucumán"
+              },
+              {
+                "type": "internal",
+                "page": "Argentina"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Front for Victory (2003–2015) Frente de Todos (2019–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Front for Victory"
+              },
+              {
+                "type": "internal",
+                "page": "Frente de Todos"
+              }
+            ]
+          },
+          "education": {
+            "text": "National University of Tucumán University of Buenos Aires",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National University of Tucumán"
+              },
+              {
+                "type": "internal",
+                "page": "University of Buenos Aires"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manzur was born in San Miguel de Tucumán to a Maronite Catholic father from Lebanon and an Argentine mother.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "San Miguel de Tucumán"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maronite Catholic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lebanon"
+                }
+              ]
+            },
+            {
+              "text": "He received a medical degree from the University of Tucumán and completed his residency at the public Álvarez Hospital, in Buenos Aires.",
+              "links": [
+                {
+                  "text": "medical degree",
+                  "type": "internal",
+                  "page": "Doctor of Medicine"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tucumán"
+                },
+                {
+                  "text": "residency",
+                  "type": "internal",
+                  "page": "medical residency"
+                },
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires"
+                }
+              ]
+            },
+            {
+              "text": "Manzur later received a master's degree in Health Systems and Services Administration from the University of Buenos Aires.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Buenos Aires"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.clarin.com/diario/2009/06/30/elpais/p-01949148.htm",
+          "title": "Un médico sanitarista tucumano reemplazará a Ocaña en Salud",
+          "work": "Clarín",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following a stint as Vice Minister of Health for the Province of San Luis, in 2002 he was named Public Health Secretary of the District of La Matanza, a western, mainly blue-collar suburb of the Argentine capital.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Province of San Luis"
+                },
+                {
+                  "text": "District of La Matanza",
+                  "type": "internal",
+                  "page": "La Matanza Partido"
+                }
+              ]
+            },
+            {
+              "text": "Recommended by the National Health Minister, Ginés González García, Manzur was appointed Health Minister of Tucumán Province by the new Governor, José Alperovich, in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ginés González García"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tucumán Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "José Alperovich"
+                }
+              ]
+            },
+            {
+              "text": "Manzur soon earned plaudits in his post, which oversaw public health in one of Argentina's least-developed provinces."
+            },
+            {
+              "text": "One widely used yardstick of public health, the infant mortality rate, fell from 23 per 1,000 births (40% above the national average) in 2003, to 13 in 2006 (matching the national average).",
+              "links": [
+                {
+                  "text": "infant mortality rate",
+                  "type": "internal",
+                  "page": "infant mortality rate"
+                }
+              ]
+            },
+            {
+              "text": "The perinatal mortality rate (a late fetal death, or of an infant under one week old) likewise fell during the same period in Tucumán from 24 to 18 per 1,000 births.",
+              "links": [
+                {
+                  "text": "perinatal mortality",
+                  "type": "internal",
+                  "page": "perinatal mortality"
+                }
+              ]
+            },
+            {
+              "text": "These news helped Manzur secure Governor Alperovich's nod to be a running mate for his successful, 2007 bid for re-election."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.clarin.com/diario/2005/08/13/sociedad/s-05806.htm",
+          "title": "Se redujo la tasa de mortalidad infantil",
+          "work": "Clarín",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Health minister",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manzur was sworn in on July 1, the day after a public health emergency was declared over a worsening H1N1 virus (\"swine flu\") epidemic, which had claimed 44 fatalities by the time he was sworn in.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "H1N1"
+                },
+                {
+                  "text": "epidemic",
+                  "type": "internal",
+                  "page": "2009 flu pandemic in Argentina"
+                }
+              ]
+            },
+            {
+              "text": "His tenure would thereafter be focused on expanding childhood immunizations, childhood preventive medicine, diagnostic care against coeliac disease and HPV, mobile health, access to organ transplants, and smoking cessation programs.",
+              "links": [
+                {
+                  "text": "childhood immunizations",
+                  "type": "internal",
+                  "page": "childhood immunizations"
+                },
+                {
+                  "text": "preventive medicine",
+                  "type": "internal",
+                  "page": "preventive medicine"
+                },
+                {
+                  "text": "coeliac disease",
+                  "type": "internal",
+                  "page": "coeliac disease"
+                },
+                {
+                  "type": "internal",
+                  "page": "HPV"
+                },
+                {
+                  "text": "mobile health",
+                  "type": "internal",
+                  "page": "mobile health"
+                },
+                {
+                  "text": "organ transplants",
+                  "type": "internal",
+                  "page": "organ transplant"
+                },
+                {
+                  "text": "smoking cessation",
+                  "type": "internal",
+                  "page": "smoking cessation"
+                }
+              ]
+            },
+            {
+              "text": "Staunch opposition from the powerful Roman Catholic Church in Argentina forced Manzur to reverse steps toward protecting women's reproductive rights, cancelling proposals in 2010 that would have guarantee access to legal abortions.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roman Catholic Church"
+                },
+                {
+                  "text": "Argentina",
+                  "type": "internal",
+                  "page": "Church-state relations in Argentina"
+                },
+                {
+                  "text": "reproductive rights",
+                  "type": "internal",
+                  "page": "reproductive rights"
+                },
+                {
+                  "text": "legal abortions",
+                  "type": "internal",
+                  "page": "Abortion in Argentina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He stepped down as Health Minister in February 2015 to return to the post of Vice Governor of Tucumán, and was expected to run to succeed Governor Alperovich in provincial elections later in the year.",
+              "links": [
+                {
+                  "text": "provincial elections later in the year",
+                  "type": "internal",
+                  "page": "2015 Argentine general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.lanacion.com.ar/nota.asp?nota_id=1145700&pid=6786658&toi=6256",
+          "title": "Destinan mil millones de pesos para combatir la gripe A",
+          "work": "La Nación",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.rionegro.com.ar/diario/vacunaron-al-86-de-grupos-vulnerables-1039508-9574-nota.aspx",
+          "title": "Vacunaron al 86% de grupos vulnerables",
+          "work": "Río Negro",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.lavoz.com.ar/ciudadanos/argentina-2012-marco-nuevo-record-donacion-trasplantes",
+          "title": "Argentina: 2012 marcó un nuevo récord en donación y trasplantes",
+          "work": "La Voz del Interior",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://msmagazine.com/blog/2010/08/16/argentina-says-dont-cry-about-unsafe-abortion/",
+          "title": "Argentina Says \"Don't Cry\" About Unsafe Abortion",
+          "work": "Ms.",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://buenosairesherald.com/article/183034/electoral-politics-in-provinces-are-behind-reshuffle",
+          "title": "Electoral politics in provinces are behind reshuffle",
+          "work": "Buenos Aires Herald",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Cabinet Chief",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 20 September 2021, Manzur was appointed as Chief of the Cabinet of Ministers by President Alberto Fernández in replacement of Santiago Cafiero.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief of the Cabinet of Ministers"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alberto Fernández"
+                },
+                {
+                  "type": "internal",
+                  "page": "Santiago Cafiero"
+                }
+              ]
+            },
+            {
+              "text": "Manzur's appointment was part of a cabinet reshuffle following the government's poor showings in the 2021 legislative primary elections.",
+              "links": [
+                {
+                  "text": "2021 legislative primary elections",
+                  "type": "internal",
+                  "page": "2021 Argentine legislative election"
+                }
+              ]
+            },
+            {
+              "text": "He was succeeded in interim fashion in the governorship by Vice Governor Osvaldo Jaldo."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.pagina12.com.ar/369168-quien-es-juan-manzur-el-nuevo-jefe-de-gabinete-de-alberto-fe",
+          "title": "Quién es Juan Manzur, el nuevo jefe de Gabinete de Alberto Fernández",
+          "date": "18 September 2021",
+          "work": "Página/12",
+          "access-date": "20 September 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cronista.com/economia-politica/confirmado-manzur-sera-jefe-de-gabinete/",
+          "work": "El Cronista",
+          "title": "Hubo acuerdo en Tucumán: Jaldo asume la gobernación y Manzur será jefe de Gabinete",
+          "last": "De Urieta",
+          "first": "Déborah",
+          "date": "20 September 2021",
+          "access-date": "20 September 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commonscat"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Graciela Ocaña",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health",
+          "years": "2009–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Daniel Gollán",
+          "template": "s-aft"
+        },
+        {
+          "before": "José Alperovich",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Tucumán",
+          "years": "2015–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Osvaldo Jaldo",
+          "template": "s-aft"
+        },
+        {
+          "before": "Santiago Cafiero",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of the Cabinet of Ministers",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "cfk cabinet 1"
+        },
+        {
+          "template": "cfk cabinet 2"
+        },
+        {
+          "template": "alberto fernández cabinet"
+        },
+        {
+          "template": "list of current heads of government of g20"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of the Governorship of Tucumán (in Spanish)",
+            "links": [
+              {
+                "text": "Official website of the Governorship of Tucumán",
+                "type": "external",
+                "site": "https://www.tucuman.gob.ar/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

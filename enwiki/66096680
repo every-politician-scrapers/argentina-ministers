@@ -1,0 +1,618 @@
+{
+  "title": "Gustavo Sáenz",
+  "pageID": 66096680,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "People from Salta",
+    "Mayors of places in Argentina",
+    "Governors of Salta Province",
+    "21st-century Argentine politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gustavo Adolfo Ruberto Sáenz Stiro (born 14 April 1969) is an Argentine politician who is currently governor of Salta Province, since 10 December 2019.",
+              "links": [
+                {
+                  "text": "Argentine",
+                  "type": "internal",
+                  "page": "Argentina"
+                },
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "Governor of Salta Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Salta Province"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gustavo Adolfo Ruberto Sáenz Stiro"
+                ]
+              }
+            },
+            {
+              "text": "Previously, from 2015 to 2019, he was intendente (mayor) of the City of Salta, and served from 2009 to 2013 as a member of the Provincial Senate representing the Capital Department.",
+              "links": [
+                {
+                  "text": "intendente",
+                  "type": "internal",
+                  "page": "intendente"
+                },
+                {
+                  "text": "City of Salta",
+                  "type": "internal",
+                  "page": "Salta"
+                },
+                {
+                  "text": "Capital Department",
+                  "type": "internal",
+                  "page": "Capital Department, Salta"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "intendente"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sáenz is the founder and leader of the Salta Identity Party (PAIS).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salta Identity Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Sáenz",
+            "Stiro"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1969",
+          "month": "4",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gustavo Sáenz"
+          },
+          "image": {
+            "text": "Gustavo Sáenz.png"
+          },
+          "order": {
+            "text": "Governor of Salta",
+            "links": [
+              {
+                "text": "Governor of Salta",
+                "type": "internal",
+                "page": "Governor of Salta Province"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Vice Governor"
+          },
+          "1namedata": {
+            "text": "Antonio Marocco",
+            "links": [
+              {
+                "text": "Antonio Marocco",
+                "type": "internal",
+                "page": ":es:Antonio Marocco"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 December 2019"
+          },
+          "predecessor": {
+            "text": "Juan Manuel Urtubey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Manuel Urtubey"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Mayor of Salta",
+            "links": [
+              {
+                "text": "Mayor of Salta",
+                "type": "internal",
+                "page": "Salta"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "9 December 2015"
+          },
+          "term_end1": {
+            "text": "9 December 2019"
+          },
+          "predecessor1": {
+            "text": "Miguel Isa",
+            "links": [
+              {
+                "text": "Miguel Isa",
+                "type": "internal",
+                "page": ":es:Miguel Isa"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Bettina Romero",
+            "links": [
+              {
+                "text": "Bettina Romero",
+                "type": "internal",
+                "page": ":es:Bettina Romero"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Provincial Senator of Salta",
+            "links": [
+              {
+                "text": "Provincial Senator of Salta",
+                "type": "internal",
+                "page": "Salta"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 December 2009"
+          },
+          "term_end2": {
+            "text": "10 December 2013"
+          },
+          "constituency2": {
+            "text": "Capital Department",
+            "links": [
+              {
+                "text": "Capital Department",
+                "type": "internal",
+                "page": "Capital Department, Salta"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Fernando Yarade"
+          },
+          "successor2": {
+            "text": "Gabriela Cerrano"
+          },
+          "birth_date": {
+            "text": "April 14, 1969"
+          },
+          "birth_place": {
+            "text": "Salta, Argentina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salta"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party (1995–2015)\nSalta Identity (2015–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              },
+              {
+                "text": "Salta Identity",
+                "type": "internal",
+                "page": "Salta Identity Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Catholic University of Salta",
+            "links": [
+              {
+                "text": "Catholic University of Salta",
+                "type": "internal",
+                "page": ":es:Universidad Católica de Salta"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gustavo Adolfo Ruberto Sáenz Stiro was born on 14 April 1969 in Salta, the capital city of the homonymous Salta Province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salta"
+                },
+                {
+                  "type": "internal",
+                  "page": "Salta Province"
+                }
+              ]
+            },
+            {
+              "text": "He finished high school at the Bachillerato Humanista Moderno (like fellow governors Juan Manuel Urtubey and Juan Carlos Romero) and then studied law at the Catholic University of Salta (UCASAL).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juan Manuel Urtubey"
+                },
+                {
+                  "text": "Juan Carlos Romero",
+                  "type": "internal",
+                  "page": "Juan Carlos Romero (politician)"
+                },
+                {
+                  "text": "Catholic University of Salta",
+                  "type": "internal",
+                  "page": ":es:Universidad Católica de Salta"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.unidiversidad.com.ar/gustavo-saenz-gano-con-holgura-en-salta-y-es-el-nuevo-gobernador",
+          "work": "Unidiversidad",
+          "title": "Gustavo Sáenz ganó con holgura en Salta y es el nuevo gobernador",
+          "date": "11 November 2019",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lagacetasalta.com.ar/nota/128305/actualidad/quien-gustavo-saenz-proximo-gobernador-salta.html",
+          "work": "La Gaceta",
+          "title": "Quién es Gustavo Sáenz, el próximo gobernador de Salta",
+          "date": "10 November 2019",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1995 Sáenz was elected to the Salta City Council for the Justicialist Party, serving until 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                }
+              ]
+            },
+            {
+              "text": "He also worked in the city government under mayor Miguel Isa, serving as Isa's chief of cabinet and government secretary.",
+              "links": [
+                {
+                  "text": "Miguel Isa",
+                  "type": "internal",
+                  "page": ":es:Miguel Isa"
+                }
+              ]
+            },
+            {
+              "text": "Sáenz served a second term in the city council from 2007 to 2009, during which he was the council's chairman."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2009, Sáenz was elected to the Provincial Senate in the Capital Department, succeeding Fernando Yarade.",
+              "links": [
+                {
+                  "text": "Capital Department",
+                  "type": "internal",
+                  "page": "Capital Department, Salta"
+                }
+              ]
+            },
+            {
+              "text": "As senator, Sáenz hosted a radio show called \"El senador y la gente\" (\"The Senator and the People\").",
+              "formatting": {
+                "italic": [
+                  "El senador y la gente"
+                ]
+              }
+            },
+            {
+              "text": "He ran for re-election in 2013, but lost to Workers' Party candidate Gabriela Cerrano.",
+              "links": [
+                {
+                  "text": "2013",
+                  "type": "internal",
+                  "page": "2013 Argentine legislative election"
+                },
+                {
+                  "text": "Workers' Party",
+                  "type": "internal",
+                  "page": "Workers' Party (Argentina)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following his defeat, Sáenz took a brief hiatus from politics from 2013 to 2015, during which he continued to host a radio talk show."
+            },
+            {
+              "text": "Ahead of the 2015 election, Sáenz formed a new party, the Salta Identity Party (Partido Identidad Salteña; PAIS) to run for the mayoralty of Salta.",
+              "links": [
+                {
+                  "text": "2015 election",
+                  "type": "internal",
+                  "page": "2015 Argentine general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Salta Identity Party"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Partido Identidad Salteña"
+                ]
+              }
+            },
+            {
+              "text": "Backed by the United for a New Alternative alliance, Sáenz won against the Front for Victory's Javier David.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United for a New Alternative"
+                },
+                {
+                  "type": "internal",
+                  "page": "Front for Victory"
+                }
+              ]
+            },
+            {
+              "text": "Shortly after his win, Sáenz was selected by presidential candidate Sergio Massa to run in his ticket in the general election as the vice presidential candidate; the Massa-Sáenz ticket placed third in the general election and Sáenz took office as mayor of Salta on 9 December 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sergio Massa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sáenz ran for the governorship of Salta Province in the 2019 general election, forming the Frente Sáenz Gobernador with his Salta Identity Party and other provincial parties, and receiving the backing of then-governor Juan Manuel Urtubey; he won the election and took office on 10 December 2019.",
+              "links": [
+                {
+                  "text": "2019 general election",
+                  "type": "internal",
+                  "page": "2019 Argentine general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juan Manuel Urtubey"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Frente Sáenz Gobernador"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.treslineas.com.ar/fernando-yarade-bio-4195.html",
+          "work": "Tres Líneas",
+          "title": "Fernando Yarade",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/diario/elpais/1-233326-2013-11-11.html",
+          "work": "Página/12",
+          "title": "Entre el PJ y el PO en Salta",
+          "date": "11 November 2013",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cronista.com/elecciones2015/Intendencia-de-Salta-el-mas-votado-fue-el-candidato-de-Urtubey-pero-por-fuerza-se-impuso-el-Frente-de-Romero-20150412-0009.html",
+          "work": "El Cronista",
+          "title": "Intendencia de Salta: el más votado fue el candidato de Urtubey pero por fuerza se impuso el Frente de Romero",
+          "date": "12 April 2015",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.clarin.com/politica/gustavo-saenz-candidato-vicepresidente-massa_0_HyV1_PFvQx.html",
+          "work": "Clarín",
+          "title": "Gustavo Sáenz es el candidato a vicepresidente de Massa",
+          "date": "26 June 2015",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.cdsalta.gob.ar/el-intendente-gustavo-s%C3%A1enz-recibi%C3%B3-el-mando-comunal-de-manos-de-miguel-isa",
+          "date": "9 December 2015",
+          "access-date": "13 December 2020",
+          "work": "Concejo Deliberante Ciudad de Salta",
+          "language": "es",
+          "title": "El intendente Gustavo Sáenz recibió el Mando Comunal de manos de Miguel Isa",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.infobae.com/politica/2019/11/11/quien-es-gustavo-saenz-el-nuevo-gobernador-de-salta-y-cuales-son-los-planes-de-juan-manuel-urtubey-despues-de-12-anos-al-frente-del-gobierno-provincial/",
+          "work": "Infobae",
+          "title": "Quién es Gustavo Sáenz, el nuevo gobernador de Salta y cuáles son los planes de Juan Manuel Urtubey después de 12 años al frente del gobierno provincial",
+          "date": "11 November 2019",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "last": "Mugica Díaz",
+          "first": "Joaquín",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.telam.com.ar/notas/201912/415215-saenz-asumio-como-gobernador-y-anuncio-que-trabajara-por-una-salta-justa-y-solidaria.html",
+          "work": "Télam",
+          "title": "Asumió Sáenz y anunció que trabajará por una provincia \"justa y solidaria\"",
+          "date": "10 December 2019",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/223429-quien-es-gustavo-saenz-el-aspirante-a-gobernador-que-se-rein",
+          "work": "Página/12",
+          "title": "Quién es Gustavo Sáenz, el aspirante a gobernador que se reinventó en la derrota",
+          "date": "4 October 2019",
+          "access-date": "13 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Miguel Isa",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Salta",
+          "years": "2015–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Bettina Romero",
+          "template": "s-aft"
+        },
+        {
+          "before": "Juan Manuel Urtubey",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Salta",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "argentinagovernors"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of the Governorship of Salta (in Spanish)",
+            "links": [
+              {
+                "text": "Official website of the Governorship of Salta",
+                "type": "external",
+                "site": "https://www.salta.gob.ar/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
