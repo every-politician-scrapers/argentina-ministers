@@ -188,9 +188,11 @@
               "text": "She is a member of the Centro de Estudios Legales y Sociales (CELS), and worked in the Justice Ministry and the Council of Magistracy, where she became involved in judicial matters pertaining to victims of state-sponsored terrorism during the last military dictatorship (1976–1983).",
               "links": [
                 {
-                  "text": "Centro de Estudios Legales y Sociales",
-                  "type": "internal",
-                  "page": ":es:Centro de Estudios Legales y Sociales"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "text": "Justice Ministry",

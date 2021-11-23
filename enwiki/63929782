@@ -348,9 +348,11 @@
               "text": "Alongside Tinelli he formed the San Lorenzo Siglo XXI association, and upon the resignation of Carlos Abdo from the club's presidency in August 2012, he was appointed interim chairman, becoming the youngest person to hold the post at 32.",
               "links": [
                 {
-                  "text": "Carlos Abdo",
-                  "type": "internal",
-                  "page": ":es:Carlos Abdo"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 }
               ]
             },

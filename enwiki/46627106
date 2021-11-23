@@ -315,8 +315,11 @@
                 },
                 {
                   "text": "Horacio Rodríguez Larreta",
-                  "type": "internal",
-                  "page": ":es:Horacio Rodríguez Larreta (procurador)"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "type": "internal",

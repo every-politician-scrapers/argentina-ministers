@@ -90,9 +90,11 @@
             "text": "Rolando Figueroa\nMarcos Koopmann",
             "links": [
               {
-                "text": "Rolando Figueroa",
-                "type": "internal",
-                "page": ":es:Rolando Figueroa"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },

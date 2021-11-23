@@ -148,9 +148,11 @@
             "text": "Baldomero Álvarez de Olivera",
             "links": [
               {
-                "text": "Baldomero Álvarez de Olivera",
-                "type": "internal",
-                "page": ":es:Baldomero Álvarez de Olivera"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
@@ -235,9 +237,11 @@
                   "page": "Buenos Aires"
                 },
                 {
-                  "text": "Alfredo Ferraresi",
-                  "type": "internal",
-                  "page": ":es:Alfredo Ferraresi"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "text": "CGTA",
@@ -320,9 +324,11 @@
               "text": "From there he went on to serve as Secretary of Public Works and Services at the municipality of Avellaneda from 1991 to 2001 and again from 2003 to 2009; this latter term under intendente Baldomero Álvarez de Olivera.",
               "links": [
                 {
-                  "text": "Baldomero Álvarez de Olivera",
-                  "type": "internal",
-                  "page": ":es:Baldomero Álvarez de Olivera"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 }
               ],
               "formatting": {

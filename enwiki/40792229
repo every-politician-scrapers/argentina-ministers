@@ -340,7 +340,7 @@
             ]
           },
           "otherparty": {
-            "text": "Front for Victory (2011–2017)\nCitizen's Unity (2017–2019) Frente de Todos (2019–present)",
+            "text": "Front for Victory (2011–2017)\nCitizen's Unity (2017–2019)\nFrente de Todos (2019–present)",
             "links": [
               {
                 "type": "internal",
@@ -375,18 +375,6 @@
         }
       ],
       "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
         {
           "template": "citation",
           "type": "inline",
@@ -482,6 +470,12 @@
           "date": "30 June 2014",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "El creyente: ¿Quién es Axel Kicilloff?",

@@ -166,15 +166,15 @@
       ],
       "templates": [
         {
+          "description": "President of Argentina since 2019",
+          "template": "short description"
+        },
+        {
           "template": "other people"
         },
         {
           "date": "July 2020",
           "template": "use dmy dates"
-        },
-        {
-          "description": "President of Argentina since 2019",
-          "template": "short description"
         },
         {
           "year": "1959",
@@ -376,7 +376,7 @@
             ]
           },
           "otherparty": {
-            "text": "Renewal Front (2013-2017) UNIR Constitutional Nationalist Party (1982–1983)",
+            "text": "Renewal Front (2013-2017)\nUNIR Constitutional Nationalist Party (1982–1983)",
             "links": [
               {
                 "type": "internal",
@@ -2269,7 +2269,7 @@
         {
           "url": "https://www.infobae.com/america/america-latina/2020/02/13/jair-bolsonaro-quiero-una-argentina-fuerte-no-una-patria-bolivariana/",
           "work": "Infobae",
-          "title": "Jair Bolsonaro: “Quiero una Argentina fuerte, no una patria bolivariana”",
+          "title": "Jair Bolsonaro: \"Quiero una Argentina fuerte, no una patria bolivariana\"",
           "date": "13 February 2020",
           "access-date": "16 December 2020",
           "language": "es",
@@ -2279,7 +2279,7 @@
         {
           "url": "https://www.clarin.com/politica/alberto-fernandez-jair-bolsonaro-mantuvieron-primera-conversacion_0_42zNAbF3D.html",
           "work": "Clarín",
-          "title": "Alberto Fernández mantuvo su primera conversación con Jair Bolsonaro: “La única diferencia que tenemos es en el fútbol”",
+          "title": "Alberto Fernández mantuvo su primera conversación con Jair Bolsonaro: \"La única diferencia que tenemos es en el fútbol\"",
           "last": "Niebieskikwiat",
           "first": "Natasha",
           "date": "30 November 2020",
@@ -2877,7 +2877,7 @@
           "type": "news"
         },
         {
-          "title": "\"Son verdaderas las fotos de Alberto Fernández sin barbijo y sin distanciamiento social",
+          "title": "Son verdaderas las fotos de Alberto Fernández sin barbijo y sin distanciamiento social",
           "url": "https://chequeado.com/verificacionfb/son-verdaderas-las-fotos-de-alberto-fernandez-sin-barbijo-y-sin-distanciamiento-social-en-formosa/",
           "work": "Chequeado",
           "language": "es",
@@ -2901,7 +2901,7 @@
           "type": "news"
         },
         {
-          "title": "Alberto Fernandez: “Estuve en la calle manejando y vi que la gente en CABA sale y camina”",
+          "title": "Alberto Fernandez: \"Estuve en la calle manejando y vi que la gente en CABA sale y camina\"",
           "work": "Infobae",
           "url": "https://www.infobae.com/politica/2020/09/03/alberto-fernandez-estuve-en-la-calle-manejando-y-vi-que-la-gente-en-caba-sale-y-camina/",
           "language": "es",
@@ -3532,7 +3532,7 @@
                 {
                   "text": "cosplayer",
                   "type": "internal",
-                  "page": "Cosplay"
+                  "page": "cosplay"
                 }
               ]
             }

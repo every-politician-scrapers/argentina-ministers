@@ -157,9 +157,11 @@
             "text": "Carlos Haquim",
             "links": [
               {
-                "text": "Carlos Haquim",
-                "type": "internal",
-                "page": ":es:Carlos Haquim"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },

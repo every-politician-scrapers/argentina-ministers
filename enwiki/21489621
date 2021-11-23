@@ -366,8 +366,11 @@
               },
               {
                 "text": "1País",
-                "type": "internal",
-                "page": ":es:1País"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               },
               {
                 "text": "Frente de Todos",

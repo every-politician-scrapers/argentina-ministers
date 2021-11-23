@@ -216,9 +216,11 @@
               "text": "Raúl Alejandro Jalil was born on 25 August 1963, son of José Guido Jalil, a physician and politician of Lebanese origin who was mayor of San Fernando del Valle de Catamarca from 1987 to 1991.",
               "links": [
                 {
-                  "text": "José Guido Jalil",
-                  "type": "internal",
-                  "page": ":es:José Guido Jalil"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "text": "Lebanese origin",

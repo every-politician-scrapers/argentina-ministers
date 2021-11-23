@@ -280,8 +280,11 @@
               "links": [
                 {
                   "text": "Peronist Youth",
-                  "type": "internal",
-                  "page": ":es:Juventud Peronista"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 }
               ]
             },

@@ -133,9 +133,11 @@
             "text": "Dante Sica (as Minister of Production and Labour)",
             "links": [
               {
-                "text": "Dante Sica",
-                "type": "internal",
-                "page": ":es:Dante Sica"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
@@ -177,9 +179,11 @@
             "text": "Ricardo Echegaray",
             "links": [
               {
-                "text": "Ricardo Echegaray",
-                "type": "internal",
-                "page": ":es:Ricardo Echegaray"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
@@ -595,9 +599,11 @@
                   "page": "Alberto Fernández"
                 },
                 {
-                  "text": "Dante Sica",
-                  "type": "internal",
-                  "page": ":es:Dante Sica"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 }
               ]
             }

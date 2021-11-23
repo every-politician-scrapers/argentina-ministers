@@ -975,8 +975,11 @@
             "links": [
               {
                 "text": "Wikipedia Español",
-                "type": "internal",
-                "page": ":es:Alberto Rodríguez Saá"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },

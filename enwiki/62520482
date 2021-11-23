@@ -222,9 +222,11 @@
               "text": "His theoretical influences include Carlos Daniel Heymann and Joseph Stiglitz.",
               "links": [
                 {
-                  "text": "Carlos Daniel Heymann",
-                  "type": "internal",
-                  "page": ":es:Carlos Daniel Heymann"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "type": "internal",
