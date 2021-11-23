@@ -300,8 +300,11 @@
                 },
                 {
                   "text": "2000 local election",
-                  "type": "internal",
-                  "page": ":es:Elecciones de la Ciudad Autónoma de Buenos Aires de 2000"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "type": "internal",

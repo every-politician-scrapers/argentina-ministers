@@ -269,9 +269,11 @@
             "text": "Aída Ayala",
             "links": [
               {
-                "text": "Aída Ayala",
-                "type": "internal",
-                "page": ":es:Aída Ayala"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },

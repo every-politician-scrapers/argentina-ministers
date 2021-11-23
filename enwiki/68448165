@@ -154,9 +154,11 @@
             "text": "Luis Emilio Acuña",
             "links": [
               {
-                "text": "Luis Emilio Acuña",
-                "type": "internal",
-                "page": ":es:Luis Emilio Acuña"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
@@ -230,8 +232,11 @@
               "links": [
                 {
                   "text": "Luis \"Patita\" Minervino",
-                  "type": "internal",
-                  "page": ":es:Luis Minervino"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "type": "internal",

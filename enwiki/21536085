@@ -86,8 +86,11 @@
               "links": [
                 {
                   "text": "Cortázar",
-                  "type": "internal",
-                  "page": ":es:Cortázar (película)"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "text": "Iluminados por el fuego",

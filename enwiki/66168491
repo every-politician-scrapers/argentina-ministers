@@ -218,8 +218,11 @@
             "links": [
               {
                 "text": "Encounter for Corrientes",
-                "type": "internal",
-                "page": ":es:Encuentro por Corrientes"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
@@ -359,9 +362,11 @@
                   "page": "2013 Argentine legislative election"
                 },
                 {
-                  "text": "Encuentro por Corrientes",
-                  "type": "internal",
-                  "page": ":es:Encuentro por Corrientes"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 }
               ],
               "formatting": {
@@ -379,9 +384,11 @@
                   "page": "Council of Magistracy of the Nation"
                 },
                 {
-                  "text": "José Antonio Romero Feris",
-                  "type": "internal",
-                  "page": ":es:José Antonio Romero Feris"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 }
               ]
             }
