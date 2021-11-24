@@ -205,13 +205,7 @@
             ]
           },
           "predecessor1": {
-            "text": "Albor Cantard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albor Cantard"
-              }
-            ]
+            "text": "Pablo Domenichini"
           },
           "office2": {
             "text": "Secretary of Education",
@@ -382,7 +376,7 @@
           "template": "s-aft"
         },
         {
-          "before": "Albor Cantard",
+          "before": "Pablo Domenichini",
           "template": "s-bef"
         },
         {

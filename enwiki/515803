@@ -3132,16 +3132,25 @@
       ],
       "references": [
         {
+          "title": "Peronists may lose Argentina Congress for first time in 40 years",
+          "url": "https://www.aljazeera.com/news/2021/11/15/argentinas-peronists-looks-set-to-lose-senate-control",
+          "work": "www.aljazeera.com",
+          "language": "en",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
+          "last1": "Bronstein",
+          "first1": "Hugh",
+          "last2": "Misculin",
+          "first2": "Nicolás",
+          "title": "Argentina's Peronists on the ropes after bruising midterm defeat",
+          "url": "https://www.reuters.com/world/americas/argentines-vote-midterm-trial-by-fire-president-fernandez-2021-11-14/",
+          "work": "Reuters",
+          "date": "15 November 2021",
+          "language": "en",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         }
       ]
     },
