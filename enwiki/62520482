@@ -316,9 +316,24 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "El Papa Francisco nombró a Martín Maximiliano Guzmán miembro de número de la Pontificia Academia de Ciencias Sociales el 27 de noviembre de 2021."
+            }
+          ]
         }
       ],
       "references": [
+        {
+          "title": "Nomina di Membro Ordinario della Pontificia Accademia delle Scienze Sociali",
+          "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2021/11/27/0791/01668.html",
+          "website": "Oficina de prensa de la Santa Sede",
+          "accessdate": "27 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Martin M Guzman",
           "url": "https://www8.gsb.columbia.edu/cbs-directory/detail/mg3463",
