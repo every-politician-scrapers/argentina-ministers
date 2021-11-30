@@ -416,9 +416,11 @@
             "text": "Jorge Matzkin",
             "links": [
               {
-                "text": "Jorge Matzkin",
-                "type": "internal",
-                "page": ":es:Jorge Matzkin"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },

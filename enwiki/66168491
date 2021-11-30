@@ -218,8 +218,11 @@
             "links": [
               {
                 "text": "Encounter for Corrientes",
-                "type": "internal",
-                "page": ":es:Encuentro por Corrientes"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },

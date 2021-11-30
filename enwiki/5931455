@@ -88,9 +88,11 @@
               "text": "His father was Jorge Alberto Taiana, colleague and physician of former President Juan Perón.",
               "links": [
                 {
-                  "text": "Jorge Alberto Taiana",
-                  "type": "internal",
-                  "page": ":es:Jorge Alberto Taiana"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "type": "internal",

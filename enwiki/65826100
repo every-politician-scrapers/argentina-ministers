@@ -148,9 +148,11 @@
             "text": "Baldomero Álvarez de Olivera",
             "links": [
               {
-                "text": "Baldomero Álvarez de Olivera",
-                "type": "internal",
-                "page": ":es:Baldomero Álvarez de Olivera"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
