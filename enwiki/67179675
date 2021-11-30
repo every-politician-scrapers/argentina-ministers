@@ -77,11 +77,9 @@
                   "page": "Carlos Soria"
                 },
                 {
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "es"
-                  }
+                  "text": "María Emilia Soria",
+                  "type": "internal",
+                  "page": ":es:María Emilia Soria"
                 }
               ],
               "formatting": {
@@ -209,11 +207,9 @@
             "text": "María Emilia Soria",
             "links": [
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "text": "María Emilia Soria",
+                "type": "internal",
+                "page": ":es:María Emilia Soria"
               }
             ]
           },
@@ -321,101 +317,6 @@
           "template": "citation",
           "type": "web"
         }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "commons"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Carlos Soria",
-          "template": "s-bef"
-        },
-        {
-          "title": "Mayor of General Roca",
-          "years": "2011–2019",
-          "template": "s-ttl"
-        },
-        {
-          "after": "María Emilia Soria",
-          "template": "s-aft"
-        },
-        {
-          "before": "Marcela Losardo",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Justice and Human Rights",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Incumbent",
-          "template": "s-aft"
-        },
-        {
-          "template": "argentine deputies, 2019–2021"
-        },
-        {
-          "template": "alberto fernández cabinet"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "argentina-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Official website of the Ministry of Justice and Human Rights (in Spanish)",
-            "links": [
-              {
-                "text": "Official website of the Ministry of Justice and Human Rights",
-                "type": "external",
-                "site": "https://www.argentina.gob.ar/justicia"
-              }
-            ]
-          },
-          {
-            "text": "@SoriaEnAccion on Twitter",
-            "links": [
-              {
-                "text": "@SoriaEnAccion",
-                "type": "external",
-                "site": "https://twitter.com/soriaenaccion"
-              },
-              {
-                "type": "internal",
-                "page": "Twitter"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

@@ -90,11 +90,9 @@
             "text": "Rolando Figueroa\nMarcos Koopmann",
             "links": [
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "text": "Rolando Figueroa",
+                "type": "internal",
+                "page": ":es:Rolando Figueroa"
               }
             ]
           },
@@ -179,21 +177,6 @@
           "access-date": "March 1, 2017",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "argentinagovernors"
-        },
-        {
-          "template": "argentina-politician-stub"
         }
       ]
     }

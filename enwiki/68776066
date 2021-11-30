@@ -98,11 +98,8 @@
                 },
                 {
                   "text": "National University of Hurlingham",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "es"
-                  }
+                  "type": "internal",
+                  "page": ":es:Universidad Nacional de Hurlingham"
                 }
               ]
             }
@@ -325,86 +322,6 @@
           "language": "es",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        },
-        {
-          "sentences": []
-        },
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "id": "jaimeperczyk",
-          "template": "twitter"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "María Inés Abrile",
-          "template": "s-bef"
-        },
-        {
-          "title": "Secretary of Education",
-          "years": "2011–2015",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Elena Mariana Duro",
-          "template": "s-aft"
-        },
-        {
-          "before": "Pablo Domenichini",
-          "template": "s-bef"
-        },
-        {
-          "title": "Secretary of University Policies",
-          "years": "2019–2021",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Vacant",
-          "template": "s-aft"
-        },
-        {
-          "before": "Nicolás Trotta",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Education",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "alberto fernández cabinet"
-        },
-        {
-          "template": "argentina-politician-stub"
         }
       ]
     }

@@ -181,18 +181,14 @@
             "text": "Adán Bahl\nMaría Laura Stratta",
             "links": [
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "text": "Adán Bahl",
+                "type": "internal",
+                "page": ":es:Adán Bahl"
               },
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "text": "María Laura Stratta",
+                "type": "internal",
+                "page": ":es:María Laura Stratta"
               }
             ]
           },
@@ -317,67 +313,6 @@
           "template": "citation",
           "type": "web"
         }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "commons category"
-        },
-        {
-          "list": [
-            "es"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "before": "Sergio Urribarri",
-          "template": "s-bef"
-        },
-        {
-          "title": "Governor of Entre Ríos",
-          "years": "December 10, 2015 – present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "argentinagovernors"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Official site",
-            "links": [
-              {
-                "text": "Official site",
-                "type": "external",
-                "site": "https://web.archive.org/web/20160827111005/http://www.gustavobordet.com.ar/"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]
