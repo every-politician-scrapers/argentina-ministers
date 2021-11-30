@@ -100,9 +100,11 @@
             "text": "Ricardo Sastre",
             "links": [
               {
-                "text": "Ricardo Sastre",
-                "type": "internal",
-                "page": ":es:Ricardo Sastre"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
@@ -150,9 +152,11 @@
             "text": "Ricardo Sastre",
             "links": [
               {
-                "text": "Ricardo Sastre",
-                "type": "internal",
-                "page": ":es:Ricardo Sastre"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },

@@ -181,14 +181,18 @@
             "text": "Adán Bahl\nMaría Laura Stratta",
             "links": [
               {
-                "text": "Adán Bahl",
-                "type": "internal",
-                "page": ":es:Adán Bahl"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               },
               {
-                "text": "María Laura Stratta",
-                "type": "internal",
-                "page": ":es:María Laura Stratta"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
               }
             ]
           },
