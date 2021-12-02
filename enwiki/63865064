@@ -163,11 +163,8 @@
             "text": "Eric Calcagno",
             "links": [
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "type": "internal",
+                "page": "Eric Calcagno"
               }
             ]
           },
