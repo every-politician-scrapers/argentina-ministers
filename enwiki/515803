@@ -237,6 +237,28 @@
             ]
           },
           "office1": {
+            "text": "President of the Justicialist Party",
+            "links": [
+              {
+                "text": "President of the Justicialist Party",
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 March 2021"
+          },
+          "predecessor1": {
+            "text": "José Luis Gioja",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Luis Gioja"
+              }
+            ]
+          },
+          "office2": {
             "text": "Chief of the Cabinet of Ministers",
             "links": [
               {
@@ -245,13 +267,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "25 May 2003"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "23 July 2008"
           },
-          "president1": {
+          "president2": {
             "text": "Néstor Kirchner\nCristina Fernández de Kirchner",
             "links": [
               {
@@ -264,7 +286,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Alfredo Atanasof",
             "links": [
               {
@@ -273,7 +295,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Sergio Massa",
             "links": [
               {
@@ -282,7 +304,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Legislator of Buenos Aires City",
             "links": [
               {
@@ -292,13 +314,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "7 August 2000"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "25 May 2003"
           },
-          "office3": {
+          "office4": {
             "text": "Superintendent of Insurance",
             "links": [
               {
@@ -308,13 +330,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "1 August 1989"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "8 December 1995"
           },
-          "president3": {
+          "president4": {
             "text": "Carlos Menem",
             "links": [
               {
@@ -323,10 +345,10 @@
               }
             ]
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Diego Peluffo"
           },
-          "successor3": {
+          "successor4": {
             "text": "Claudio Moroni",
             "links": [
               {
