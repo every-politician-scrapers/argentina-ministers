@@ -22,11 +22,12 @@
         {
           "sentences": [
             {
-              "text": "Alberto Ángel Fernández (born 2 April 1959) is an Argentine politician, lawyer and professor, serving as President of Argentina since 2019.",
+              "text": "Alberto Ángel Fernández (born 2 April 1959) is an Argentine politician, lawyer and professor, serving as president of Argentina since 2019.",
               "links": [
                 {
+                  "text": "president of Argentina",
                   "type": "internal",
-                  "page": "President of Argentina"
+                  "page": "president of Argentina"
                 }
               ],
               "formatting": {
@@ -389,7 +390,7 @@
             "number": 1
           },
           "party": {
-            "text": "Justicialist Party (1983–2013, 2017-present)",
+            "text": "Justicialist Party (1983–2013, 2017–present)",
             "links": [
               {
                 "type": "internal",
@@ -398,7 +399,7 @@
             ]
           },
           "otherparty": {
-            "text": "Renewal Front (2013-2017)\nUNIR Constitutional Nationalist Party (1982–1983)",
+            "text": "Renewal Front (2013–2017)\nUNIR Constitutional Nationalist Party (1982–1983)",
             "links": [
               {
                 "type": "internal",
@@ -446,6 +447,9 @@
                 "page": "Quinta de Olivos"
               }
             ]
+          },
+          "website": {
+            "text": "alferdez.com.ar"
           }
         }
       ],
