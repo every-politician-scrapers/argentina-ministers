@@ -573,14 +573,19 @@
             ]
           },
           "term_start3": {
-            "text": "10 December 2005"
+            "text": "10 December 2001"
           },
           "term_end3": {
             "text": "28 November 2007"
           },
           "constituency3": {
-            "text": "Buenos Aires",
+            "text": "Santa Cruz (2001–2005)\nBuenos Aires (2005–2007)",
             "links": [
+              {
+                "text": "Santa Cruz",
+                "type": "internal",
+                "page": "Santa Cruz Province, Argentina"
+              },
               {
                 "text": "Buenos Aires",
                 "type": "internal",
@@ -589,10 +594,10 @@
             ]
           },
           "term_start4": {
-            "text": "10 December 2001"
+            "text": "10 December 1995"
           },
           "term_end4": {
-            "text": "9 December 2005"
+            "text": "3 December 1997"
           },
           "constituency4": {
             "text": "Santa Cruz",
@@ -604,23 +609,7 @@
               }
             ]
           },
-          "term_start5": {
-            "text": "10 December 1995"
-          },
-          "term_end5": {
-            "text": "3 December 1997"
-          },
-          "constituency5": {
-            "text": "Santa Cruz",
-            "links": [
-              {
-                "text": "Santa Cruz",
-                "type": "internal",
-                "page": "Santa Cruz Province, Argentina"
-              }
-            ]
-          },
-          "office6": {
+          "office5": {
             "text": "First Lady of Argentina",
             "links": [
               {
@@ -630,16 +619,16 @@
               }
             ]
           },
-          "term_label6": {
+          "term_label5": {
             "text": "In role"
           },
-          "term_start6": {
+          "term_start5": {
             "text": "25 May 2003"
           },
-          "term_end6": {
+          "term_end5": {
             "text": "10 December 2007"
           },
-          "president6": {
+          "president5": {
             "text": "Néstor Kirchner",
             "links": [
               {
@@ -648,7 +637,7 @@
               }
             ]
           },
-          "predecessor6": {
+          "predecessor5": {
             "text": "Hilda González de Duhalde",
             "links": [
               {
@@ -657,7 +646,7 @@
               }
             ]
           },
-          "successor6": {
+          "successor5": {
             "text": "Néstor Kirchner\n(First Gentleman)",
             "links": [
               {
@@ -666,7 +655,7 @@
               }
             ]
           },
-          "office7": {
+          "office6": {
             "text": "National Deputy",
             "links": [
               {
@@ -676,13 +665,13 @@
               }
             ]
           },
-          "term_start7": {
+          "term_start6": {
             "text": "10 December 1997"
           },
-          "term_end7": {
+          "term_end6": {
             "text": "9 December 2001"
           },
-          "constituency7": {
+          "constituency6": {
             "text": "Santa Cruz",
             "links": [
               {
