@@ -879,8 +879,8 @@
           "type": "web"
         },
         {
-          "last": "Gallego-Díaz",
-          "first": "Soledad",
+          "last1": "Gallego-Díaz",
+          "first1": "Soledad",
           "last2": "Rebossio",
           "first2": "Alejandro",
           "date": "2011-10-24",
@@ -926,10 +926,10 @@
           "type": "news"
         },
         {
+          "url": "https://www.pagina12.com.ar/335393-sobreseyeron-a-cristina-kirchner-y-axel-kicillof-en-la-causa",
+          "title": "Sobreseyeron a Cristina Kirchner y Axel Kicillof en la causa \"dólar futuro\" &#124; el fallo fue por unanimidad y asegura que no existió delito",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "last1": "Goñi",
