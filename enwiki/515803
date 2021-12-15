@@ -96,7 +96,7 @@
         {
           "sentences": [
             {
-              "text": "A member of the center-left Peronist Justicialist Party, Fernández was the party's candidate for 2019 presidential election, defeating incumbent president Mauricio Macri, with 48% of the votes.",
+              "text": "A member of the center-left Peronist Justicialist Party, Fernández was the party's candidate for 2019 presidential election and defeated incumbent president Mauricio Macri, with 48% of the votes.",
               "links": [
                 {
                   "text": "center-left",
@@ -123,11 +123,16 @@
               ]
             },
             {
-              "text": "He started his presidency a few months before the COVID-19 pandemic in Argentina.",
+              "text": "His presidency has been dominated by the COVID-19 pandemic in Argentina, during which he imposed strict lockdown measures to suppress the spread of the disease.",
               "links": [
                 {
                   "type": "internal",
                   "page": "COVID-19 pandemic in Argentina"
+                },
+                {
+                  "text": "lockdown",
+                  "type": "internal",
+                  "page": "lockdown"
                 }
               ]
             }
@@ -136,7 +141,7 @@
         {
           "sentences": [
             {
-              "text": "In foreign policy, during early months of his presidency, Fernández considered Argentina's relationship with Brazil to be suffering due to conflicts with Brazil's president Jair Bolsonaro.",
+              "text": "In foreign policy, during early months of his presidency, Argentina's relations with Brazil suffered due to conflict with Brazilian president Jair Bolsonaro.",
               "links": [
                 {
                   "type": "internal",
@@ -145,8 +150,13 @@
               ]
             },
             {
-              "text": "He questioned the conclusions of the Organization of American States that the reelection of Evo Morales was unconstitutional for electoral fraud.",
+              "text": "Following the 2019 Bolivian general election, Fernández questioned the conclusion of the Organization of American States that the reelection of Evo Morales was illegitimate due to electoral fraud.",
               "links": [
+                {
+                  "text": "2019 Bolivian general election",
+                  "type": "internal",
+                  "page": "2019 Bolivian general election"
+                },
                 {
                   "type": "internal",
                   "page": "Organization of American States"
@@ -462,6 +472,14 @@
           "access-date": "6 September 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Bloomberg - Are you a robot?",
+          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7889068d-5cf4-11ec-91f3-46716c6e5a52&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMy0yMC9hcmdlbnRpbmEtb3JkZXJzLWV4Y2VwdGlvbmFsLWxvY2tkb3duLWluLWJpZC10by1jb250YWluLXZpcnVz",
+          "access-date": "2021-12-14",
+          "website": "www.bloomberg.com",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.clarin.com/opinion/argentina-brasil-incierto-escenario-relacion-indispensable_0_Ke93T5q0.html",
