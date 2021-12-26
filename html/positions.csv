@@ -1,0 +1,52 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q12969145,President of Argentina,Q414,Q414,,Q697307,1826,,,,President of Argentina
+Q2914766,Vice President of Argentina,Q414,Q414,,Q5087703,,,,,
+Q29582802,Minister of Agriculture of Argentina,Q414,Q414,,,,,,,
+Q110125512,Minister of Communication of Argentina,,Q414,,,,,,,
+Q108550593,Minister of Culture,Q414,Q414,,,,,,,
+Q24258967,Minister of Defence,Q414,Q414,,,,,,,
+Q108550498,Minister of Economy,Q414,Q414,,,,,,,
+Q28149889,Minister of Education of Argentina,Q414,Q414,,,,,,,
+Q41153369,Minister of the Environment and Sustainable Development,Q414,Q414,,,,,,,
+Q108550536,Minister of Foreign Affairs and Worship,Q414,Q414,,,,,,,
+Q28504123,Minister of Health,Q414,Q414,,,,,,,
+Q28503295,minister of Justice and Human Rights of Argentina,Q414,Q414,,,,,,,
+Q28146978,Minister of Labour,Q414,Q414,,,,,,,
+Q28146983,Minister of Production,Q414,Q414,,,,,,,
+Q108550488,Minister of Public Works,Q414,Q414,,,,,,,
+Q78281209,"Minister of Science, Technology and Innovation",Q414,Q414,,,,,,,
+Q41585603,Minister of Security,Q414,Q414,,,,,,,
+Q108550607,Minister of Social Development,Q414,Q414,,,,,,,
+Q108550549,Minister of Territorial Development and Habitat,Q414,Q414,,,,,,,
+Q108550507,Minister of Tourism and Sports,Q414,Q414,,,,,,,
+Q108550600,Minister of Transport,Q414,Q414,,,,,,,
+Q78280470,"Minister of Women, Genders and Diversity",Q414,Q414,,,,,,,
+Q108750548,Secretary of Malvinas Affairs,Q414,Q414,,,,,,,
+Q2602792,Chief of the Cabinet of Ministers of Argentina,Q414,Q414,,,1995,,,,Chief of the Cabinet of Ministers
+Q108750501,President of the Argentine Chamber of Deputies,Q414,Q414,,Q24062643,,,,,
+Q17626067,Attorney General of Argentina,Q414,Q414,,,1863-01-15,,,,
+Q94849947,Chief of the Air Force General Staff,Q414,Q414,,,,,,,
+Q94846182,Chief of the Navy General Staff,Q414,Q414,,,,,,,
+Q108750597,General Secretary of the Presidency of Argentina,Q414,Q414,,,,,,,
+Q1425955,Governor of Buenos Aires Province,Q414,Q44754,,,,,,,Governor of Buenos Aires Province
+Q16571930,governor of the province of Catamarca,Q414,Q44756,,Q6352182,,,,,Governor of Catamarca Province
+Q6352224,Governor of Chaco Province,Q414,Q44757,,,,,,,Governor of Chaco Province
+Q23978846,Governor of Chubut Province,Q414,Q45007,,,,,,,Governor of Chubut Province
+Q23979143,Governor of Corrientes province,Q414,Q44758,,Q3249996,,,,,Governor of Corrientes Province
+Q3249940,Governor of Córdoba,Q414,Q44759,,Q74748693,,,,,
+Q23979151,Governor of Entre Ríos,Q414,Q44762,,,1814-09-10,,,,Governor of Entre Ríos Province
+Q23979499,Governor of Formosa Province,Q414,Q44761,,,,,,,Governor of Formosa Province
+Q23979520,Governor of Jujuy Province,Q414,Q44764,,,,,,,Governor of Jujuy Province
+Q4122443,Governor of La Rioja Province,Q414,Q44796,,,,,,,Governor of La Rioja Province
+Q5589678,Governor of Mendoza,Q414,Q44797,,,,,,,Governor of Mendoza Province
+Q23979210,Governor of Misiones province,Q414,Q44798,,Q6352206,,,,,
+Q5881767,Governor of Neuquén province,Q414,Q44800,,Q6352220,,,,,Governor of Neuquén Province
+Q23979080,Governor of Río Negro Province,Q414,Q44802,,Q23921171,,,,,Governor of Río Negro Province
+Q23979539,Governor of Salta Province,Q414,Q44803,,,,,,,Governor of Salta Province
+Q23979097,Governor of San Juan province,Q414,Q44805,Q66712725,Q4138770,,,,,Governor of San Juan Province
+Q23978750,Governor of San Luis province,Q414,Q44818,,Q6572196,,,,,
+Q23978757,Governor of Santa Cruz province,Q414,Q44821,,Q6572198,,,,,
+Q5589713,Governor of Santa Fe Province,Q414,Q44823,,,,,,,Governor of Santa Fe Province
+Q23979135,Governor of Santiago del Estero,Q414,Q44827,,,,,,,Governor of Santiago del Estero
+Q23979073,Governor of Tierra del Fuego,Q414,Q44832,,Q6572210,,,,,
+Q23979122,Governor of Tucumán Province,Q414,Q44829,,,,,,,Governor of Tucumán Province
