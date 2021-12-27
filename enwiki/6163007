@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Gildo Insfrán (born January 19, 1951) is an Argentine Justicialist Party (PJ) politician, who has been Governor of Formosa Province since 1995.",
+              "text": "Gildo Insfrán (born 19 January 1951) is an Argentine Justicialist Party (PJ) politician, who has been Governor of Formosa Province since 1995.",
               "links": [
                 {
                   "text": "Argentine",
@@ -30,6 +30,11 @@
                 {
                   "type": "internal",
                   "page": "Justicialist Party"
+                },
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "Governor of Formosa Province"
                 },
                 {
                   "type": "internal",
@@ -88,6 +93,7 @@
           "year": "1951",
           "month": "1",
           "day": "19",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -100,17 +106,28 @@
             "text": "Gildo Insfran.jpg"
           },
           "office": {
-            "text": "Governor of Formosa Province"
+            "text": "Governor of Formosa",
+            "links": [
+              {
+                "text": "Governor of Formosa",
+                "type": "internal",
+                "page": "Governor of Formosa Province"
+              }
+            ]
           },
           "term_start": {
-            "text": "December 10, 1995"
+            "text": "10 December 1995"
           },
-          "lieutenant": {
-            "text": "Floro Bogado",
+          "vicegovernor": {
+            "text": "Floro Bogado (1995–2017)\nEber Solís (2019–present)",
             "links": [
               {
                 "type": "internal",
                 "page": "Floro Bogado"
+              },
+              {
+                "type": "internal",
+                "page": "Eber Solís"
               }
             ]
           },
@@ -123,15 +140,64 @@
               }
             ]
           },
+          "office1": {
+            "text": "Vice Governor of Formosa",
+            "links": [
+              {
+                "text": "Vice Governor of Formosa",
+                "type": "internal",
+                "page": "Governor of Formosa Province"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 December 1987"
+          },
+          "term_end1": {
+            "text": "10 December 1995"
+          },
+          "governor1": {
+            "text": "Vicente Joga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vicente Joga"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Lisbel Rivira",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lisbel Rivira"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Floro Bogado",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Floro Bogado"
+              }
+            ]
+          },
           "birth_date": {
             "text": "January 19, 1951"
           },
           "birth_place": {
-            "text": "Laguna Blanca (Formosa)",
+            "text": "Laguna Blanca, Formosa, Argentina",
             "links": [
               {
+                "text": "Laguna Blanca",
                 "type": "internal",
-                "page": "Laguna Blanca (Formosa)"
+                "page": "Laguna Blanca, Formosa"
+              },
+              {
+                "text": "Formosa",
+                "type": "internal",
+                "page": "Formosa Province"
               }
             ]
           },
