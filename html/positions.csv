@@ -10,6 +10,7 @@ Q28149889,Minister of Education of Argentina,Q414,Q414,,,,,,,
 Q41153369,Minister of the Environment and Sustainable Development,Q414,Q414,,,,,,,
 Q108550536,Minister of Foreign Affairs and Worship,Q414,Q414,,,,,,,
 Q28504123,Minister of Health,Q414,Q414,,,,,,,
+Q108550461,Minister of the Interior,Q414,Q414,,Q105099834,,,,,
 Q28503295,minister of Justice and Human Rights of Argentina,Q414,Q414,,,,,,,
 Q28146978,Minister of Labour,Q414,Q414,,,,,,,
 Q28146983,Minister of Production,Q414,Q414,,,,,,,
@@ -26,6 +27,7 @@ Q2602792,Chief of the Cabinet of Ministers of Argentina,Q414,Q414,,,1995,,,,Chie
 Q108750501,President of the Argentine Chamber of Deputies,Q414,Q414,,Q24062643,,,,,
 Q17626067,Attorney General of Argentina,Q414,Q414,,,1863-01-15,,,,
 Q94849947,Chief of the Air Force General Staff,Q414,Q414,,,,,,,
+Q89856397,Chief of the Army General Staff,Q414,Q414,,,,,Q94972116,,
 Q94846182,Chief of the Navy General Staff,Q414,Q414,,,,,,,
 Q108750597,General Secretary of the Presidency of Argentina,Q414,Q414,,,,,,,
 Q1425955,Governor of Buenos Aires Province,Q414,Q44754,,,,,,,Governor of Buenos Aires Province
@@ -50,3 +52,4 @@ Q5589713,Governor of Santa Fe Province,Q414,Q44823,,,,,,,Governor of Santa Fe Pr
 Q23979135,Governor of Santiago del Estero,Q414,Q44827,,,,,,,Governor of Santiago del Estero
 Q23979073,Governor of Tierra del Fuego,Q414,Q44832,,Q6572210,,,,,
 Q23979122,Governor of Tucumán Province,Q414,Q44829,,,,,,,Governor of Tucumán Province
+Q21693118,Head of Government of the Autonomous City of Buenos Aires,Q414,Q1486,,,1996-08-07,,Q21693213,,
