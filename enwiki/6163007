@@ -214,26 +214,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Werner",
-          "first": "Ruth",
-          "title": "Gildo Insfrán es kirchnerista y Formosa también es Argentina",
-          "work": "PTS",
-          "date": "Dec 2, 2010",
-          "url": "http://www.pts.org.ar/Gildo-Insfran-es-kirchnerista-y-Formosa-tambien-es-Argentina",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Denuncian la corrupción y la inequidad en Formosa",
-          "work": "Clarin",
-          "date": "Aug 19, 2012",
-          "url": "http://www.clarin.com/politica/Denuncian-corrupcion-inequidad-Formosa_0_758324364.html",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

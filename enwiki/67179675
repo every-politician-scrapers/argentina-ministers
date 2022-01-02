@@ -263,64 +263,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.lanacion.com.ar/politica/martin-soria-asume-hoy-como-ministro-de-justicia-nid29032021/",
-          "work": "La Nación",
-          "title": "Asumió Soria. “Losardo hizo exactamente lo que yo le pedí”, afirmó Alberto Fernández",
-          "date": "29 March 2021",
-          "access-date": "29 March 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://elpais.com/internacional/2021-03-16/alberto-fernandez-nombra-a-martin-soria-un-politico-cercano-a-cristina-kirchner-como-ministro-de-justicia.html",
-          "work": "El País",
-          "title": "Alberto Fernández nombra a Martín Soria, un político cercano a Cristina Kirchner, como ministro de Justicia",
-          "last": "González",
-          "first": "Enric",
-          "date": "16 March 2021",
-          "access-date": "22 March 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "work": "Infobae",
-          "url": "https://www.infobae.com/politica/2021/03/16/martin-soria-el-nuevo-ministro-de-justicia-asumira-el-viernes-26-de-marzo/",
-          "title": "Martín Soria, el nuevo ministro de Justicia, asumirá el viernes 26 de marzo",
-          "date": "16 March 2021",
-          "access-date": "22 March 2021",
-          "last": "Menegazzi",
-          "first": "Eduardo",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.pagina12.com.ar/329715-quien-es-martin-soria-el-nuevo-ministro-de-justicia",
-          "work": "Página/12",
-          "title": "Quién es Martín Soria, el nuevo ministro de Justicia",
-          "date": "15 March 2021",
-          "access-date": "22 March 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://argentina.as.com/argentina/2021/03/16/actualidad/1615896664_782594.html",
-          "work": "AS",
-          "title": "Conocé a Martín Soria, el sustituto de Marcela Losardo y nuevo ministro de Justicia",
-          "last": "Cannataro",
-          "first": "Micaela",
-          "date": "16 March 2021",
-          "access-date": "22 March 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

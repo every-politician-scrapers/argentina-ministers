@@ -189,30 +189,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Gustavo Melella será el primer gobernador abiertamente gay de Argentina {{!}} El Diario 24",
-          "url": "https://www.eldiario24.com/nota/argentina/433473/gustavo-melella-sera-primer-gobernador-abiertamente-gay-argentina.html",
-          "access-date": "14 July 2019",
-          "work": "www.eldiario24.com",
-          "date": "18 June 2019",
-          "language": "Spanish",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.lanacion.com.ar/politica/tierra-del-fuego-melella-se-impuso-bertone-nid2258732",
-          "work": "La Nación",
-          "title": "Tierra del Fuego: Melella se impuso a Bertone en primera vuelta",
-          "date": "17 June 2019",
-          "access-date": "23 November 2020",
-          "language": "Spanish",
-          "last": "Arias",
-          "first": "Mariela",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
