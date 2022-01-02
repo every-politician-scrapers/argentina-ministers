@@ -332,29 +332,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://en.mercopress.com/2019/12/30/filmus-officially-appointed-as-malvinas-antarctica-and-south-atlantic-secretary",
-          "work": "MercoPress",
-          "title": "Filmus officially appointed as Malvinas, Antarctica and South Atlantic Secretary",
-          "date": "30 December 2019",
-          "access-date": "12 December 2020",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.theguardian.com/uk-news/2014/jan/07/falkland-islands-argentina-malvinas-secretary",
-          "work": "The Guardian",
-          "title": "Falkland islands: Argentina appoints Malvinas secretary",
-          "last": "Watts",
-          "first": "Jonathan",
-          "date": "7 January 2014",
-          "access-date": "12 December 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -268,55 +268,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.lanacion.com.ar/1841235-entre-rios-gustavo-bordet-fue-confirmado-como-gobernador-electo",
-          "title": "Entre Ríos: Gustavo Bordet fue confirmado como Gobernador electo",
-          "trans-title": "Entre Ríos: Gustavo Bordet was confirmed as elected governor",
-          "language": "Spanish",
-          "date": "October 30, 2015",
-          "publisher": "La Nación",
-          "accessdate": "November 15, 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.informedigital.com.ar/secciones/facetags/perfil.php?id=74997",
-          "title": "Perfil de Gustavo Bordet",
-          "trans-title": "Profile of Gustavo Bordet",
-          "language": "Spanish",
-          "publisher": "Informe Digital",
-          "accessdate": "November 15, 2016",
-          "archive-url": "https://web.archive.org/web/20150822014018/http://www.informedigital.com.ar/secciones/facetags/perfil.php?id=74997",
-          "archive-date": "August 22, 2015",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.unoentrerios.com.ar/en-el-peronismo-se-vislumbra-un-proceso-unidad-2017-n1283160.html",
-          "title": "En el peronismo se vislumbra un proceso de unidad hacia 2017",
-          "trans-title": "There seems to be a process of unity in Peronism towards 2017",
-          "language": "Spanish",
-          "author": "Carlos Matteoda",
-          "date": "November 15, 2016",
-          "publisher": "Uno",
-          "accessdate": "November 15, 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.elentrerios.com/politica/plan-canje-entre-macri-y-bordet.htm",
-          "title": "Plan canje entre Macri y Bordet",
-          "trans-title": "Exchange plan between Macri and Bordet",
-          "language": "Spanish",
-          "date": "November 1, 2016",
-          "publisher": "Uno",
-          "accessdate": "November 16, 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -93,52 +93,6 @@
             "text": "December 14, 1962"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Jefe del Estado Mayor General de la Armada",
-          "language": "es",
-          "work": "Ministerio de Defensa",
-          "url": "https://www.argentina.gob.ar/armada/autoridades/curriculum-del-jefe-de-estado-mayor-general-de-la-armada",
-          "url-status": "live",
-          "access-date": "25 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "20 February 2020",
-          "title": "El Gobierno designó la nueva conducción de las Fuerzas Armadas",
-          "language": "es",
-          "work": "LA NACION",
-          "url": "https://www.lanacion.com.ar/politica/el-gobierno-designo-nueva-conduccion-fuerzas-armadas-nid2335793",
-          "url-status": "live",
-          "access-date": "25 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "21 February 2020",
-          "title": "Decreto 179/2020",
-          "language": "es",
-          "work": "Boletín Oficial de la República Argentina",
-          "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/225854/20200222",
-          "url-status": "live",
-          "access-date": "25 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Bertoia",
-          "first": "Luciana",
-          "date": "22 February 2020",
-          "title": "Relatives keep up fight to uncover truth about ARA San Juan sinking",
-          "work": "Buenos Aires Times",
-          "url": "https://www.batimes.com.ar/news/argentina/relatives-keep-up-fight-to-uncover-truth-about-ara-san-juan-sinking.phtml",
-          "url-status": "live",
-          "access-date": "25 February 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

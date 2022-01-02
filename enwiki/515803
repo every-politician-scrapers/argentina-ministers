@@ -462,45 +462,6 @@
             "text": "alferdez.com.ar"
           }
         }
-      ],
-      "references": [
-        {
-          "date": "10 December 2019",
-          "title": "'We're back': Alberto Fernández sworn in as Argentina shifts to the left",
-          "work": "The Guardian",
-          "url": "https://www.theguardian.com/world/2019/dec/10/argentina-alberto-fernandez-inauguration",
-          "access-date": "6 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Bloomberg - Are you a robot?",
-          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7889068d-5cf4-11ec-91f3-46716c6e5a52&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMy0yMC9hcmdlbnRpbmEtb3JkZXJzLWV4Y2VwdGlvbmFsLWxvY2tkb3duLWluLWJpZC10by1jb250YWluLXZpcnVz",
-          "access-date": "2021-12-14",
-          "website": "www.bloomberg.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.clarin.com/opinion/argentina-brasil-incierto-escenario-relacion-indispensable_0_Ke93T5q0.html",
-          "work": "Clarín",
-          "title": "Argentina-Brasil: incierto escenario para una relación indispensable",
-          "last": "Ochoa",
-          "first": "Raúl",
-          "date": "17 February 2020",
-          "access-date": "16 December 2020",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Alberto Fernández defendió la legitimidad de la reelección de Evo Morales en Bolivia",
-          "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-salio-al-cruce-oea-defendio-nid2338427",
-          "work": "Diario La Nación",
-          "date": "29 February 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

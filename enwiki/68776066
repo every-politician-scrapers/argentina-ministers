@@ -274,58 +274,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.lanoticia1.com/noticia/quien-es-jaime-perczyk-nuevo-ministro-de-educacion-133046.html",
-          "work": "La Noticia 1",
-          "title": "Quién es Jaime Perczyk, nuevo ministro de Educación",
-          "date": "18 September 2021",
-          "access-date": "20 September 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/62322/20111212?busqueda=1",
-          "title": "Ministerio de Educación {{!}} Decreto 125/2011",
-          "work": "Boletín Oficial de la República Argentina",
-          "date": "10 December 2011",
-          "access-date": "20 September 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.pagina12.com.ar/369183-quien-es-jaime-perczyk-el-nuevo-ministro-de-educacion",
-          "work": "Página/12",
-          "title": "Quién es Jaime Perczyk, el nuevo ministro de Educación",
-          "date": "18 September 2021",
-          "access-date": "20 September 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.unahur.edu.ar/es/jaime-perczyk-es-el-nuevo-rector-de-la-universidad",
-          "work": "Universidad Nacional de Hurlingham",
-          "title": "Jaime Perczyk es el nuevo rector de la universidad",
-          "date": "14 December 2015",
-          "access-date": "20 September 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.perfil.com/noticias/politica/que-dijo-nicolas-trotta-en-su-carta-de-renuncia-al-ministerio-de-educacion.phtml",
-          "work": "Perfil",
-          "title": "Qué dijo Nicolás Trotta en su carta de renuncia al Ministerio de Educación",
-          "date": "20 September 2021",
-          "access-date": "20 September 2021",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

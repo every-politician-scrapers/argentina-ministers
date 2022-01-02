@@ -468,45 +468,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Dos denuncias de corrupción que salpicaron a Jorge Capitanich",
-          "work": "La Nación",
-          "date": "Nov 21, 2013",
-          "url": "http://www.lanacion.com.ar/1640309-dos-denuncias-de-corrupcion-que-salpicaron-a-jorge-capitanich",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "ARGENTINA, CHACO: ¿QUIEN ES JORGE MILTON CAPITANICH POPOVICH?",
-          "work": "Bajando Lineas",
-          "date": "Jun 25, 2012",
-          "url": "http://www.bajandolineas.com.ar/2012/06/argentina-chaco-quien-es-jorge-milton-capitanich-popovich/",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20150402150309/http://www.bajandolineas.com.ar/2012/06/argentina-chaco-quien-es-jorge-milton-capitanich-popovich/",
-          "archivedate": "2015-04-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Leuco",
-          "first": "Alfredo",
-          "title": "El socio de Coqui",
-          "work": "Perfil",
-          "date": "Nov 29, 2013",
-          "url": "http://www.perfil.com/columnistas/El-socio-de-Coqui-20131129-0064.html",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Quién es quién en el nuevo gabinete",
-          "work": "La Nación",
-          "date": "Nov 19, 2013",
-          "url": "http://www.lanacion.com.ar/1639640-quien-es-quien-en-el-nuevo-gabinete",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

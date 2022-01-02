@@ -300,27 +300,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "publisher": "Prensa Latina",
-          "title": "Argentine Congress welcomes 24 new senators this Wednesday",
-          "date": "27 November 2019",
-          "access-date": "27 November 2019",
-          "url": "https://www.plenglish.com/index.php?o=rn&id=49364&SEO=argentine-congress-welcomes-24-new-senators-this-wednesday",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "publisher": "Senado de Argentina",
-          "language": "es",
-          "title": "NÚMERO DE EXPEDIENTE 3320/19",
-          "date": "27 November 2019",
-          "access-date": "28 November 2019",
-          "url": "http://www.senado.gov.ar/parlamentario/comisiones/verExp/3320.19/S/CO",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

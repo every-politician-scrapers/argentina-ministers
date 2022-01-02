@@ -256,34 +256,6 @@
             "text": "Horacio Rodriguez Larreta-Signature.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.clarin.com/politica/resultados-elecciones-2019-caba-horacio-rodriguez-larreta-matias-lammens_0_HGRcv6UI.html",
-          "title": "Elecciones 2019 en CABA: Horacio Rodríguez Larreta sacó el 55% de los votos y ganó en primera vuelta",
-          "work": "Clarín",
-          "date": "27 October 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Rosemberg",
-          "first": "Jaime",
-          "url": "https://www.lanacion.com.ar/politica/un-triunfo-aplastante-que-lo-proyecta-como-el-referente-nacional-de-la-oposicion-nid2301220",
-          "title": "Elecciones 2019: un triunfo aplastante proyecta a Larreta como el referente nacional de la oposición",
-          "work": "La Nación",
-          "language": "es",
-          "date": "28 October 2019",
-          "access-date": "5 November 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
