@@ -103,7 +103,14 @@
             ]
           },
           "vicegovernor": {
-            "text": "Pablo Gonzalez (2015-2019) \nEugenio Quiroga (2019-present)"
+            "text": "Pablo Gonzalez (2015–2019) Eugenio Quiroga (2019–present)",
+            "links": [
+              {
+                "text": "Pablo Gonzalez",
+                "type": "internal",
+                "page": "Pablo Gerardo González"
+              }
+            ]
           },
           "term_start": {
             "text": "10 December 2015"
@@ -260,16 +267,15 @@
             ]
           },
           "otherparty": {
-            "text": "Frente de Todos (since 2019)\nFront for Victory (until 2019)",
+            "text": "Front for Victory (2003–2019)\nFrente de Todos (since 2019)",
             "links": [
-              {
-                "text": "Frente de Todos",
-                "type": "internal",
-                "page": "Frente de Todos (2019 coalition)"
-              },
               {
                 "type": "internal",
                 "page": "Front for Victory"
+              },
+              {
+                "type": "internal",
+                "page": "Frente de Todos"
               }
             ]
           },
