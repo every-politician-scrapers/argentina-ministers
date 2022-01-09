@@ -1,0 +1,198 @@
+{
+  "title": "Darío Martínez",
+  "pageID": 68490967,
+  "categories": [
+    "Living people",
+    "1974 births",
+    "People from Río Negro Province",
+    "Members of the Argentine Chamber of Deputies elected in Neuquén",
+    "Justicialist Party politicians",
+    "21st-century Argentine politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Normán Darío Martínez (born 3 September 1974) is an Argentine politician, currently serving as Secretary of Energy in the Ministry of Economy, in the administration of minister Martín Guzmán.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine"
+                },
+                {
+                  "text": "Ministry of Economy",
+                  "type": "internal",
+                  "page": "Ministry of Economy (Argentina)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Martín Guzmán"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Normán Darío Martínez"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Justicialist Party, Martínez previously served as a National Deputy representing Neuquén Province from 2016 to 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                },
+                {
+                  "text": "National Deputy",
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Neuquén Province"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "image": "Sesión 13-06-2018 Diputado DARIO MARTINEZ 14.jpg",
+          "bsize": "700",
+          "cwidth": "230",
+          "cheight": "300",
+          "otop": "25",
+          "oleft": "150",
+          "location": "center",
+          "template": "css image crop"
+        },
+        {
+          "year": "1974",
+          "month": "9",
+          "day": "3",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Darío Martínez"
+          },
+          "office": {
+            "text": "Secretary of Energy",
+            "links": [
+              {
+                "text": "Secretary of Energy",
+                "type": "internal",
+                "page": "Ministry of Economy (Argentina)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 August 2020"
+          },
+          "president": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sergio Lanziani",
+            "links": [
+              {
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "es"
+                }
+              }
+            ]
+          },
+          "office1": {
+            "text": "National Deputy",
+            "links": [
+              {
+                "text": "National Deputy",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 March 2016"
+          },
+          "term_end1": {
+            "text": "28 August 2020"
+          },
+          "constituency1": {
+            "text": "Neuquén",
+            "links": [
+              {
+                "text": "Neuquén",
+                "type": "internal",
+                "page": "Neuquén Province"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 3, 1974"
+          },
+          "birth_place": {
+            "text": "Ingeniero Huergo, Argentina",
+            "links": [
+              {
+                "text": "Ingeniero Huergo",
+                "type": "internal",
+                "page": "Ingeniero Luis A. Huergo"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Front for Victory (2003–2017)\nUnidad Ciudadana (2017–2019)\nFrente de Todos (2019–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Front for Victory"
+              },
+              {
+                "type": "internal",
+                "page": "Unidad Ciudadana"
+              },
+              {
+                "type": "internal",
+                "page": "Frente de Todos"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
