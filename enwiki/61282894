@@ -125,13 +125,7 @@
             "text": "Mónica Urquiza"
           },
           "predecessor": {
-            "text": "Juan Carlos Arcando",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Carlos Arcando"
-              }
-            ]
+            "text": "Juan Carlos Arcando"
           },
           "office1": {
             "text": "Mayor of Río Grande",
