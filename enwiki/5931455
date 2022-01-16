@@ -179,6 +179,24 @@
           "term_end1": {
             "text": "9 August 2021"
           },
+          "predecessor1": {
+            "text": "Cristina Fernández de Kirchner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristina Fernández de Kirchner"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Juliana Di Tullio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juliana Di Tullio"
+              }
+            ]
+          },
           "constituency1": {
             "text": "Buenos Aires",
             "links": [
