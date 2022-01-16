@@ -334,6 +334,24 @@
           "term_end5": {
             "text": "16 December 2014"
           },
+          "predecessor5": {
+            "text": "Eric Calcagno",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eric Calcagno"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Juan Manuel Abal Medina Jr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Manuel Abal Medina Jr."
+              }
+            ]
+          },
           "constituency5": {
             "text": "Buenos Aires",
             "links": [

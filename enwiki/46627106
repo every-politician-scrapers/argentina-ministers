@@ -92,7 +92,7 @@
         },
         {
           "list": [
-            "Domado de Capital"
+            "Rodríguez Larreta"
           ],
           "lang": "Argentine",
           "template": "family name hatnote"
@@ -108,7 +108,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Horacio Domado Por Yo Jajaj Down"
+            "text": "Horacio Rodríguez Larreta"
           },
           "image": {
             "text": "Horacio-Rodriguez-Larreta (cropped).jpg"
@@ -124,24 +124,23 @@
             ]
           },
           "term_start": {
-            "text": "0 December 1911"
+            "text": "10 December 2015"
           },
           "deputy": {
-            "text": "Rapha",
+            "text": "Diego Santilli",
             "links": [
               {
                 "type": "internal",
-                "page": "Rapha"
+                "page": "Diego Santilli"
               }
             ]
           },
           "predecessor": {
-            "text": "el gato macri",
+            "text": "Mauricio Macri",
             "links": [
               {
-                "text": "el gato macri",
                 "type": "internal",
-                "page": "el gato macri"
+                "page": "Mauricio Macri"
               }
             ]
           },
@@ -165,30 +164,29 @@
             "text": "Mayor"
           },
           "1namedata2": {
-            "text": "el gato macri",
+            "text": "Mauricio Macri",
             "links": [
               {
-                "text": "el gato macri",
                 "type": "internal",
-                "page": "el gato macri"
+                "page": "Mauricio Macri"
               }
             ]
           },
           "predecessor2": {
-            "text": "el gato raul"
+            "text": "Raúl Fernández"
           },
           "successor2": {
-            "text": "Felipe Kuaker"
+            "text": "Felipe Miguel"
           },
           "birth_date": {
             "text": "December 10, 1965"
           },
           "birth_place": {
-            "text": "Domados Aires, Peru",
+            "text": "Buenos Aires, Argentina",
             "links": [
               {
                 "type": "internal",
-                "page": "Domados Aires"
+                "page": "Buenos Aires"
               }
             ]
           },
