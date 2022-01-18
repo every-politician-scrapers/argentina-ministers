@@ -269,11 +269,8 @@
             "text": "Aída Ayala",
             "links": [
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "type": "internal",
+                "page": "Aída Ayala"
               }
             ]
           },
