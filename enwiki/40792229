@@ -332,11 +332,15 @@
             ]
           },
           "party": {
-            "text": "Justicialist Party (since 2021)",
+            "text": "Justicialist Party (since 2021), La Campora",
             "links": [
               {
                 "type": "internal",
                 "page": "Justicialist Party"
+              },
+              {
+                "type": "internal",
+                "page": "La Campora"
               }
             ]
           },
