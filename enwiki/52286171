@@ -188,11 +188,8 @@
                 }
               },
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "type": "internal",
+                "page": "María Laura Stratta"
               }
             ]
           },

@@ -46,12 +46,17 @@
         {
           "sentences": [
             {
-              "text": "He was previously Mayor of the City of La Rioja from 2003 to 2015, as well as a member of the provincial Chamber of Deputies during two non-consecutive terms and a National Deputy from 1997 to 2003.",
+              "text": "He was previously Mayor of the City of La Rioja from 2003 to 2015, as well as a member of the provincial legislature during two non-consecutive terms and a National Deputy from 1997 to 2003.",
               "links": [
                 {
                   "text": "City of La Rioja",
                   "type": "internal",
                   "page": "La Rioja, Argentina"
+                },
+                {
+                  "text": "provincial legislature",
+                  "type": "internal",
+                  "page": "Legislature of La Rioja"
                 },
                 {
                   "text": "National Deputy",
@@ -139,7 +144,7 @@
               {
                 "text": "Provincial Deputy of La Rioja",
                 "type": "internal",
-                "page": "La Rioja Province, Argentina"
+                "page": "Legislature of La Rioja"
               }
             ]
           },
