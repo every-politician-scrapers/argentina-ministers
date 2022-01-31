@@ -57,6 +57,11 @@
               "text": "She also served as a provincial legislator and as councilwoman in her hometown, San Carlos de Bariloche.",
               "links": [
                 {
+                  "text": "provincial legislator",
+                  "type": "internal",
+                  "page": "Legislature of Río Negro"
+                },
+                {
                   "type": "internal",
                   "page": "San Carlos de Bariloche"
                 }
@@ -147,6 +152,25 @@
                 "page": "Alberto Weretilneck"
               }
             ]
+          },
+          "office2": {
+            "text": "Provincial Legislator of Río Negro",
+            "links": [
+              {
+                "text": "Provincial Legislator of Río Negro",
+                "type": "internal",
+                "page": "Legislature of Río Negro"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 December 2011"
+          },
+          "term_end2": {
+            "text": "20 September 2017"
+          },
+          "constituency2": {
+            "text": "Provincial list"
           },
           "birth_date": {
             "text": "January 21, 1970"
