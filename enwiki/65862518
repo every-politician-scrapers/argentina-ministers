@@ -4,7 +4,7 @@
   "categories": [
     "1970 births",
     "Living people",
-    "Argentine women in politics",
+    "21st-century Argentine women politicians",
     "People from Bariloche",
     "Governors of Río Negro Province",
     "Women governors of provinces of Argentina",
@@ -176,19 +176,11 @@
             "text": "January 21, 1970"
           },
           "birth_place": {
-            "text": "San Carlos de Bariloche, Río Negro Province, Argentina",
+            "text": "Bariloche, Argentina",
             "links": [
               {
                 "type": "internal",
-                "page": "San Carlos de Bariloche"
-              },
-              {
-                "type": "internal",
-                "page": "Río Negro Province"
-              },
-              {
-                "type": "internal",
-                "page": "Argentina"
+                "page": "Bariloche"
               }
             ]
           },
