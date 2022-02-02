@@ -1,0 +1,133 @@
+{
+  "title": "Xavier Isaac",
+  "pageID": 69926947,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Military personnel from Buenos Aires",
+    "Argentine Air Force brigadiers",
+    "Argentine Air Force personnel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Xavier Julián Isaac (born 1 December 1962) is an Argentine military officer, currently serving as Chief of the General Staff of the Argentine Air Force since February 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine Air Force"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Xavier Julián Isaac"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Officer of the Argentine Air Force",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "12",
+          "day": "01",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Brigadier general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigadier general"
+              }
+            ]
+          },
+          "name": {
+            "text": "Xavier Isaac"
+          },
+          "image": {
+            "text": "Xavier_Isaac_FAA_(cropped).jpg"
+          },
+          "office": {
+            "text": "Chief of the General Staff of the Argentine Air Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Argentine Air Force"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 February 2020"
+          },
+          "predecessor": {
+            "text": "Enrique Amrein",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enrique Amrein"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 1, 1962"
+          },
+          "birth_place": {
+            "text": "Buenos Aires, Argentina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Buenos Aires"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Argentine Air Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Argentine Air Force"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇦🇷 Argentina",
+            "links": [
+              {
+                "text": "Argentina",
+                "type": "internal",
+                "page": "argentina"
+              }
+            ]
+          },
+          "rank": {
+            "text": "BG-FAA.png Brigadier general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigadier general"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1981–present"
+          }
+        }
+      ]
+    }
+  ]
+}
