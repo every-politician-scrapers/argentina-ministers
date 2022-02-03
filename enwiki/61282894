@@ -122,7 +122,13 @@
             "text": "Vice Governor"
           },
           "1namedata": {
-            "text": "Mónica Urquiza"
+            "text": "Mónica Urquiza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mónica Urquiza"
+              }
+            ]
           },
           "predecessor": {
             "text": "Juan Carlos Arcando"
@@ -131,7 +137,7 @@
             "text": "Mayor of Río Grande",
             "links": [
               {
-                "text": "Mayor of Río Grande",
+                "text": "Río Grande",
                 "type": "internal",
                 "page": "Río Grande, Tierra del Fuego"
               }
@@ -156,20 +162,11 @@
             "text": "December 2, 1970"
           },
           "birth_place": {
-            "text": "San Justo, Buenos Aires Province, Argentina",
+            "text": "San Justo, Buenos Aires, Argentina",
             "links": [
               {
-                "text": "San Justo",
                 "type": "internal",
                 "page": "San Justo, Buenos Aires"
-              },
-              {
-                "type": "internal",
-                "page": "Buenos Aires Province"
-              },
-              {
-                "type": "internal",
-                "page": "Argentina"
               }
             ]
           },
