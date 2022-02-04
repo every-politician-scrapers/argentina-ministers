@@ -77,11 +77,8 @@
                   "page": "Carlos Soria"
                 },
                 {
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "es"
-                  }
+                  "type": "internal",
+                  "page": "María Emilia Soria"
                 }
               ],
               "formatting": {
@@ -209,11 +206,8 @@
             "text": "María Emilia Soria",
             "links": [
               {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
+                "type": "internal",
+                "page": "María Emilia Soria"
               }
             ]
           },
