@@ -124,7 +124,13 @@
             ]
           },
           "vicegovernor": {
-            "text": "Florencia López"
+            "text": "Florencia López",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florencia López"
+              }
+            ]
           },
           "term_start": {
             "text": "11 December 2019"

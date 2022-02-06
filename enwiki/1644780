@@ -132,6 +132,11 @@
               "text": "She was elected to the provincial legislature; her husband was elected mayor of Río Gallegos.",
               "links": [
                 {
+                  "text": "provincial legislature",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of Santa Cruz"
+                },
+                {
                   "text": "Río Gallegos",
                   "type": "internal",
                   "page": "Río Gallegos, Santa Cruz"
@@ -166,8 +171,9 @@
               "text": "She was the First Lady from 2003 to 2007 after her husband was elected president.",
               "links": [
                 {
+                  "text": "First Lady",
                   "type": "internal",
-                  "page": "First Lady"
+                  "page": "First Lady of Argentina"
                 }
               ]
             }
@@ -188,7 +194,7 @@
                 {
                   "text": "2007 presidential election",
                   "type": "internal",
-                  "page": "Argentine general election, 2007"
+                  "page": "2007 Argentine general election"
                 }
               ]
             },
@@ -321,7 +327,7 @@
                 {
                   "text": "1994 AMIA Bombing",
                   "type": "internal",
-                  "page": "1994 AMIA Bombing"
+                  "page": "AMIA bombing"
                 },
                 {
                   "type": "internal",
@@ -742,7 +748,14 @@
             "text": "María Gloria Ros de Icazuriaga"
           },
           "office10": {
-            "text": "Provincial Deputy of Santa Cruz"
+            "text": "Provincial Deputy of Santa Cruz",
+            "links": [
+              {
+                "text": "Provincial Deputy of Santa Cruz",
+                "type": "internal",
+                "page": "Chamber of Deputies of Santa Cruz"
+              }
+            ]
           },
           "term_start10": {
             "text": "10 December 1989"
@@ -834,9 +847,8 @@
                 "page": "Citizen's Unity"
               },
               {
-                "text": "Frente de Todos",
                 "type": "internal",
-                "page": "Frente de Todos (2019 coalition)"
+                "page": "Frente de Todos"
               }
             ]
           },
