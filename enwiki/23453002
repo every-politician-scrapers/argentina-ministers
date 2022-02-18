@@ -131,17 +131,17 @@
               }
             ]
           },
-          "1blankname1": {
-            "text": "Vice Governor"
-          },
-          "1namedata1": {
-            "text": "Osvaldo Jaldo"
+          "vicegovernor1": {
+            "text": "Osvaldo Jaldo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osvaldo Jaldo"
+              }
+            ]
           },
           "term_start1": {
-            "text": "29 October 2015"
-          },
-          "term_end1": {
-            "text": "20 September 2021"
+            "text": "29 October 2015\nOn leave since 20 September 2021"
           },
           "predecessor1": {
             "text": "José Alperovich",
@@ -151,9 +151,6 @@
                 "page": "José Alperovich"
               }
             ]
-          },
-          "successor1": {
-            "text": "Osvaldo Jaldo (acting)"
           },
           "office2": {
             "text": "Vice Governor of Tucumán",
@@ -184,7 +181,13 @@
             "text": "Regino Amado"
           },
           "successor2": {
-            "text": "Osvaldo Jaldo"
+            "text": "Osvaldo Jaldo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osvaldo Jaldo"
+              }
+            ]
           },
           "governor3": {
             "text": "José Alperovich",
