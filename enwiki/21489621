@@ -380,7 +380,13 @@
             ]
           },
           "spouse": {
-            "text": "Malena Galmarini"
+            "text": "Malena Galmarini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malena Galmarini"
+              }
+            ]
           },
           "children": {
             "text": "2",

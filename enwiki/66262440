@@ -6,6 +6,7 @@
     "Living people",
     "People from La Rioja Province, Argentina",
     "Members of the Argentine Chamber of Deputies elected in La Rioja",
+    "Members of the Legislature of La Rioja",
     "Mayors of places in Argentina",
     "Governors of La Rioja Province, Argentina",
     "Justicialist Party politicians",
@@ -145,10 +146,10 @@
             ]
           },
           "order1": {
-            "text": "Provincial Deputy of La Rioja",
+            "text": "Provincial Legislator of La Rioja",
             "links": [
               {
-                "text": "Provincial Deputy of La Rioja",
+                "text": "Provincial Legislator of La Rioja",
                 "type": "internal",
                 "page": "Legislature of La Rioja"
               }
