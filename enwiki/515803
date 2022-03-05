@@ -209,13 +209,19 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Most Excellent",
+            "text": "Excelentísimo Señor",
             "links": [
               {
+                "text": "Excelentísimo Señor",
                 "type": "internal",
                 "page": "The Most Excellent"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Excelentísimo Señor"
+              ]
+            }
           },
           "name": {
             "text": "Alberto Fernández"

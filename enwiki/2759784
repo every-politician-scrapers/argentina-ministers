@@ -13,6 +13,7 @@
     "Justicialist Party politicians",
     "Living people",
     "Members of the Argentine Senate for Chaco",
+    "Mayors of Resistencia, Chaco",
     "National University of the Northeast alumni",
     "People from Presidencia Roque Sáenz Peña"
   ],
@@ -24,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Jorge Milton Capitanich (born November 28, 1964) is an Argentine politician, businessman, and accountant who is currently Governor of Chaco Province since 2019, having held the position before from 2007 to 2013 and then from February to December 2015.",
+              "text": "Jorge Milton Capitanich (born November 28, 1964) is an Argentine politician, businessman, and accountant who became Governor of Chaco Province in 2019, having held the position before from 2007 to 2013 and then from February to December 2015.",
               "links": [
                 {
                   "text": "Argentine",
@@ -183,11 +184,8 @@
               }
             ]
           },
-          "term_start1": {
-            "text": "27 February 2015"
-          },
-          "term_end1": {
-            "text": "10 December 2015"
+          "term1": {
+            "text": "10 December 2007 – 10 December 2015\nOn leave: 20 November 2013 – 27 February 2015"
           },
           "vicegovernor1": {
             "text": "Juan Carlos Bacileff Ivanoff",
@@ -199,11 +197,11 @@
             ]
           },
           "predecessor1": {
-            "text": "Juan Carlos Bacileff Ivanoff",
+            "text": "Roy Nikisch",
             "links": [
               {
                 "type": "internal",
-                "page": "Juan Carlos Bacileff Ivanoff"
+                "page": "Roy Nikisch"
               }
             ]
           },
@@ -213,39 +211,6 @@
               {
                 "type": "internal",
                 "page": "Domingo Peppo"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "10 December 2007"
-          },
-          "term_end2": {
-            "text": "20 November 2013"
-          },
-          "vicegovernor2": {
-            "text": "Juan Carlos Bacileff Ivanoff",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Carlos Bacileff Ivanoff"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Roy Nikisch",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roy Nikisch"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Juan Carlos Bacileff Ivanoff",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Carlos Bacileff Ivanoff"
               }
             ]
           },
