@@ -1,589 +1,65 @@
 {
-  "title": "Aníbal Fernández",
-  "pageID": 5931259,
-  "categories": [
-    "1957 births",
-    "Chiefs of Cabinet of Ministers of Argentina",
-    "Ministers of Internal Affairs of Argentina",
-    "Justicialist Party politicians",
-    "Living people",
-    "Mayors of Quilmes",
-    "People from Quilmes",
-    "Ministers of Justice of Argentina",
-    "Members of the Argentine Senate for Buenos Aires Province",
-    "Kirchnerism"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aníbal Domingo Fernández (born January 9, 1957) is an Argentine Justicialist Party politician, lawyer, and certified public accountant.",
-              "links": [
-                {
-                  "text": "Argentine",
-                  "type": "internal",
-                  "page": "Argentina"
-                },
-                {
-                  "type": "internal",
-                  "page": "Justicialist Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Aníbal Domingo Fernández"
-                ]
-              }
-            },
-            {
-              "text": "Throughout his career, he has remained a close ally to the former Presidents Néstor Kirchner and Cristina Fernández de Kirchner.",
-              "links": [
-                {
-                  "text": "Presidents",
-                  "type": "internal",
-                  "page": "President of Argentina"
-                },
-                {
-                  "type": "internal",
-                  "page": "Néstor Kirchner"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cristina Fernández de Kirchner"
-                }
-              ]
-            },
-            {
-              "text": "Since 2021, he has served as Argentina's Minister of Security, in the cabinet of President Alberto Fernández.",
-              "links": [
-                {
-                  "text": "Minister of Security",
-                  "type": "internal",
-                  "page": "Ministry of Security (Argentina)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alberto Fernández"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He has held several cabinet positions under three presidents, serving in these offices for a total of over nine years."
-            },
-            {
-              "text": "He served as Minister of Production under Eduardo Duhalde, as Interior Minister under Néstor Kirchner, as Minister of Justice under Cristina Fernández de Kirchner, and as the President's Cabinet Chief from 2009 to 2011.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eduardo Duhalde"
-                },
-                {
-                  "type": "internal",
-                  "page": "Néstor Kirchner"
-                },
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Ministry of Justice and Human Rights (Argentina)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cristina Fernández de Kirchner"
-                }
-              ]
-            },
-            {
-              "text": "Most recently, he served as interventor of the state-owned mining company Yacimiento Carbonífero Río Turbio."
-            },
-            {
-              "text": "He is also the President of the Confederación Argentina de Hockey de Césped y Pista, having being elected unanimously for a second term."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Argentinian Minister of Security",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Aníbal Fernandes"
-          ],
-          "template": "distinguish"
-        },
-        {
-          "year": "1957",
-          "month": "1",
-          "day": "9",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aníbal Fernández"
-          },
-          "image": {
-            "text": "Aníbal_Fernández,_Security_Minister.jpg"
-          },
-          "office": {
-            "text": "Minister of Security",
-            "links": [
-              {
-                "text": "Minister of Security",
-                "type": "internal",
-                "page": "Ministry of Security (Argentina)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 September 2021"
-          },
-          "president": {
-            "text": "Alberto Fernández",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alberto Fernández"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Sabina Frederic",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sabina Frederic"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief of the Cabinet of Ministers",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief of the Cabinet of Ministers"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 February 2015"
-          },
-          "term_end1": {
-            "text": "10 December 2015"
-          },
-          "president1": {
-            "text": "Cristina Fernández de Kirchner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristina Fernández de Kirchner"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Jorge Capitanich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jorge Capitanich"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Marcos Peña",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcos Peña"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "8 July 2009"
-          },
-          "term_end2": {
-            "text": "10 December 2011"
-          },
-          "president2": {
-            "text": "Cristina Fernández de Kirchner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristina Fernández de Kirchner"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Sergio Massa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sergio Massa"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Juan Manuel Abal Medina",
-            "links": [
-              {
-                "text": "Juan Manuel Abal Medina",
-                "type": "internal",
-                "page": "Juan Manuel Abal Medina Jr."
-              }
-            ]
-          },
-          "office3": {
-            "text": "General Secretary of the Presidency",
-            "links": [
-              {
-                "text": "General Secretary of the Presidency",
-                "type": "internal",
-                "page": "General Secretariat of the Presidency (Argentina)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "16 December 2014"
-          },
-          "term_end3": {
-            "text": "26 February 2015"
-          },
-          "president3": {
-            "text": "Cristina Fernández de Kirchner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristina Fernández de Kirchner"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Oscar Parrilli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oscar Parrilli"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Eduardo de Pedro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduardo de Pedro"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2 January 2002"
-          },
-          "term_end4": {
-            "text": "3 October 2002"
-          },
-          "president4": {
-            "text": "Eduardo Duhalde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduardo Duhalde"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Luis Lusquiños",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luis Lusquiños"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "José Pampuro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Pampuro"
-              }
-            ]
-          },
-          "office5": {
-            "text": "National Senator",
-            "links": [
-              {
-                "text": "National Senator",
-                "type": "internal",
-                "page": "Argentine Senate"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "10 December 2011"
-          },
-          "term_end5": {
-            "text": "16 December 2014"
-          },
-          "predecessor5": {
-            "text": "Eric Calcagno",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eric Calcagno"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Juan Manuel Abal Medina Jr.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Manuel Abal Medina Jr."
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "Buenos Aires",
-            "links": [
-              {
-                "text": "Buenos Aires",
-                "type": "internal",
-                "page": "Buenos Aires Province"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister of Justice, Security and Human Rights",
-            "links": [
-              {
-                "text": "Minister of Justice, Security and Human Rights",
-                "type": "internal",
-                "page": "Ministry of Justice and Human Rights (Argentina)"
-              }
-            ]
-          },
-          "president6": {
-            "text": "Cristina Fernández de Kirchner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristina Fernández de Kirchner"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "10 December 2007"
-          },
-          "term_end6": {
-            "text": "8 July 2009"
-          },
-          "predecessor6": {
-            "text": "Alberto Iribarne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alberto Iribarne"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Julio Alak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julio Alak"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Minister of the Interior",
-            "links": [
-              {
-                "text": "Minister of the Interior",
-                "type": "internal",
-                "page": "Ministry of the Interior (Argentina)"
-              }
-            ]
-          },
-          "president7": {
-            "text": "Néstor Kirchner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Néstor Kirchner"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "25 May 2003"
-          },
-          "term_end7": {
-            "text": "10 December 2007"
-          },
-          "predecessor7": {
-            "text": "Jorge Matzkin",
-            "links": [
-              {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Florencio Randazzo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Florencio Randazzo"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister of Production",
-            "links": [
-              {
-                "text": "Minister of Production",
-                "type": "internal",
-                "page": "Ministry of Productive Development"
-              }
-            ]
-          },
-          "president8": {
-            "text": "Eduardo Duhalde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduardo Duhalde"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "3 October 2002"
-          },
-          "term_end8": {
-            "text": "25 May 2003"
-          },
-          "predecessor8": {
-            "text": "José Ignacio de Mendiguren",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Ignacio de Mendiguren"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Débora Giorgi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Débora Giorgi"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Mayor of Quilmes",
-            "links": [
-              {
-                "text": "Mayor of Quilmes",
-                "type": "internal",
-                "page": "Quilmes, Buenos Aires"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "1991",
-            "number": 1991
-          },
-          "term_end9": {
-            "text": "1995",
-            "number": 1995
-          },
-          "predecessor9": {
-            "text": "Eduardo Camaño",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduardo Camaño"
-              }
-            ]
-          },
-          "successor9": {
-            "text": "Federico Scabarino"
-          },
-          "birth_date": {
-            "text": "January 9, 1957"
-          },
-          "birth_place": {
-            "text": "Quilmes, Buenos Aires Province, Argentina",
-            "links": [
-              {
-                "text": "Quilmes",
-                "type": "internal",
-                "page": "Quilmes, Buenos Aires"
-              },
-              {
-                "type": "internal",
-                "page": "Buenos Aires Province"
-              },
-              {
-                "type": "internal",
-                "page": "Argentina"
-              }
-            ]
-          },
-          "party": {
-            "text": "Justicialist Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justicialist Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Front for Victory (2003–2015)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Front for Victory"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "National University of Lomas de Zamora",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Lomas de Zamora"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aníbal Fernández",
+  "image": "Aníbal_Fernández,_Security_Minister.jpg",
+  "office": "Minister of Security",
+  "term_start": "20 September 2021",
+  "president": "Alberto Fernández",
+  "predecessor": "Sabina Frederic",
+  "office1": "Chief of the Cabinet of Ministers",
+  "term_start1": "26 February 2015",
+  "term_end1": "10 December 2015",
+  "president1": "Cristina Fernández de Kirchner",
+  "predecessor1": "Jorge Capitanich",
+  "successor1": "Marcos Peña",
+  "term_start2": "8 July 2009",
+  "term_end2": "10 December 2011",
+  "president2": "Cristina Fernández de Kirchner",
+  "predecessor2": "Sergio Massa",
+  "successor2": "Juan Manuel Abal Medina",
+  "office3": "General Secretary of the Presidency",
+  "term_start3": "16 December 2014",
+  "term_end3": "26 February 2015",
+  "president3": "Cristina Fernández de Kirchner",
+  "predecessor3": "Oscar Parrilli",
+  "successor3": "Eduardo de Pedro",
+  "term_start4": "2 January 2002",
+  "term_end4": "3 October 2002",
+  "president4": "Eduardo Duhalde",
+  "predecessor4": "Luis Lusquiños",
+  "successor4": "José Pampuro",
+  "office5": "National Senator",
+  "term_start5": "10 December 2011",
+  "term_end5": "16 December 2014",
+  "predecessor5": "Eric Calcagno",
+  "successor5": "Juan Manuel Abal Medina Jr.",
+  "constituency5": "Buenos Aires",
+  "office6": "Minister of Justice, Security and Human Rights",
+  "president6": "Cristina Fernández de Kirchner",
+  "term_start6": "10 December 2007",
+  "term_end6": "8 July 2009",
+  "predecessor6": "Alberto Iribarne",
+  "successor6": "Julio Alak",
+  "office7": "Minister of the Interior",
+  "president7": "Néstor Kirchner",
+  "term_start7": "25 May 2003",
+  "term_end7": "10 December 2007",
+  "predecessor7": "Jorge Matzkin",
+  "successor7": "Florencio Randazzo",
+  "office8": "Minister of Production",
+  "president8": "Eduardo Duhalde",
+  "term_start8": "3 October 2002",
+  "term_end8": "25 May 2003",
+  "predecessor8": "José Ignacio de Mendiguren",
+  "successor8": "Débora Giorgi",
+  "office9": "Mayor of Quilmes",
+  "term_start9": "1991",
+  "term_end9": "1995",
+  "predecessor9": "Eduardo Camaño",
+  "successor9": "Federico Scabarino",
+  "birth_date": "January 9, 1957",
+  "birth_place": "Quilmes, Buenos Aires Province, Argentina",
+  "party": "Justicialist Party",
+  "otherparty": "Front for Victory (2003–2015)",
+  "alma_mater": "National University of Lomas de Zamora",
+  "profession": "Lawyer"
 }

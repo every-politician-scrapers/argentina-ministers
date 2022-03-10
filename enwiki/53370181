@@ -1,213 +1,27 @@
 {
-  "title": "Sergio Uñac",
-  "pageID": 53370181,
-  "categories": [
-    "Governors of San Juan Province, Argentina",
-    "Vice Governors of San Juan Province, Argentina",
-    "Justicialist Party politicians",
-    "Argentine people of Lebanese descent",
-    "National University of Córdoba alumni",
-    "Living people",
-    "1970 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sergio Uñac (born 15 February 1970) is an Argentine politician who serves as governor of the San Juan Province.",
-              "links": [
-                {
-                  "text": "San Juan Province",
-                  "type": "internal",
-                  "page": "San Juan Province, Argentina"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sergio Uñac"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1970",
-          "month": "02",
-          "day": "15",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sergio Uñac"
-          },
-          "image": {
-            "text": "Sergio Uñac en Casa Rosada.jpg"
-          },
-          "office": {
-            "text": "Governor of San Juan",
-            "links": [
-              {
-                "text": "Governor of San Juan",
-                "type": "internal",
-                "page": "Governor of San Juan Province"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "December 10, 2015"
-          },
-          "predecessor": {
-            "text": "José Luis Gioja",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Luis Gioja"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Vice Governor"
-          },
-          "1namedata": {
-            "text": "Marcelo Lima\nRoberto Gattoni",
-            "links": [
-              {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
-              }
-            ]
-          },
-          "office1": {
-            "text": "Vice Governor of San Juan",
-            "links": [
-              {
-                "text": "Vice Governor of San Juan",
-                "type": "internal",
-                "page": "Governor of San Juan Province"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "December 10, 2011"
-          },
-          "term_end1": {
-            "text": "December 10, 2015"
-          },
-          "predecessor1": {
-            "text": "Rubén Uñac"
-          },
-          "successor1": {
-            "text": "Marcelo Lima",
-            "links": [
-              {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
-              }
-            ]
-          },
-          "governor1": {
-            "text": "José Luis Gioja",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Luis Gioja"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Mayor of Pocito",
-            "links": [
-              {
-                "text": "Mayor of Pocito",
-                "type": "internal",
-                "page": "Pocito Department"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "December 10, 2003"
-          },
-          "term_end2": {
-            "text": "December 10, 2011"
-          },
-          "birth_date": {
-            "text": "February 15, 1970"
-          },
-          "birth_place": {
-            "text": "Pocito, San Juan Province, Argentina",
-            "links": [
-              {
-                "text": "Pocito",
-                "type": "internal",
-                "page": "Pocito Department"
-              },
-              {
-                "text": "San Juan Province",
-                "type": "internal",
-                "page": "San Juan Province, Argentina"
-              },
-              {
-                "type": "internal",
-                "page": "Argentina"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Argentine",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Argentine"
-              }
-            ]
-          },
-          "party": {
-            "text": "Justicialist Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justicialist Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Silvana Rodríguez"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "father": {
-            "text": "Joaquín Uñac"
-          },
-          "alma_mater": {
-            "text": "National University of Córdoba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Córdoba"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sergio Uñac",
+  "image": "Sergio Uñac en Casa Rosada.jpg",
+  "office": "Governor of San Juan",
+  "term_start": "December 10, 2015",
+  "predecessor": "José Luis Gioja",
+  "1blankname": "Vice Governor",
+  "1namedata": "Marcelo Lima\nRoberto Gattoni",
+  "office1": "Vice Governor of San Juan",
+  "term_start1": "December 10, 2011",
+  "term_end1": "December 10, 2015",
+  "predecessor1": "Rubén Uñac",
+  "successor1": "Marcelo Lima",
+  "governor1": "José Luis Gioja",
+  "office2": "Mayor of Pocito",
+  "term_start2": "December 10, 2003",
+  "term_end2": "December 10, 2011",
+  "birth_date": "February 15, 1970",
+  "birth_place": "Pocito, San Juan Province, Argentina",
+  "nationality": "Argentine",
+  "party": "Justicialist Party",
+  "spouse": "Silvana Rodríguez",
+  "children": "3",
+  "father": "Joaquín Uñac",
+  "alma_mater": "National University of Córdoba",
+  "profession": "Lawyer"
 }
