@@ -1,306 +1,36 @@
 {
-  "title": "Gerardo Zamora",
-  "pageID": 5730448,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "People from Mendoza Province",
-    "Argentine people of Spanish descent",
-    "Argentine lawyers",
-    "Mayors of places in Argentina",
-    "Governors of Santiago del Estero Province",
-    "Members of the Argentine Senate for Santiago del Estero",
-    "Members of the Chamber of Deputies of Santiago del Estero",
-    "Radical Civic Union politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gerardo Zamora (born 6 January 1964) is an Argentine politician from Santiago del Estero Province.",
-              "links": [
-                {
-                  "text": "Argentine",
-                  "type": "internal",
-                  "page": "Argentina"
-                },
-                {
-                  "type": "internal",
-                  "page": "Santiago del Estero Province"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gerardo Zamora"
-                ]
-              }
-            },
-            {
-              "text": "Governor of Santiago del Estero since 2005, he was a member of the centrist Radical Civic Union (UCR).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Radical Civic Union"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Argentine politician",
-          "template": "short description"
-        },
-        {
-          "date": "December 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1964",
-          "month": "1",
-          "day": "6",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "NederKirchnerLedesmaZamora (cropped).jpg"
-          },
-          "name": {
-            "text": "Gerardo Zamora"
-          },
-          "office": {
-            "text": "Governor of Santiago del Estero",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Santiago del Estero"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Vice Governor"
-          },
-          "1namedata": {
-            "text": "Emilio Neder"
-          },
-          "term_start": {
-            "text": "10 December 2017"
-          },
-          "predecessor": {
-            "text": "Claudia Ledesma Abdala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Claudia Ledesma Abdala"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "23 March 2005"
-          },
-          "term_end1": {
-            "text": "10 December 2013"
-          },
-          "1blankname1": {
-            "text": "Vice Governor"
-          },
-          "1namedata1": {
-            "text": "Emilio Rached\nBlanca Porcel\nÁngel Niccolai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emilio Rached"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Pablo Lanusse"
-          },
-          "successor1": {
-            "text": "Claudia Ledesma Abdala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Claudia Ledesma Abdala"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Provisional President of the Senate",
-            "links": [
-              {
-                "text": "Provisional President of the Senate",
-                "type": "internal",
-                "page": "List of provisional presidents of the Argentine Senate"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "28 February 2014"
-          },
-          "term_end3": {
-            "text": "3 December 2015"
-          },
-          "predecessor3": {
-            "text": "Beatriz Rojkés de Alperovich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beatriz Rojkés de Alperovich"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Federico Pinedo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Federico Pinedo"
-              }
-            ]
-          },
-          "office4": {
-            "text": "National Senator",
-            "links": [
-              {
-                "text": "National Senator",
-                "type": "internal",
-                "page": "Argentine Senate"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "4 December 2013"
-          },
-          "term_end4": {
-            "text": "29 November 2017"
-          },
-          "constituency4": {
-            "text": "Santiago del Estero",
-            "links": [
-              {
-                "text": "Santiago del Estero",
-                "type": "internal",
-                "page": "Santiago del Estero Province"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Mayor of Santiago del Estero",
-            "links": [
-              {
-                "text": "Mayor of Santiago del Estero",
-                "type": "internal",
-                "page": "Santiago del Estero"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "10 December 2001"
-          },
-          "term_end5": {
-            "text": "10 December 2005"
-          },
-          "predecessor5": {
-            "text": "José Zavalía",
-            "links": [
-              {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Julio Alegre",
-            "links": [
-              {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "es"
-                }
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 6, 1964"
-          },
-          "birth_place": {
-            "text": "Bowen, Mendoza Province, Argentina",
-            "links": [
-              {
-                "text": "Bowen",
-                "type": "internal",
-                "page": "General Alvear Department, Mendoza"
-              },
-              {
-                "type": "internal",
-                "page": "Mendoza Province"
-              },
-              {
-                "type": "internal",
-                "page": "Argentina"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer"
-          },
-          "spouse": {
-            "text": "Claudia Ledesma Abdala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Claudia Ledesma Abdala"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Catholic University of Santiago del Estero",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Catholic University of Santiago del Estero"
-              }
-            ]
-          },
-          "party": {
-            "text": "UCR (1984–2010)\nIndependent (2010–present)",
-            "links": [
-              {
-                "text": "UCR",
-                "type": "internal",
-                "page": "Radical Civic Union"
-              },
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Civic Front for Santiago (2005–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Civic Front for Santiago"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "NederKirchnerLedesmaZamora (cropped).jpg",
+  "name": "Gerardo Zamora",
+  "office": "Governor of Santiago del Estero",
+  "1blankname": "Vice Governor",
+  "1namedata": "Emilio Neder",
+  "term_start": "10 December 2017",
+  "predecessor": "Claudia Ledesma Abdala",
+  "term_start1": "23 March 2005",
+  "term_end1": "10 December 2013",
+  "1blankname1": "Vice Governor",
+  "1namedata1": "Emilio Rached\nBlanca Porcel\nÁngel Niccolai",
+  "predecessor1": "Pablo Lanusse",
+  "successor1": "Claudia Ledesma Abdala",
+  "office3": "Provisional President of the Senate",
+  "term_start3": "28 February 2014",
+  "term_end3": "3 December 2015",
+  "predecessor3": "Beatriz Rojkés de Alperovich",
+  "successor3": "Federico Pinedo",
+  "office4": "National Senator",
+  "term_start4": "4 December 2013",
+  "term_end4": "29 November 2017",
+  "constituency4": "Santiago del Estero",
+  "office5": "Mayor of Santiago del Estero",
+  "term_start5": "10 December 2001",
+  "term_end5": "10 December 2005",
+  "predecessor5": "José Zavalía",
+  "successor5": "Julio Alegre",
+  "birth_date": "January 6, 1964",
+  "birth_place": "Bowen, Mendoza Province, Argentina",
+  "profession": "Lawyer",
+  "spouse": "Claudia Ledesma Abdala",
+  "alma_mater": "Catholic University of Santiago del Estero",
+  "party": "UCR (1984–2010)\nIndependent (2010–present)",
+  "otherparty": "Civic Front for Santiago (2005–present)"
 }

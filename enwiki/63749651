@@ -1,94 +1,10 @@
 {
-  "title": "Agustín Humberto Cejas",
-  "pageID": 63749651,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "Argentine generals"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Agustín Humberto Cejas (born 1964, Córdoba, Argentina) is an Argentine Army officer who serves as Chief of the Army General Staff.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Argentine Army"
-                },
-                {
-                  "text": "Chief of the Army General Staff",
-                  "type": "internal",
-                  "page": "List of Chiefs of the General Staff of the Argentine Army"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Agustín Humberto Cejas"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Argentine military person, chief of the Argentine Army",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Agustín Humberto Cejas"
-          },
-          "image": {
-            "text": "General Agustín Cejas.jpg"
-          },
-          "birth_date": {
-            "text": "1964",
-            "number": 1964
-          },
-          "birth_place": {
-            "text": "Córdoba",
-            "links": [
-              {
-                "text": "Córdoba",
-                "type": "internal",
-                "page": "Córdoba, Argentina"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Argentine Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Argentine Army"
-              }
-            ]
-          },
-          "branch_label": {
-            "text": "Branch"
-          },
-          "serviceyears": {
-            "text": "1984-present"
-          },
-          "rank": {
-            "text": "Brigadier General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brigadier General"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Agustín Humberto Cejas",
+  "image": "General Agustín Cejas.jpg",
+  "birth_date": "1964",
+  "birth_place": "Córdoba",
+  "branch": "Argentine Army",
+  "branch_label": "Branch",
+  "serviceyears": "1984-present",
+  "rank": "Brigadier General"
 }

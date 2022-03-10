@@ -1,329 +1,39 @@
 {
-  "title": "Julián Domínguez",
-  "pageID": 24533305,
-  "categories": [
-    "1963 births",
-    "Living people",
-    "People from Buenos Aires Province",
-    "Mayors of places in Argentina",
-    "Ministers of agriculture of Argentina",
-    "Members of the Argentine Chamber of Deputies elected in Buenos Aires Province",
-    "Justicialist Party politicians",
-    "University of Buenos Aires alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Julián Andrés Domínguez (born 24 November 1963) is an Argentine Justicialist Party politician, currently serving as Argentina's Minister of Agriculture since 2021, in the cabinet of President Alberto Fernández.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Justicialist Party"
-                },
-                {
-                  "text": "Minister of Agriculture",
-                  "type": "internal",
-                  "page": "Ministry of Agriculture (Argentina)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alberto Fernández"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Julián Andrés Domínguez"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Minister of Agriculture between 2009 and 2011, under President Cristina Fernández de Kirchner.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cristina Fernández de Kirchner"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "From 2011 to 2015, he was President of the Argentine Chamber of Deputies.",
-              "links": [
-                {
-                  "text": "President",
-                  "type": "internal",
-                  "page": "List of Presidents of the Argentine Chamber of Deputies"
-                },
-                {
-                  "type": "internal",
-                  "page": "Argentine Chamber of Deputies"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "the Arginine Politician",
-            "the Argentina rugby union player",
-            "Julián Domínguez (rugby union)"
-          ],
-          "template": "about"
-        },
-        {
-          "description": "Argentine politician",
-          "template": "short description"
-        },
-        {
-          "date": "December 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1963",
-          "month": "11",
-          "day": "24",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Julián Domínguez"
-          },
-          "image name": {
-            "text": "Julián Domínguez (2010).jpg"
-          },
-          "office": {
-            "text": "Minister of Agriculture",
-            "links": [
-              {
-                "text": "Minister of Agriculture",
-                "type": "internal",
-                "page": "Ministry of Agriculture (Argentina)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Alberto Fernández",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alberto Fernández"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 September 2021"
-          },
-          "preceded": {
-            "text": "Luis Basterra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luis Basterra"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Cristina Fernández de Kirchner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristina Fernández de Kirchner"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 October 2009"
-          },
-          "term_end1": {
-            "text": "10 December 2011"
-          },
-          "preceded1": {
-            "text": "Carlos Cheppi (as Secretary of Agriculture)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carlos Cheppi"
-              }
-            ]
-          },
-          "succeeded1": {
-            "text": "Norberto Yahuar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norberto Yahuar"
-              }
-            ]
-          },
-          "office2": {
-            "text": "President of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "President of the Chamber of Deputies",
-                "type": "internal",
-                "page": "List of Presidents of the Argentine Chamber of Deputies"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "6 December 2011"
-          },
-          "term_end2": {
-            "text": "10 December 2015"
-          },
-          "preceded2": {
-            "text": "Eduardo Fellner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduardo Fellner"
-              }
-            ]
-          },
-          "succeeded2": {
-            "text": "Emilio Monzó",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emilio Monzó"
-              }
-            ]
-          },
-          "office3": {
-            "text": "National Deputy",
-            "links": [
-              {
-                "text": "National Deputy",
-                "type": "internal",
-                "page": "Argentine Chamber of Deputies"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "5 December 2011"
-          },
-          "term_end3": {
-            "text": "4 December 2015"
-          },
-          "constituency3": {
-            "text": "Buenos Aires",
-            "links": [
-              {
-                "text": "Buenos Aires",
-                "type": "internal",
-                "page": "Buenos Aires Province"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Provincial Deputy of Buenos Aires",
-            "links": [
-              {
-                "text": "Provincial Deputy of Buenos Aires",
-                "type": "internal",
-                "page": "Buenos Aires Province Chamber of Deputies"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "10 December 2003"
-          },
-          "term_end4": {
-            "text": "30 September 2009"
-          },
-          "constituency4": {
-            "text": "Fourth Electoral Section"
-          },
-          "office5": {
-            "text": "Mayor of Chacabuco",
-            "links": [
-              {
-                "text": "Mayor of Chacabuco",
-                "type": "internal",
-                "page": "Chacabuco, Buenos Aires"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "10 December 1995"
-          },
-          "term_end5": {
-            "text": "10 December 1999"
-          },
-          "preceded5": {
-            "text": "Héctor Francolino"
-          },
-          "succeeded5": {
-            "text": "Horacio Recalde"
-          },
-          "birth_date": {
-            "text": "November 24, 1963"
-          },
-          "birth_place": {
-            "text": "Chacabuco, Buenos Aires",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chacabuco, Buenos Aires"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Argentine"
-          },
-          "party": {
-            "text": "Justicialist Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justicialist Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Front for Victory (until 2019)\nFrente de Todos (since 2021)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Front for Victory"
-              },
-              {
-                "type": "internal",
-                "page": "Frente de Todos"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Claudia Moreno"
-          },
-          "children": {
-            "text": "5",
-            "number": 5
-          },
-          "alma_mater": {
-            "text": "University of Buenos Aires",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Buenos Aires"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Julián Domínguez",
+  "image name": "Julián Domínguez (2010).jpg",
+  "office": "Minister of Agriculture",
+  "president": "Alberto Fernández",
+  "term_start": "20 September 2021",
+  "preceded": "Luis Basterra",
+  "president1": "Cristina Fernández de Kirchner",
+  "term_start1": "1 October 2009",
+  "term_end1": "10 December 2011",
+  "preceded1": "Carlos Cheppi (as Secretary of Agriculture)",
+  "succeeded1": "Norberto Yahuar",
+  "office2": "President of the Chamber of Deputies",
+  "term_start2": "6 December 2011",
+  "term_end2": "10 December 2015",
+  "preceded2": "Eduardo Fellner",
+  "succeeded2": "Emilio Monzó",
+  "office3": "National Deputy",
+  "term_start3": "5 December 2011",
+  "term_end3": "4 December 2015",
+  "constituency3": "Buenos Aires",
+  "office4": "Provincial Deputy of Buenos Aires",
+  "term_start4": "10 December 2003",
+  "term_end4": "30 September 2009",
+  "constituency4": "Fourth Electoral Section",
+  "office5": "Mayor of Chacabuco",
+  "term_start5": "10 December 1995",
+  "term_end5": "10 December 1999",
+  "preceded5": "Héctor Francolino",
+  "succeeded5": "Horacio Recalde",
+  "birth_date": "November 24, 1963",
+  "birth_place": "Chacabuco, Buenos Aires",
+  "nationality": "Argentine",
+  "party": "Justicialist Party",
+  "otherparty": "Front for Victory (until 2019)\nFrente de Todos (since 2021)",
+  "spouse": "Claudia Moreno",
+  "children": "5",
+  "alma_mater": "University of Buenos Aires"
 }

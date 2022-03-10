@@ -1,338 +1,39 @@
 {
-  "title": "Juan Luis Manzur",
-  "pageID": 23453002,
-  "categories": [
-    "1969 births",
-    "Living people",
-    "People from San Miguel de Tucumán",
-    "Argentine people of Lebanese descent",
-    "Argentine Maronites",
-    "University of Buenos Aires alumni",
-    "Argentine surgeons",
-    "Maronite politicians",
-    "Justicialist Party politicians",
-    "Argentine ministers of health",
-    "Chiefs of Cabinet of Ministers of Argentina"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Juan Luis Manzur (born 8 January 1969) is an Argentine surgeon and politician.",
-              "formatting": {
-                "bold": [
-                  "Juan Luis Manzur"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Justicialist Party, he currently serves as Chief of the Cabinet of Ministers, under President Alberto Fernández.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Justicialist Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief of the Cabinet of Ministers"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alberto Fernández"
-                }
-              ]
-            },
-            {
-              "text": "He previously served as Minister of Health of Argentina from 2009 to 2015, and as Governor of Tucumán Province from 2015 to 2021.",
-              "links": [
-                {
-                  "text": "Minister of Health",
-                  "type": "internal",
-                  "page": "Ministry of Health (Argentina)"
-                },
-                {
-                  "text": "Governor",
-                  "type": "internal",
-                  "page": "Governor of Tucumán Province"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tucumán Province"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Argentine politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1969",
-          "month": "1",
-          "day": "8",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Juan Luis Manzur"
-          },
-          "image": {
-            "text": "Manzur y Trotta (cropped).jpg"
-          },
-          "office": {
-            "text": "Chief of the Cabinet of Ministers",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief of the Cabinet of Ministers"
-              }
-            ]
-          },
-          "president": {
-            "text": "Alberto Fernández",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alberto Fernández"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 September 2021"
-          },
-          "predecessor": {
-            "text": "Santiago Cafiero",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Santiago Cafiero"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Governor of Tucumán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Tucumán"
-              }
-            ]
-          },
-          "vicegovernor1": {
-            "text": "Osvaldo Jaldo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osvaldo Jaldo"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 October 2015\nOn leave since 20 September 2021"
-          },
-          "predecessor1": {
-            "text": "José Alperovich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Alperovich"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Vice Governor of Tucumán",
-            "links": [
-              {
-                "text": "Vice Governor of Tucumán",
-                "type": "internal",
-                "page": "Governor of Tucumán"
-              }
-            ]
-          },
-          "governor2": {
-            "text": "José Alperovich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Alperovich"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 February 2015"
-          },
-          "term_end2": {
-            "text": "29 October 2015"
-          },
-          "predecessor2": {
-            "text": "Regino Amado"
-          },
-          "successor2": {
-            "text": "Osvaldo Jaldo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osvaldo Jaldo"
-              }
-            ]
-          },
-          "governor3": {
-            "text": "José Alperovich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Alperovich"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "10 December 2007"
-          },
-          "term_end3": {
-            "text": "1 July 2009"
-          },
-          "predecessor3": {
-            "text": "Fernando Juri"
-          },
-          "successor3": {
-            "text": "Sergio Mansilla"
-          },
-          "office4": {
-            "text": "Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Ministry of Health (Argentina)"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Cristina Fernández de Kirchner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristina Fernández de Kirchner"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 July 2009"
-          },
-          "term_end4": {
-            "text": "26 February 2015"
-          },
-          "predecessor4": {
-            "text": "Graciela Ocaña",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Graciela Ocaña"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Daniel Gollán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Daniel Gollán"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Health of Tucumán"
-          },
-          "governor5": {
-            "text": "José Alperovich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Alperovich"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "10 December 2003"
-          },
-          "term_end5": {
-            "text": "10 December 2007"
-          },
-          "successor5": {
-            "text": "Pablo Yedlin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pablo Yedlin"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 8, 1969"
-          },
-          "birth_place": {
-            "text": "San Miguel de Tucumán, Argentina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "San Miguel de Tucumán"
-              },
-              {
-                "type": "internal",
-                "page": "Argentina"
-              }
-            ]
-          },
-          "party": {
-            "text": "Justicialist Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justicialist Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Front for Victory (2003–2015) Frente de Todos (2019–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Front for Victory"
-              },
-              {
-                "type": "internal",
-                "page": "Frente de Todos"
-              }
-            ]
-          },
-          "education": {
-            "text": "National University of Tucumán University of Buenos Aires",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Tucumán"
-              },
-              {
-                "type": "internal",
-                "page": "University of Buenos Aires"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Juan Luis Manzur",
+  "image": "Manzur y Trotta (cropped).jpg",
+  "office": "Chief of the Cabinet of Ministers",
+  "president": "Alberto Fernández",
+  "term_start": "20 September 2021",
+  "predecessor": "Santiago Cafiero",
+  "office1": "Governor of Tucumán",
+  "vicegovernor1": "Osvaldo Jaldo",
+  "term_start1": "29 October 2015\nOn leave since 20 September 2021",
+  "predecessor1": "José Alperovich",
+  "office2": "Vice Governor of Tucumán",
+  "governor2": "José Alperovich",
+  "term_start2": "27 February 2015",
+  "term_end2": "29 October 2015",
+  "predecessor2": "Regino Amado",
+  "successor2": "Osvaldo Jaldo",
+  "governor3": "José Alperovich",
+  "term_start3": "10 December 2007",
+  "term_end3": "1 July 2009",
+  "predecessor3": "Fernando Juri",
+  "successor3": "Sergio Mansilla",
+  "office4": "Minister of Health",
+  "president4": "Cristina Fernández de Kirchner",
+  "term_start4": "1 July 2009",
+  "term_end4": "26 February 2015",
+  "predecessor4": "Graciela Ocaña",
+  "successor4": "Daniel Gollán",
+  "office5": "Minister of Health of Tucumán",
+  "governor5": "José Alperovich",
+  "term_start5": "10 December 2003",
+  "term_end5": "10 December 2007",
+  "successor5": "Pablo Yedlin",
+  "birth_date": "January 8, 1969",
+  "birth_place": "San Miguel de Tucumán, Argentina",
+  "party": "Justicialist Party",
+  "otherparty": "Front for Victory (2003–2015) Frente de Todos (2019–present)",
+  "education": "National University of Tucumán University of Buenos Aires"
 }
