@@ -1,0 +1,149 @@
+id,name,relationship,relative,relativename
+Q105969717,Martín Soria,father,Q176160,Carlos Soria
+Q105969717,Martín Soria,mother,Q17630853,Susana Freydoz
+Q105969717,Martín Soria,sibling,Q21856280,María Emilia Soria
+Q107802947,Nicolás Rodríguez Saá,partner,Q21856142,Ana Carolina Gaillard
+Q108386730,Martín Berhongaray,father,Q18745601,Antonio Tomás Berhongaray
+Q11184187,Rogelio Frigerio,father,Q47436405,Octavio Frigerio
+Q11184187,Rogelio Frigerio,relative,Q7357722,Rogelio Julio Frigerio
+Q1162679,Daniel Scioli,spouse,Q20017020,Karina Rabolini
+Q1162679,Daniel Scioli,spouse,Q20017020,Karina Rabolini
+Q1261399,Ricardo Alfonsín,father,Q193062,Raúl Alfonsín
+Q1261399,Ricardo Alfonsín,mother,Q6004142,María Lorenza Barreneche
+Q15719117,Máximo Kirchner,father,Q170899,Néstor Kirchner
+Q15719117,Máximo Kirchner,mother,Q40649,Cristina Fernández de Kirchner
+Q15719117,Máximo Kirchner,sibling,Q15719141,Florencia Kirchner
+Q16300546,Claudia Ledesma Abdala de Zamora,spouse,Q4838698,Gerardo Zamora
+Q16302727,Rodolfo Urtubey,sibling,Q2836462,Alejandro Urtubey
+Q16302727,Rodolfo Urtubey,sibling,Q4122243,Juan Manuel Urtubey
+Q16566094,Facundo Moyano,father,Q3297245,Hugo Moyano
+Q16599648,Mariano Recalde,father,Q5906382,Héctor Recalde
+Q16913151,Sandra Mendoza,spouse,Q4837917,Jorge Capitanich
+Q170899,Néstor Kirchner,child,Q15719117,Máximo Kirchner
+Q170899,Néstor Kirchner,child,Q15719141,Florencia Kirchner
+Q170899,Néstor Kirchner,sibling,Q440580,Alicia Kirchner
+Q170899,Néstor Kirchner,spouse,Q40649,Cristina Fernández de Kirchner
+Q1710644,Juan Schiaretti,spouse,Q47142712,Alejandra María Vigo
+Q176160,Carlos Soria,child,Q105969717,Martín Soria
+Q176160,Carlos Soria,child,Q21856280,María Emilia Soria
+Q176160,Carlos Soria,spouse,Q17630853,Susana Freydoz
+Q17624215,Pablo Tonelli,father,Q5908271,Ideler Tonelli
+Q185107,Carlos Menem,child,Q15719712,Carlos Nair Menem Meza
+Q185107,Carlos Menem,child,Q5391028,Carlos Saúl Facundo Menem
+Q185107,Carlos Menem,child,Q8075121,Zulema María Eva Menem
+Q185107,Carlos Menem,sibling,Q5340693,Eduardo Menem
+Q185107,Carlos Menem,spouse,Q270002,Cecilia Bolocco
+Q185107,Carlos Menem,spouse,Q5551980,Zulema Yoma
+Q18711856,Adolfo Bermejo,spouse,Q7416806,Sandra Zapata
+Q18711860,Salvador Cabral,spouse,Q8078208,Élida Vigo
+Q18711932,Carmen Lucila Crexell,mother,Q9025653,Luz Sapag
+Q19006869,Agustín Rossi,child,Q56155641,Delfina Rossi
+Q19263817,Felipe Rodolfo Sapag,father,Q5368671,Elías Sapag
+Q193062,Raúl Alfonsín,child,Q1261399,Ricardo Alfonsín
+Q193062,Raúl Alfonsín,spouse,Q6004142,María Lorenza Barreneche
+Q19760254,Raúl Jalil,spouse,Q47142422,Silvana Micaela Ginocchio
+Q20737416,Juan Fernando Brügge,relative,Q272702,Laura Vicuña
+Q2130489,Ramón -mandibulita traviesa- Javier Mestre,father,Q6959980,Ramón Mestre
+Q21856082,Remo Carlotto,mother,Q299652,Estela Barnes de Carlotto
+Q21856142,Ana Carolina Gaillard,partner,Q107802947,Nicolás Rodríguez Saá
+Q21856173,Marco Lavagna,father,Q2832959,Roberto Lavagna
+Q21856194,Diego Matías Mestre,father,Q6959980,Ramón Mestre
+Q21856214,Cecilia Moreau,father,Q5973474,Leopoldo Moreau
+Q21856214,Cecilia Moreau,sibling,Q107105774,Carmela Moreau
+Q21856258,María Fernanda Raverta,father,Q22006982,Mario Montoto
+Q21856277,Alejandro Francisco Snopek,father,Q63996812,Carlos Daniel Snopek
+Q21856278,Guillermo Snopek,father,Q5888526,Guillermo Eugenio Snopek
+Q21856280,María Emilia Soria,father,Q176160,Carlos Soria
+Q21856280,María Emilia Soria,mother,Q17630853,Susana Freydoz
+Q21856280,María Emilia Soria,sibling,Q105969717,Martín Soria
+Q2324263,Abel Posse,child,Q52889259,Iván Parentini-Langenheim
+Q2347235,Antonio Cafiero,child,Q2841182,Mario Cafiero
+Q2347235,Antonio Cafiero,child,Q6300652,Juan Pablo Cafiero
+Q23906959,Magdalena Sierra,spouse,Q5935055,Jorge Ferraresi
+Q2642828,Alberto Fernández,child,Q79075662,Tani Fernández
+Q2642828,Alberto Fernández,partner,Q72756276,Fabiola Yáñez
+Q28058759,Nicolás Dujovne,father,Q17622748,Berardo Dujovne
+Q2841182,Mario Cafiero,father,Q2347235,Antonio Cafiero
+Q2841182,Mario Cafiero,sibling,Q6300652,Juan Pablo Cafiero
+Q2843714,Horacio Rodríguez Larreta,spouse,Q21651660,Bárbara Diez
+Q2918563,Margarita Stolbizer,child,Q3876517,Nicolás Laprovíttola
+Q294578,Eduardo Duhalde,spouse,Q535094,Hilda González de Duhalde
+Q295007,Fernando de la Rúa,child,Q2857519,Antonio de la Rúa
+Q295007,Fernando de la Rúa,father,Q107124548,Antonio de la Rúa
+Q295007,Fernando de la Rúa,sibling,Q6278814,Jorge de la Rúa
+Q295007,Fernando de la Rúa,spouse,Q21541742,Inés Pertiné Urien
+Q3052342,Nilda Celia Garré,spouse,Q2617461,Juan Manuel Abal Medina
+Q3072494,Juan Manuel Abal Medina,sibling,Q616956,Fernando Abal Medina
+Q312358,Adolfo Rodríguez Saá,father,Q106866382,Carlos Juan Rodríguez Saá
+Q312358,Adolfo Rodríguez Saá,relative,Q4684272,Adolfo Rodríguez Saá
+Q312358,Adolfo Rodríguez Saá,sibling,Q4712180,Alberto Rodríguez Saá
+Q3479675,Sergio Massa,spouse,Q20016345,Malena Galmarini
+Q40649,Cristina Fernández de Kirchner,child,Q15719117,Máximo Kirchner
+Q40649,Cristina Fernández de Kirchner,child,Q15719141,Florencia Kirchner
+Q40649,Cristina Fernández de Kirchner,spouse,Q170899,Néstor Kirchner
+Q4122225,José Alperovich,spouse,Q4877270,Beatriz Rojkés de Alperovich
+Q43078686,Romina Del Plá,relative,Q5129431,Claudio del Plá
+Q440580,Alicia Kirchner,relative,Q40649,Cristina Fernández de Kirchner
+Q440580,Alicia Kirchner,sibling,Q170899,Néstor Kirchner
+Q452112,Amado Boudou,partner,Q109729369,Agustina Kämpfer
+Q4685482,Adriana Bortolozzi,spouse,Q5461936,Floro Bogado
+Q470603,Aníbal Ibarra,sibling,Q7931145,Vilma Ibarra
+Q4712180,Alberto Rodríguez Saá,relative,Q4684272,Adolfo Rodríguez Saá
+Q4712180,Alberto Rodríguez Saá,sibling,Q312358,Adolfo Rodríguez Saá
+Q47141983,Marcela Campagnoli,sibling,Q16583398,José María Campagnoli
+Q47142422,Silvana Micaela Ginocchio,spouse,Q19760254,Raúl Jalil
+Q47142712,Alejandra María Vigo,spouse,Q1710644,Juan Schiaretti
+Q47144879,Alma Sapag,father,Q5368671,Elías Sapag
+Q4837917,Jorge Capitanich,spouse,Q16913151,Sandra Mendoza
+Q4838698,Gerardo Zamora,spouse,Q16300546,Claudia Ledesma Abdala de Zamora
+Q5041910,Carlos Castagneto,spouse,Q30064074,Ana Castagneto
+Q5042309,Carlos Mac Allister,child,Q33297140,Alexis Mac Allister
+Q508497,Fernando Solanas,child,Q3187791,Juan Diego Solanas
+Q508497,Fernando Solanas,partner,Q5116252,Chunchuna Villafañe
+Q5186335,Cristina Cremer de Busti,spouse,Q6277772,Jorge Busti
+Q5274808,Diego Santilli,father,Q3787511,Hugo Santilli
+Q5340693,Eduardo Menem,sibling,Q185107,Carlos Menem
+Q561837,Mauricio Macri,father,Q5483633,Francisco Macri
+Q561837,Mauricio Macri,sibling,Q105489829,Gianfranco Macri
+Q561837,Mauricio Macri,spouse,Q20645466,Juliana Awada
+Q561837,Mauricio Macri,spouse,Q20652383,Isabel Menditeguy
+Q561837,Mauricio Macri,spouse,Q21198509,Ivonne Bordeu
+Q5818962,Eduardo Amadeo,child,Q3638275,Benjamín Amadeo
+Q5819618,Eduardo Raúl Costa,spouse,Q24821342,Mariana Zuvic
+Q5855240,Facundo Suárez Lastra,father,Q4444918,Facundo Suárez
+Q5857789,Federico Pinedo,relative,Q5857792,Federico Pinedo
+Q5857789,Federico Pinedo,relative,Q5857794,Federico Pinedo
+Q5883959,Graciela Camaño,spouse,Q5982872,Luis Barrionuevo
+Q5906382,Héctor Recalde,child,Q16599648,Mariano Recalde
+Q5935055,Jorge Ferraresi,spouse,Q23906959,Magdalena Sierra
+Q5935527,Jorge Macri,relative,Q561837,Mauricio Macri
+Q5936162,Jorge Triaca,father,Q2892159,Jorge Alberto Triaca
+Q5973474,Leopoldo Moreau,child,Q107105774,Carmela Moreau
+Q5973474,Leopoldo Moreau,child,Q21856214,Cecilia Moreau
+Q5998811,Mario Losada,father,Q16599806,Mario Losada
+Q6108054,Ricardo Bussi,father,Q2857264,Antonio Domingo Bussi
+Q6277643,Jorge Altamira,sibling,Q41794634,Ismael Bermúdez
+Q6277643,Jorge Altamira,sibling,Q6700545,Luis Favre
+Q6277772,Jorge Busti,spouse,Q5186335,Cristina Cremer de Busti
+Q6299395,Juan Carlos Romero,child,Q75105745,Bettina Romero
+Q6299395,Juan Carlos Romero,father,Q7351882,Roberto Romero
+Q63555682,Sergio Varisco,father,Q27430264,Humberto Varisco
+Q6553522,Martín Lousteau,father,Q20015928,Guillermo Lousteau Heguy
+Q6553522,Martín Lousteau,spouse,Q858561,Carla Peterson
+Q66092475,Oscar Edmundo Nicolás Albrieu,father,Q18676761,Oscar Albrieu
+Q6700387,Luis Brandoni,spouse,Q6001878,Marta Bianchi
+Q6777833,Martín Sabbatella,spouse,Q47142291,Mónica Macha
+Q6782004,María Eugenia Vidal,spouse,Q21280633,Ramiro Tagliaferro
+Q68869954,Santiago Cafiero,father,Q6300652,Juan Pablo Cafiero
+Q721561,Jorge Taiana,father,Q5934429,Jorge Alberto Taiana
+Q75105745,Bettina Romero,father,Q6299395,Juan Carlos Romero
+Q75761706,Lisandro Bonelli,relative,Q941258,Ginés González García
+Q82396566,Jorge Leonardo Santiago,spouse,Q21564693,Fernanda Antonijevic
+Q9016431,Juliana Di Tullio,spouse,Q20994880,Juan Bontempo
+Q9054826,Palito Ortega,child,Q2843557,Luis Ortega
+Q9054826,Palito Ortega,child,Q5954877,Julieta Ortega
+Q9054826,Palito Ortega,child,Q6112393,Rosario Ortega
+Q9054826,Palito Ortega,child,Q7442667,Sebastián Ortega
+Q9054826,Palito Ortega,child,Q8775259,Emanuel Ortega
+Q9054826,Palito Ortega,spouse,Q5852614,Evangelina Salazar
+Q962824,Carlos Juárez,spouse,Q6010792,Mercedes Aragonés de Juárez
