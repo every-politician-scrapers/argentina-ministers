@@ -2,6 +2,7 @@ id,name,relationship,relative,relativename
 Q105969717,Martín Soria,father,Q176160,Carlos Soria
 Q105969717,Martín Soria,mother,Q17630853,Susana Freydoz
 Q105969717,Martín Soria,sibling,Q21856280,María Emilia Soria
+Q107736916,Enrique Estévez,father,Q9001319,Guillermo Estévez Boero
 Q107802947,Nicolás Rodríguez Saá,partner,Q21856142,Ana Carolina Gaillard
 Q108386730,Martín Berhongaray,father,Q18745601,Antonio Tomás Berhongaray
 Q11184187,Rogelio Frigerio,father,Q47436405,Octavio Frigerio
@@ -60,6 +61,7 @@ Q2324263,Abel Posse,child,Q52889259,Iván Parentini-Langenheim
 Q2347235,Antonio Cafiero,child,Q2841182,Mario Cafiero
 Q2347235,Antonio Cafiero,child,Q6300652,Juan Pablo Cafiero
 Q23906959,Magdalena Sierra,spouse,Q5935055,Jorge Ferraresi
+Q24821342,Mariana Zuvic,spouse,Q5819618,Eduardo Raúl Costa
 Q2642828,Alberto Fernández,child,Q79075662,Tani Fernández
 Q2642828,Alberto Fernández,partner,Q72756276,Fabiola Yáñez
 Q28058759,Nicolás Dujovne,father,Q17622748,Berardo Dujovne
@@ -101,6 +103,7 @@ Q5042309,Carlos Mac Allister,child,Q33297140,Alexis Mac Allister
 Q508497,Fernando Solanas,child,Q3187791,Juan Diego Solanas
 Q508497,Fernando Solanas,partner,Q5116252,Chunchuna Villafañe
 Q5186335,Cristina Cremer de Busti,spouse,Q6277772,Jorge Busti
+Q52395487,Javier Milei,partner,Q103865395,Daniela
 Q5274808,Diego Santilli,father,Q3787511,Hugo Santilli
 Q5340693,Eduardo Menem,sibling,Q185107,Carlos Menem
 Q561837,Mauricio Macri,father,Q5483633,Francisco Macri
@@ -138,6 +141,7 @@ Q68869954,Santiago Cafiero,father,Q6300652,Juan Pablo Cafiero
 Q721561,Jorge Taiana,father,Q5934429,Jorge Alberto Taiana
 Q75105745,Bettina Romero,father,Q6299395,Juan Carlos Romero
 Q75761706,Lisandro Bonelli,relative,Q941258,Ginés González García
+Q76824320,Alicia Aparicio,spouse,Q5982773,Luis Andreotti
 Q82396566,Jorge Leonardo Santiago,spouse,Q21564693,Fernanda Antonijevic
 Q9016431,Juliana Di Tullio,spouse,Q20994880,Juan Bontempo
 Q9054826,Palito Ortega,child,Q2843557,Luis Ortega
