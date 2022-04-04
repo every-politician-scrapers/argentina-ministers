@@ -7,7 +7,7 @@ module.exports = function () {
   let until = meta.term.end ? `"${meta.term.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
   return `SELECT DISTINCT ?item ?name ?party ?partyLabel ?region ?regionLabel
-                 ?startDate ?endDate ?gender (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
+                 ?startDate ?endDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
       WHERE {
@@ -63,27 +63,18 @@ module.exports = function () {
       )
 
       OPTIONAL {
-        ?item wdt:P21 ?sog .
-        OPTIONAL { ?sog rdfs:label ?gender FILTER(LANG(?gender)="en") }
-      }
-      OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
-
-      OPTIONAL {
         ?ps pq:P768 ?region .
         OPTIONAL { ?region rdfs:label ?regionLabel FILTER (LANG(?regionLabel)="${meta.lang}") }
       }
-      BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
 
       OPTIONAL {
         ?ps pq:P4100 ?party .
-        OPTIONAL { ?party wdt:P1813 ?partyShortName }
-        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyName)="${meta.lang}") }
+        OPTIONAL { ?party rdfs:label ?partyLabel FILTER (LANG(?partyLabel)="${meta.lang}") }
       }
-      BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
-        ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.lang}.wikipedia.org') .
+        ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), 'es.wikipedia.org/wiki/Anexo:Diputados_nacionales_de_Argentina_(2019-2021)') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
       }
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }

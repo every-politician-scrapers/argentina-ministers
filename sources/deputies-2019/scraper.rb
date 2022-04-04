@@ -18,7 +18,7 @@ class DmyDate
   def to_s
     return if datestr.include? 'En el cargo'
 
-    datestr.split('/').map(&:ztidy).reverse.map { |str| format('%02d', str) rescue binding.pry }.join('-') 
+    datestr.split('/').map(&:ztidy).reverse.map { |str| format('%02d', str) }.join('-')
   end
 
   attr_reader :datestr
@@ -49,7 +49,7 @@ class RepList < Scraped::HTML
     end
 
     field :name do
-      name_node.text
+      name_node.text.ztidy
     end
 
     field :region do
@@ -57,7 +57,7 @@ class RepList < Scraped::HTML
     end
 
     field :regionLabel do
-      region_node.text
+      region_node.text.ztidy
     end
 
     field :party do
@@ -65,7 +65,7 @@ class RepList < Scraped::HTML
     end
 
     field :partyLabel do
-      party_node.text
+      party_node.text.ztidy
     end
 
     field :startDate do
