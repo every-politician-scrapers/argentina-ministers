@@ -1,0 +1,337 @@
+@@,item,name,party,partylabel,region,regionlabel,startdate,enddate
+->,Q21856218->Q63208413,Adriana Mónica Nazario,Q21044814->Q4732336,United for a New Alternative->Córdoba Federal,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+->,Q21856149,Adrián Eduardo Grana,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q19006869,Agustín Rossi->Agustín Oscar Rossi,Q3753652->Q1072438,Justicialist Front->Frente para la Victoria-PJ,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2019-12-10
+->,Q20667914,Alberto Ciampini->José Alberto Ciampini,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44800,Neuquén Province->Neuquén,2015-12-10,NULL->2019-12-09
++++,,Alberto Oscar Roberti,Q1053668,Justicialista,Q44754,Buenos Aires,2015-12-10,2018-05-17
+->,Q23411111,"Albor Cantard->Albor Ángel ""Nicky"" Cantard",Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2021-12-09
++++,,Alejandra Alcira Caballero,Q1507720,Pro,Q1486,Ciudad de Buenos Aires,2019-06-26,2019-12-09
+->,Q47142712,Alejandra María Vigo,Q4732336,Union for Córdoba->Córdoba Federal,Q44759,Córdoba Province->Córdoba,2017-12-10,2021-12-10->2021-12-09
+->,Q33296854,Alejandra Rodenas,Q3753652->Q1053668,Justicialist Front->Nuevo Espacio Santafesino,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2019-12-11
++++,Q47922380,Alejandro  Grandinetti,Q15120034,Federal Unidos por una Nueva Argentina,Q44823,Santa Fe,2015-12-10,2019-12-09
+---,Q21856150,Alejandro Ariel Grandinetti,Q15120034,Renewal Front,Q44823,Santa Fe Province,2015-12-10,
++++,,Alejandro Carlos Augusto Echegaray,Q123585,Unión Cívica Radical,Q44754,Buenos Aires,2015-12-10,2019-12-09
+---,Q21856122,Alejandro Echegaray,Q123585,Radical Civic Union,Q44754,Buenos Aires Province,2015-12-10,
+---,Q30905503,Alejandro Finocchiaro,,,,,2021-12-10,
+->,Q21856277,Alejandro Francisco Snopek,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44764,Province of Jujuy->Jujuy,2015-12-10,NULL->2019-12-09
++++,,Alejandro García,Q1507720,Pro,Q1486,Ciudad de Buenos Aires,2017-12-10,2021-12-09
+->,Q5665422,Alejandro Ramos,Q1072438->Q1053668,Front for Victory->Primero Argentina,Q44823,Santa Fe Province->Santa Fe,2015-12-10,NULL->2019-12-09
+---,Q62118467,Alejandro Vilca,,,Q44764,Province of Jujuy,2021-12-10,
+---,Q5668101,Alfredo Cornejo,,,Q44797,Mendoza,2019-12-10,2021-12-10
+->,Q20012995,Alfredo Olmedo->Alfredo Horacio Olmedo,Q41556881,,Q44803,Salta Province->Salta,2015-12-10,NULL->2019-12-09
+->,Q47143052,Alicia Fregonese,Q20749344->Q1507720,Cambiemos->Pro,Q44762,Entre Ríos Province->Entre Ríos,2017-12-10,NULL->2021-12-09
+->,Q5668850,Alicia Terada,Q47117734->Q1104292,Alianza Cambiemos->Coalición Cívica,Q44757,Chaco Province->Chaco,2017-12-10,NULL->2021-12-09
+->,Q47144879,"Alma Sapag->Alma ""Chani"" Sapag",Q7002024,Neuquén People's Movement->Movimiento Popular Neuquino,Q44800,Neuquén Province->Neuquén,2017-12-10,NULL->2021-12-09
+---,Q21856175,Ana Llanos,Q1072438,Front for Victory,Q45007,Chubut Province,2015-12-10,
++++,,Ana María Llanos Massa,Q1072438,Frente para la Victoria-PJ,Q45007,Chubut,2015-12-10,2019-12-09
+->,Q21856157,Anabella Ruth Hers Cabral,Q1507720,Republican Proposal->Pro,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2018-12-12
+->,Q21856066,Analuz Ailen Carol,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44832,"Tierra del Fuego, Antarctica and South Atlantic Islands province->Tierra del Fuego",2015-12-10,NULL->2019-12-09
++++,Q21856236,Analía Rach Quiroga,Q1072438,Frente para la Victoria-PJ,Q44757,Chaco,2015-12-10,2019-12-09
+---,Q47455149,Andres Alberto Vallone,,,,,2017-12-09,
++++,,Andrés Alberto Vallone,Q5668474,Unidad Justicialista,Q44818,San Luis,2017-12-18,2019-12-09
+->,Q5667299,Andrés Larroque,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q19601030,Andrés Zottos,Q47146828->Q1053668,NULL->Justicialista,Q44803,Salta Province->Salta,2017-12-10,NULL->2021-12-09
+->,Q47145158,Antonio José Carambia,Q47109540->Q1507720,NULL->Pro,Q44821,Santa Cruz Province->Santa Cruz,2017-12-10,NULL->2021-12-09
++++,Q21856128,Araceli Ferreyra,Q30904600,Movimiento Evita,Q44758,Corrientes,2015-12-10,2019-12-09
+->,Q47143222,Ariel Rauschenberger,Q1053668,Justicialist Party->Justicialista,Q44795,La Pampa,2017-12-10,NULL->2021-12-09
+->,Q47455151,Astrid Hummel,NULL->Q1507720,NULL->Pro,Q44823,Santa Fe Province->Santa Fe,2017-12-10->2017-12-18,NULL->2019-12-09
+->,Q41776986,Atilio Francisco Salvador Benedetti,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44762,Entre Ríos Province->Entre Ríos,2017-12-10,NULL->2021-12-09
++++,Q3754443,Axel Kicillof,Q1072438,Frente para la Victoria-PJ,Q1486,Ciudad de Buenos Aires,2015-12-10,2019-12-09
+->,Q5715314,Aída Beatríz Máxima Ayala->Aída Beatriz Máxima Ayala,Q47117734->Q123585,Alianza Cambiemos->Unión Cívica Radical,Q44757,Chaco Province->Chaco,2017-12-10,NULL->2021-12-09
+->,Q47145509,Beatriz Luisa Ávila,Q47114962,Cambiemos para el Bicentenario,Q44829,Tucumán Province->Tucumán,2017-12-10,2021-12-10->2021-12-09
+->,Q27307685,Brenda Lis Austin,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44759,Córdoba Province->Córdoba,2017-12-10,NULL->2021-12-09
+->,Q21856231,Carla Betina Pitiot,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21855237,Carla Carrizo->Ana Carla Carrizo,Q47114471->Q47095570,NULL->Evolución Radical,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q47451468,Carlos Alberto Fernández,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q110389891,Carlos Alberto Fernández,,,Q44798,Misiones Province,2021-12-16,
+->,Q21856274,Carlos Américo Selva,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q5041910,Carlos Castagneto->Carlos Daniel Castagneto,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856264,Carlos Gastón Roma,Q1507720,Republican Proposal->Pro,Q44832,"Tierra del Fuego, Antarctica and South Atlantic Islands province->Tierra del Fuego",2015-12-10,NULL->2019-12-09
+->,Q47142563,Carmen Polledo,Q42116847->Q1507720,Vamos Juntos->Pro,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q107646264,Carolina Yutrovic,,,,,2019-12-19,
+->,Q21856214,Cecilia Moreau,Q66987448->Q15120034,Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
++++,Q16300546,Claudia Alejandra Ledesma Abdala de Zamora,Q3088428,Frente Cívico por Santiago,Q44827,Santiago del Estero,2017-12-10,2019-12-09
+---,Q16297772,Claudia Alicia Bernazza,Q64590596,Frente de Todos,Q44754,Buenos Aires Province,2020-05-13,
+->,Q47143414,Claudia Najul,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44797,Mendoza,2017-12-10,NULL->2021-12-09
++++,Q21856120,Claudio Martín Doñate,Q1072438,Frente para la Victoria-PJ,Q44802,Río Negro,2015-12-10,2019-12-09
+->,Q18224934,Cornelia Schmidt-Liermann,Q1507720,Republican Proposal->Pro,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
++++,Q21856174,Daniel  Lipovetzky,Q1507720,Pro,Q44754,Buenos Aires,2015-12-10,2019-12-09
+---,Q68057058,Daniel Arroyo,,,,,2021-12-10,
+---,Q21856116,Daniel Di Stefano,Q1072438,Front for Victory,Q44798,Misiones Province,2015-12-10,
+->,Q47117980->Q68057058,Daniel Fernando Arroyo,Q15120034,Renewal Front,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2019-12-10
+->,Q5217139,Daniel Filmus,Q47114897->Q1072438,Unidad Porteña->Frente para la Victoria-PJ,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2019-12-23
+---,Q19521806,Daniel Gollán,,,,,2021-12-10,
+->,Q21856170,Daniel Ricardo Kroneberger,Q123585,Radical Civic Union->Unión Cívica Radical,Q44795,La Pampa,2015-12-10,2021-12-10->2019-12-09
++++,Q1162679,Daniel Scioli,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2017-12-10,2020-03-05
++++,,Daniel di Stefano,Q5505872,Frente de la Concordia Misionero,Q44798,Misiones,2015-12-10,2019-12-09
+->,Q47143393,Danilo Adrián Flores,Q47146729->Q1053668,NULL->Justicialista,Q44796,La Rioja Province->La Rioja,2017-12-10,NULL->2021-12-09
+---,Q108299590,Dante López Rodríguez,Q64590596,Frente de Todos,Q44756,Catamarca Province,2019-12-19,
+->,Q63863578,Darío Martínez->Norman Darío Martínez,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44800,Neuquén Province->Neuquén,2016-03-01->2017-12-10,NULL->2019-12-09
+->,Q47144830,David Pablo Schlereth,Q20749344->Q1507720,Cambiemos->Pro,Q44800,Neuquén Province->Neuquén,2017-12-10,NULL->2021-12-09
+->,Q5274589,Diego Bossio->Diego Luis Bossio,Q1053668,Justicialist Party->Justicialista,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856194,Diego Matías Mestre,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44759,Córdoba Province->Córdoba,2017-12-10,NULL->2021-12-09
+---,Q110219598,Diego Sartori,,,Q44798,Misiones Province,2019-12-10,
+->,Q19897814,Eduardo  Cáceres->Eduardo Augusto Cáceres,Q47146427->Q1507720,NULL->Pro,Q44805,San Juan Province->San Juan,2017-12-10,NULL->2021-12-09
+->,Q5818962,Eduardo Amadeo->Eduardo Pablo Amadeo,Q1507720,Republican Proposal->Pro,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+---,Q47142127,Eduardo Bucca,,,Q44754,Buenos Aires Province,2017-12-10,
+---,Q47142127,Eduardo Bucca,Q3753652,Justicialist Front,Q44754,Buenos Aires Province,2017-12-10,
++++,Q47142127,Eduardo Bucca,Q1053668,Justicialista,Q44754,Buenos Aires,2017-12-10,2021-12-09
++++,Q12164058,Eduardo Enrique de Pedro,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2015-12-10,2019-12-09
+---,Q108425883,Eduardo Gabriel Fernández,Q64590596,Frente de Todos,Q44759,Córdoba Province,2019-12-10,
++++,Q3048310,Eduardo Segundo Brizuela del Moral,Q5124351,Frente Cívico y Social de Catamarca,Q44756,Catamarca,2017-12-10,2021-12-09
+---,Q22329411,Eduardo Valdés,Q64590596,Frente de Todos,Q1486,Buenos Aires,2019-12-10,
+->,Q47142443,Elda Pértile,Q47145682->Q1053668,NULL->Justicialista,Q44757,Chaco Province->Chaco,2017-12-10,NULL->2021-12-09
+->,Q270025,Elisa Carrió->Elisa María Avelina Carrió,Q42116847->Q1104292,Vamos Juntos->Coalición Cívica,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2020-03-01
++++,,Elva Susana Balbo,Q1507720,Pro,Q44797,Mendoza,2015-12-10,2018-04-30
+->,Q21614815,Emilio Monzó,NULL->Q1507720,NULL->Pro,Q44754,Buenos Aires Province->Buenos Aires,2021-12-10->2015-12-10,NULL->2019-12-09
+->,Q55773927,Estela Mary Neder,NULL->Q3088428,NULL->Frente Cívico por Santiago,NULL->Q44827,NULL->Santiago del Estero,2017-11-22,NULL->2019-12-09
+->,Q47142758,Estela Mercedes Regidor Belledone,Q47146931->Q123585,NULL->Unión Cívica Radical,Q44758,Corrientes,2017-12-10,NULL->2021-12-09
+->,Q47142057,Ezequiel Fernández Langan,Q20749344->Q1507720,Cambiemos->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q47141966,Fabio José Quetglas,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q20644683,Facundo Garretón,Q1507720,Republican Proposal->Pro,Q44829,Tucumán Province->Tucumán,2015-12-10,NULL->2019-12-09
+->,Q16566094,Facundo Moyano->Juan Facundo Moyano,Q15120034,Renewal Front,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q5855240,Facundo Suárez Lastra,Q42116847->Q123585,Vamos Juntos->Unión Cívica Radical,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q108028101,Federico Frigerio,,,,,2019-12-10,
+->,Q47143430,Federico Raúl Zamarbide,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44797,Mendoza,2017-12-10,NULL->2021-12-09
+->,Q1403237,Felipe Solá->Felipe Carlos Solá,Q34692011,1País,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2019-12-10
+->,Q34207613,Fernanda Vallejos,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
++++,Q55825598,Fernando Asencio,,,Q44754,Buenos Aires,2018-05-23,2019-12-09
++++,Q16198916,Fernando Espinoza,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2017-12-10,2019-12-11
+->,Q5859724,Fernando Iglesias->Fernando Adolfo Iglesias,Q42116847->Q1507720,Vamos Juntos->Pro,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q47144819,Flavia Morales,Q5505872,Party of Social Concord->Frente de la Concordia Misionero,Q44798,Misiones Province->Misiones,2017-12-10,NULL->2021-12-09
+---,Q963100,Florencio Randazzo,,,Q44754,Buenos Aires Province,2021-12-10,
+->,Q21856141,Francisco Abel Furlán,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+---,Q108101212,Francisco Guevara,,,,,2019-12-19,2021-12-10
+->,Q47142696,Gabriel Alberto Frizza,Q20749344->Q1507720,Cambiemos->Pro,Q44759,Córdoba Province->Córdoba,2017-12-10,NULL->2021-12-09
+---,Q110249925,Gabriela Brouwer de Koning,Q64590412,Juntos por el Cambio,Q44759,Córdoba Province,2021-12-10,
+->,Q5495211,Gabriela Cerruti,Q47114897->Q1072438,Unidad Porteña->Frente para la Victoria-PJ,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q107719053,Gabriela Estévez->Gabriela Beatriz Estévez,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+---,Q48216423,Gisela Marziotta,,,Q1486,Buenos Aires,2020-01-29,
+->,Q21856272,Gisela Scaglia,Q20749344->Q1507720,Cambiemos->Pro,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2021-12-09
++++,,Gladys Medina,Q1053668,Justicialista por Tucumán,Q44829,Tucumán,2017-12-10,2021-12-09
+->,Q47145361,Gonzalo Pedro Antonio del Cerro,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2021-12-09
+->,Q5883959,Graciela Camaño,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856086,Graciela Caselles->Graciela María Caselles,Q6156958,Partido Bloquista->Partido Bloquista de San Juan,Q44805,San Juan Province->San Juan,2015-12-10,NULL->2019-12-09
+->,Q21856217,Graciela Navarro,Q3088428,Civic Front for Santiago->Frente Cívico por Santiago,Q44827,Santiago del Estero Province->Santiago del Estero,2015-12-10,NULL->2019-12-09
+->,Q5591576,Graciela Ocaña->María Graciela Ocaña,Q20749344->Q1507720,Cambiemos->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
++++,Q46761050,Guillermo Carmona,Q1072438,Frente para la Victoria-PJ,Q44797,Mendoza,2015-12-10,2019-12-09
+---,Q21856065,Guillermo Ramón Carmona,Q1072438,Front for Victory,Q44797,Mendoza,2015-12-10,
+---,Q47118651,Guillermo Tristan Montenegro,Q20749344,Cambiemos,Q44754,Buenos Aires Province,2017-12-10,
++++,Q5888761,Guillermo Tristán Montenegro,Q1507720,Pro,Q44754,Buenos Aires,2017-12-10,2019-12-04
+->,Q47142407,Gustavo Arturo Saadi,Q1072438->Q1053668,Front for Victory->Elijo Catamarca,Q44756,Catamarca Province->Catamarca,2017-12-10,NULL->2019-12-03
+->,Q5889685,Gustavo José Bevilacqua,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q47142461,Gustavo Menna,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q45007,Chubut Province->Chubut,2017-12-10,NULL->2021-12-09
++++,,Gustavo Ramiro Fernández Patri,Q1072438,Frente para la Victoria-PJ,Q44761,Formosa,2017-12-10,2021-12-09
+---,Q47455152,Hector Antonio Stefani,,,,,2017-12-09,
+->,Q47142046,Hernán Berisso,Q20749344->Q1507720,Cambiemos->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q5896197,Hernán Lombardi,,,Q44754,Buenos Aires Province,2021-12-10,
+->,Q21856147,Horacio Goicoechea,Q123585,Radical Civic Union->Unión Cívica Radical,Q44757,Chaco Province->Chaco,2015-12-10,NULL->2019-12-09
+->,Q5901967,Horacio Pietragalla Corti,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2019-12-10
++++,Q60968080,Hugo Marcucci,Q123585,Unión Cívica Radical,Q44823,Santa Fe,2015-12-10,2019-12-09
+---,Q21856181,Hugo María Marcucci,Q123585,Radical Civic Union,Q44823,Santa Fe Province,2015-12-10,
++++,Q47145575,Hugo Orlando Infante,Q3088428,Frente Cívico por Santiago,Q44827,Santiago del Estero,2017-12-10,2018-12-30
+->,Q11682640,Hugo Yasky,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
++++,Q5906402,Héctor Alberto Roquel,Q123585,Unión Cívica Radical,Q44821,Santa Cruz,2015-12-10,2018-02-27
++++,,Héctor Antonio Stefani,Q1507720,Pro,Q44832,Tierra del Fuego,2017-12-10,2021-12-09
+->,Q312505,Héctor Baldassi,Q20749344->Q1507720,Cambiemos->Pro,Q44759,Córdoba Province->Córdoba,2017-12-10,NULL->2021-12-09
++++,Q21856221,Héctor Enrique Olivares,Q123585,Unión Cívica Radical,Q44796,La Rioja,2015-12-10,2019-05-12
+->,Q17634375,Héctor Flores,Q20749344->Q1104292,Cambiemos->Coalición Cívica,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,2021-12-10->2021-12-09
+---,Q104433320,Ignacio Agustín Torres,Q1507720,Republican Proposal,Q45007,Chubut Province,2019-12-10,2021-12-10
+->,Q21856178,Inés Beatriz Lotto de Vecchietti->Inés Beatriz Lotto,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44761,Formosa Province->Formosa,2015-12-10,NULL->2019-12-09
+->,Q21856058,Ivana María Bianchi,Q5668474,Federal Commitment->Unidad Justicialista,Q44818,San Luis Province->San Luis,2015-12-10,NULL->2019-12-09
+->,Q47451525,Javier Campos,Q20749344->Q1104292,Cambiemos->Coalición Cívica,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q21480721,Javier David->Néstor Javier David,Q1053668,Justicialist Party->Justicialista,Q44803,Salta Province->Salta,2015-12-10,NULL->2019-12-09
+->,Q47142783,Jorge Antonio Romero,NULL->Q1072438,NULL->Frente para la Victoria-PJ,Q44758,Corrientes,2017-12-10,NULL->2021-12-09
+->,Q21856139,Jorge Daniel Franco,Q41556499->Q5505872,NULL->Frente de la Concordia Misionero,Q44798,Misiones Province->Misiones,2015-12-10,NULL->2019-12-09
+->,Q47143071,Jorge Enrique Lacoste,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44762,Entre Ríos Province->Entre Ríos,2017-12-10,NULL->2021-12-09
+---,Q55825600,Jorge Ricardo Enriquez,Q20749344,Cambiemos,Q1486,Buenos Aires,2017-12-10,
++++,Q16582151,Jorge Ricardo Enríquez,Q1507720,Pro,Q1486,Ciudad de Buenos Aires,2017-12-18,2021-12-09
+->,Q21856283,Jorge Taboada,Q26258776,"We Are All Chubut->Cultura, Educación y Trabajo",Q45007,Chubut Province->Chubut,2015-12-10,NULL->2019-12-09
+---,Q47142613,Jose Alejandro Garcia,Q42116847,Vamos Juntos,Q1486,Buenos Aires,2017-12-10,
+->,Q16300926,Josefina González->Josefina Victoria González,Q3753652->Q1072438,Justicialist Front->Frente para la Victoria-PJ,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2021-12-09
+->,Q47142035,Josefina Mendoza,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q21856269,José Arnaldo Ruiz Aragón,Q64590596->Q1072438,Frente de Todos->Frente para la Victoria-PJ,Q44758,Corrientes,2015-12-10,NULL->2019-12-09
+->,Q21856219,José Carlos Núñez,Q1507720,Republican Proposal->Pro,Q44823,Santa Fe Province->Santa Fe,2015-12-10,NULL->2019-12-09
+->,Q21856222,José Fernando Orellana,Q41556939,,Q44829,Tucumán Province->Tucumán,2015-12-10,NULL->2019-10-30
+->,Q5649262,José Ignacio de Mendiguren,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q4137510,José Luis Gioja,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44805,San Juan Province->San Juan,2015-12-10,NULL->2019-12-09
+->,Q47143208,José Luis Martiarena,Q3753652->Q1053668,Justicialist Front->Justicialista,Q44764,Province of Jujuy->Jujuy,2017-12-10,NULL->2021-12-09
++++,,José Luis Moretti,Q15120034,Federal Unidos por una Nueva Argentina,Q44796,La Rioja,2019-05-15,2019-12-09
+->,Q47143468->Q62024002,José Luis Ramón,Q2917600->Q65035935,Intransigent Party->Protectora,Q44797,Mendoza,2017-12-10,NULL->2021-12-09
+->,Q21856259->Q104946286,José Luis Riccardo,Q47146969->Q123585,NULL->Unión Cívica Radical,Q44818,San Luis Province->San Luis,2017-12-10,NULL->2021-12-09
+->,Q5640784,José Manuel Cano,Q47114962->Q123585,Cambiemos para el Bicentenario->Unión Cívica Radical,Q44829,Tucumán Province->Tucumán,2017-12-10,NULL->2021-12-09
+->,Q47142019,Juan Aicega,Q20749344->Q1507720,Cambiemos->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q47145093,Juan Benedicto Vázquez,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44821,Santa Cruz Province->Santa Cruz,2017-12-10->2017-12-18,NULL->2021-12-09
+->,Q5948039,Juan Cabandié,Q47114897->Q1072438,Unidad Porteña->Frente para la Victoria-PJ,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2019-12-09
+->,Q21856294,Juan Carlos Villalonga,Q1507720,Republican Proposal->Pro,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q20737416,Juan Fernando Brügge,Q21044814->Q4732336,United for a New Alternative->Córdoba Federal,Q44759,Córdoba Province->Córdoba,2015-12-10->2016-03-01,NULL->2019-12-09
+->,Q47143098,Juan José Bahillo,Q47146244->Q1053668,NULL->Justicialista,Q44762,Entre Ríos Province->Entre Ríos,2017-12-10,NULL->2019-12-02
+->,Q21856158,Juan Manuel Huss,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44762,Entre Ríos Province->Entre Ríos,2015-12-10,NULL->2019-12-09
+---,Q47117877,Juan Manuel Lopez,Q42116847,Vamos Juntos,Q1486,Buenos Aires,2017-12-10,
+->,Q104214254,Juan Manuel López,NULL->Q1104292,NULL->Coalición Cívica,NULL->Q1486,NULL->Ciudad de Buenos Aires,2017->2017-12-10,NULL->2021-12-09
+->,Q21856227,Juan Manuel Pereyra,Q5870697,NULL->Concertación Forja,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+->,Q47142456,Juan Mosqueda,Q47145682->Q1053668,NULL->Justicialista,Q44757,Chaco Province->Chaco,2017-12-10,NULL->2021-12-09
+---,Q456351,Julio Cobos,,,Q44797,Mendoza,2021-12-10,
+->,Q47143377,Julio Enrique Sahad,Q47109114->Q1507720,NULL->Pro,Q44796,La Rioja Province->La Rioja,2017-12-10,NULL->2021-12-09
+---,Q5955633,Julio Pereyra,,,,,2021-12-10,
+->,Q20017012,Julio Solanas->Julio Rodolfo Solanas,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44762,Entre Ríos Province->Entre Ríos,2015-12-10,NULL->2019-12-09
+->,Q6309576,Julio de Vido,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2017-10-25
+->,Q21856118,Julián Dindart,Q123585,Radical Civic Union->Unión Cívica Radical,Q44758,Corrientes,2015-12-10,NULL->2019-12-09
+->,Q47145056,Karim Augusto Alume Sbodio,Q47146278->Q5668474,NULL->Unidad Justicialista,Q44818,San Luis Province->San Luis,2017-12-10,NULL->2021-12-09
+->,Q21856211,Karina Alejandra Molina,Q1507720,Republican Proposal->Pro,Q44796,La Rioja Province->La Rioja,2015-12-10,NULL->2019-12-09
+->,Q21856053,Karina Banfi,Q123585,Radical Civic Union->Unión Cívica Radical,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q47142397,Laura Russo,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q47142307,Laura Valeria Alonso,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2019-12-10
++++,,Leandro Gastón López Koenig,Q1507720,Pro,Q44800,Neuquén,2015-12-10,2019-12-09
+---,Q21856176,Leandro López Koenig,Q1507720,Republican Proposal,Q44800,Neuquén Province,2015-12-10,
+->,Q21856151,Leonardo Grosso,Q30904600,Evita Movement->Movimiento Evita,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856186,Leonor María Martínez Villada,Q1104292,Civic Coalition ARI->Coalición Cívica,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+---,Q21856186,Leonor María Martínez Villada,,,Q44759,Córdoba Province,2015-12-10,
+->,Q5973474,Leopoldo Moreau->Leopoldo Raúl Guido Moreau,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q108401294,Liliana Patricia Yambrún,Q64590596,Frente de Todos,Q44754,Buenos Aires Province,2019-12-10,
+->,Q47144927,Lorena Matzen,Q47146448->Q123585,NULL->Unión Cívica Radical,Q44802,Río Negro Province->Río Negro,2017-12-10,NULL->2021-12-09
++++,Q21856297,Luana Volnovich,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2015-12-10,2019-12-09
+->,Q21856160,Lucas Ciriaco Incicco,Q1507720,Republican Proposal->Pro,Q44823,Santa Fe Province->Santa Fe,2015-12-10,NULL->2019-12-09
+->,Q21856172,Luciano Andrés Laspina,Q20749344->Q1507720,Cambiemos->Pro,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2021-12-09
++++,Q21856094,Lucila María de Ponti,Q30904600,Movimiento Evita,Q44823,Santa Fe,2015-12-10,2019-12-09
+->,Q21856230,Luis Alfonso Petri->Luis  Petri,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44797,Mendoza,2017-12-10,NULL->2021-12-09
+->,Q4122381,Luis Beder Herrera,Q1053668,Justicialist Party->Justicialista,Q44796,La Rioja Province->La Rioja,2015-12-10,NULL->2019-12-09
+---,Q108377000,Luis Di Giacomo,Q25405448,Juntos Somos Río Negro,Q44802,Río Negro Province,2019-12-10,
++++,Q5982877,Luis Eugenio Basterra,Q1072438,Frente para la Victoria-PJ,Q44761,Formosa,2015-12-10,2019-12-09
+->,Q21856060,Luis Gustavo Borsani,Q123585,Radical Civic Union->Unión Cívica Radical,Q44797,Mendoza,2015-12-10,NULL->2019-12-09
+->,Q47145531,Luis Gustavo Contigiani,Q7248613,"Progressive, Civic and Social Front->Frente Progresista Cívico y Social",Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2021-12-09
+---,Q1280001,Luis Juez,,,Q44759,Córdoba Province,2019-12-10,2021-12-10
+->,Q21856224,Luis Mario Pastori,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44798,Misiones Province->Misiones,2017-12-10,NULL->2021-12-09
+---,Q21856284,Luis Rodolfo Tailhade,Q1072438,Front for Victory,Q44754,Buenos Aires Province,2015-12-10,
+->,Q23906959,Magdalena Sierra,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q47141983,Marcela Campagnoli,Q20749344->Q1104292,Cambiemos->Coalición Cívica,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q21856223,Marcela Fabiana Passo,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
++++,,Marcelo Alejandro Monfort,Q123585,Unión Cívica Radical,Q44762,Entre Ríos,2015-12-10,2019-12-09
+->,Q21856298,Marcelo Germán Wechsler,Q1507720,Republican Proposal->Pro,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+---,Q21856212,Marcelo Monfort,Q123585,Radical Civic Union,Q44762,Entre Ríos Province,2015-12-10,
+->,Q21856173,Marco Lavagna,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856090,Marcos Cleri,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44823,Santa Fe Province->Santa Fe,2015-12-10,NULL->2019-12-09
+->,Q21856213,Mariana Morales->Mariana Elizabet Morales,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44827,Santiago del Estero Province->Santiago del Estero,2015-12-10,NULL->2019-12-09
+->,Q47143149,Mario Horacio Arce,Q47109411->Q123585,NULL->Unión Cívica Radical,Q44761,Formosa Province->Formosa,2017-12-10,NULL->2021-12-09
+->,Q16301672,Mario Negri->Mario Raúl Negri,Q123585,Radical Civic Union->Unión Cívica Radical,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+->,Q41555908,Martin Maquieyra->Martín Maquieyra,Q47146755->Q1507720,NULL->Pro,Q44795,La Pampa,2017-12-10,NULL->2021-12-09
+->,Q21856228,Martín Alejandro Pérez,Q47146795->Q1072438,Frente Ciudadano y Social->Frente para la Victoria-PJ,Q44832,"Tierra del Fuego, Antarctica and South Atlantic Islands province->Tierra del Fuego",2017-12-10,NULL->2019-12-11
+---,Q108386730,Martín Berhongaray,Q123585,Radical Civic Union,Q44795,La Pampa,2019-12-10,
+->,Q37006507,Martín Grande,Q47114773->Q1507720,Cambiemos País->Pro,Q44803,Salta Province->Salta,2017-12-10,NULL->2021-12-09
++++,Q6553522,Martín Lousteau,Q47095570,Evolución Radical,Q1486,Ciudad de Buenos Aires,2017-12-10,2019-12-09
++++,Q6002748,Martín Miguel Llaryora,Q4732336,Córdoba Federal,Q44759,Córdoba,2017-12-10,2019-12-09
+->,Q47142105,Martín Nicolás Medina,Q20749344->Q1507720,Cambiemos->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q21856155,Martín Osvaldo Hernández,Q123585,Radical Civic Union->Unión Cívica Radical,Q44761,Formosa Province->Formosa,2015-12-10,NULL->2019-12-09
+---,Q110050625,Martín Tetaz,,,Q1486,Buenos Aires,2021-12-10,
+->,Q47142077,María Carla Piccolomini,Q20749344->Q1507720,Cambiemos->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q6003481,María Carolina Moisés,Q1053668,Justicialist Party->Justicialista,Q44764,Province of Jujuy->Jujuy,2015-12-10->2017-12-18,NULL->2019-12-09
+->,Q21856061,María Cristina Britez->María Cristina Brítez,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44798,Misiones Province->Misiones,2015-12-10,NULL->2019-12-09
+---,Q21856043,María Cristina Álvarez Rodriguez,Q1072438,Front for Victory,Q44754,Buenos Aires Province,2015-12-10,
++++,Q5791547,María Cristina Álvarez Rodríguez,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2015-12-10,2019-12-09
+---,Q108426848,María Dolores Martínez,Q64590412,Juntos por el Cambio,Q1486,Buenos Aires,2019-12-10,
++++,Q21856280,María Emilia Soria,Q1072438,Frente para la Victoria-PJ,Q44802,Río Negro,2017-12-10,2019-12-02
+---,Q6782004,María Eugenia Vidal,,,,,2021-12-10,
+->,Q21856258,María Fernanda Raverta->Fernanda Raverta,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
++++,,María Florencia Peñaloza Marianetti,,,Q44805,San Juan,2016-06-01,2019-12-09
+->,Q21856062,María Gabriela Burgos,Q47116009->Q123585,Frente Jujeño Cambiemos->Unión Cívica Radical,Q44764,Province of Jujuy->Jujuy,2017-12-10,NULL->2021-12-09
+->,Q21856152,María Isabel Guerín,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q47145338,María Lucila Lehman,Q20749344->Q1104292,Cambiemos->Coalición Cívica,Q44823,Santa Fe Province->Santa Fe,2017-12-10,NULL->2021-12-09
+->,Q21856188,María Lucila Masin,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44757,Chaco Province->Chaco,2015-12-10,NULL->2019-12-09
+---,Q101413635,María Luján Rey,Q64590412,Juntos por el Cambio,Q44754,Buenos Aires Province,2019-12-10,
+---,Q108324373,María Rosa Martínez,,,Q44754,Buenos Aires Province,2019-12-10,
+->,Q21856085,María Soledad Carrizo,Q20749344->Q123585,Cambiemos->Unión Cívica Radical,Q44759,Córdoba Province->Córdoba,2017-12-10,NULL->2021-12-09
++++,Q21856296,María Teresita Villavicencio,Q47095570,Evolución Radical,Q44829,Tucumán,2015-12-10,2019-12-09
++++,Q21856262,Matías David Rodríguez,Q1072438,Frente para la Victoria-PJ,Q44832,Tierra del Fuego,2015-12-10,2019-12-09
+->,Q47143118,Mayda Cresto,Q47146244->Q1053668,NULL->Justicialista,Q44762,Entre Ríos Province->Entre Ríos,2017-12-10,NULL->2021-12-09
++++,Q21856192,Mayra Soledad Mendoza,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2015-12-10,2019-12-09
+---,Q47145411,Medina Gladys,Q47145634,,Q44829,Tucumán Province,2017-12-10,
+->,Q47143336,Melina Aida Delú,Q1053668,Justicialist Party->Justicialista,Q44795,La Pampa,2017-12-10,NULL->2021-12-09
+->,Q21856216->Q98078246,Miguel Nanni,Q123585,Radical Civic Union->Unión Cívica Radical,Q44803,Salta Province->Salta,2015-12-10,NULL->2019-12-09
+->,Q17477925,Miguel Ángel Bazze,Q123585,Radical Civic Union->Unión Cívica Radical,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856279,Mirta Alicia Soraire,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44829,Tucumán Province->Tucumán,2015-12-10,NULL->2019-12-09
+->,Q21856225,Mirta Pastoriza->Mirta Ameliana Pastoriza,Q3088428,Civic Front for Santiago->Frente Cívico por Santiago,Q44827,Santiago del Estero Province->Santiago del Estero,2015-12-10,NULL->2019-12-09
+->,Q20016052,Mirta Tundis,Q34692011->Q15120034,1País->Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q6035188,Myriam Bregman,,,Q1486,Buenos Aires,2021-12-10,
+->,Q15719117,Máximo Kirchner->Máximo Carlos Kirchner,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44821,Santa Cruz Province->Santa Cruz,2015-12-10,NULL->2019-12-09
+->,Q47142291,Mónica Macha,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q62560219,Mónica Schlotthauer->Mónica Leticia Schlotthauer,NULL->Q11684178,NULL->Izquierda SocialistaFIT,NULL->Q44754,NULL->Buenos Aires,2016->2019-04-04,NULL->2019-12-09
+->,Q55825603,Nadia Lorena Ricci,Q123585,Radical Civic Union->Unión Cívica Radical,Q44821,Santa Cruz Province->Santa Cruz,2015-12-10->2018-03-14,NULL->2019-12-09
+---,Q108322391,Nancy Aracely Sand Giorasi,Q64590596,Frente de Todos,Q44758,Corrientes,2019-12-10,
+->,Q47142006,Natalia Soledad Villa,Q64590412->Q1507720,Juntos por el Cambio->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q110164788,Natalia Zaracho,Q64590596,Frente de Todos,Q44754,Buenos Aires Province,2021-12-16,
++++,Q32249562,Nathalia Inés González Seligra,Q7551801,PTSFrente de Izquierda,Q44754,Buenos Aires,2017-06-21,2019-03-10
+->,Q21856190->Q22238147,Nicolás María Massot,Q1507720,Republican Proposal->Pro,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+---,Q107802947,Nicolás Rodríguez Saá,,,Q44754,Buenos Aires Province,2019-12-19,2021-12-10
+->,Q15702157,Nicolás del Caño,Q598744->Q7551801,FIT->PTSFrente de Izquierda,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q3052342,Nilda Celia Garré,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q16142825,Norma Abdala de Matarazzo->Norma Amanda Abdala de Matarazzo,Q3088428,Civic Front for Santiago->Frente Cívico por Santiago,Q44827,Santiago del Estero Province->Santiago del Estero,2017-12-10,NULL->2021-12-09
+---,Q41555918,Norman Dario Martinez,Q47146911,,Q44800,Neuquén Province,2017-12-10,
+->,Q21856260,Olga María Rista,Q123585,Radical Civic Union->Unión Cívica Radical,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+->,Q47143499,Omar Chafí Félix,Q47146179->Q1053668,NULL->Somos Mendoza,Q44797,Mendoza,2017-12-10,NULL->2021-12-09
+---,Q28865310,Orieta Cecilia Vera Gonzalez,Q1104292,Civic Coalition ARI,Q44756,Catamarca Province,2016-12-22,
++++,,Orieta Cecilia Vera González,Q1104292,Coalición Cívica,Q44756,Catamarca,2016-12-22,2019-12-09
+->,Q21856179,Oscar Alberto Macias,Q1053668,Justicialist Party->Justicialista,Q44758,Corrientes,2015-12-10,NULL->2019-12-09
+->,Q47143184,Osmar Antonio Monaldi,Q47116009->Q1507720,Frente Jujeño Cambiemos->Pro,Q44764,Province of Jujuy->Jujuy,2017-12-10,NULL->2021-12-09
+->,Q41787670,Pablo Carro,Q47146846->Q1072438,NULL->Frente para la Victoria-PJ,Q44759,Córdoba Province->Córdoba,2017-12-10,NULL->2021-12-09
+->,Q15714680,Pablo Kosiner->Pablo Francisco Juan Kosiner,Q1053668,Justicialist Party->Justicialista,Q44803,Salta Province->Salta,2015-12-10,NULL->2019-12-09
+->,Q47142093->Q108109574,Pablo Miguel Ansaloni,Q20749344->Q1507720,Cambiemos->Pro,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
++++,Q47455147,Pablo Raúl Yedlin,Q1053668,Justicialista por Tucumán,Q44829,Tucumán,2017-12-10,2021-12-09
+->,Q17624215,Pablo Tonelli->Pablo Gabriel Tonelli,Q1507720,Republican Proposal->Pro,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856289,Pablo Torello,Q1507720,Republican Proposal->Pro,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+---,Q27307792,Pamela Verasay,,,Q44797,Mendoza,2021-12-10,
+---,Q101210427,Patricia Mounier,Q1072438,Front for Victory,Q44823,Santa Fe Province,2019-12-19,
++++,Q21856292,Paula Marcela Urroz,Q1507720,Pro,Q44754,Buenos Aires,2015-12-10,2019-12-09
+->,Q33297240,Paula Mariana Oliveto Lago,Q42116847->Q1104292,Vamos Juntos->Coalición Cívica,Q1486,Buenos Aires->Ciudad de Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q110561315,Paula Omodeo,,,Q44829,Tucumán Province,2021-12-10,
+->,Q47142723,Paulo Leonardo Cassinerio,Q4732336,Union for Córdoba->Córdoba Federal,Q44759,Córdoba Province->Córdoba,2017-12-10,NULL->2021-12-09
+->,Q21856234,Pedro Javier Pretto,Q1507720,Republican Proposal->Pro,Q44759,Córdoba Province->Córdoba,2015-12-10,NULL->2019-12-09
+->,Q21856195,Pedro Rubén Miranda,Q1053668,Justicialist Party->Justicialista,Q44797,Mendoza,2015-12-10,NULL->2019-12-09
+---,Q47116103,Ramiro Fernandez Patri,Q1072438,Front for Victory,Q44761,Formosa Province,2017-12-10,
+->,Q21856229,Raúl Joaquín Pérez,Q66987448->Q15120034,Federal Unidos por una Nueva Argentina,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+---,Q6108050,Ricardo Buryaile,Q123585,Radical Civic Union,Q44761,Formosa Province,2013-12-10,
+---,Q110191758,Ricardo Daniel Daives,,,Q44827,Santiago del Estero Province,2019-12-10,
+---,Q957748,Ricardo López Murphy,,,Q1486,Buenos Aires,2021-12-10,
+->,Q47143573,Ricardo Wellbach,Q5505872,Party of Social Concord->Frente de la Concordia Misionero,Q44798,Misiones Province->Misiones,2017-12-10,NULL->2021-12-09
++++,Q51003630,Roberto Salvarezza,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2017-12-10,2019-12-10
++++,Q45797708,Rodolfo Tailhade,Q1072438,Frente para la Victoria-PJ,Q44754,Buenos Aires,2015-12-10,2019-12-09
+->,Q21856263,Rodrigo Martín Rodríguez,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q43078686,Romina Del Plá->Romina del Plá,Q598744,FIT->Frente de Izquierda y de los Trabajadores,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+->,Q55825601,Rosa Rosario Muñoz,,,Q45007,Chubut Province->Chubut,2017-12-10,NULL->2021-12-09
+->,Q47145111,Roxana Nahir Reyes,Q47109540->Q123585,NULL->Unión Cívica Radical,Q44821,Santa Cruz Province->Santa Cruz,2017-12-10,NULL->2021-12-09
+->,Q21856018,Samanta María Celeste Acerenza,Q1507720,Republican Proposal->Pro,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q21856087,Sandra Daniela Castro,Q47108887->Q1072438,NULL->Frente para la Victoria-PJ,Q44805,San Juan Province->San Juan,2017-12-10,NULL->2019-12-09
+->,Q21856159,Santiago Nicolás Igon,Q1072438,Front for Victory->Frente para la Victoria-PJ,Q45007,Chubut Province->Chubut,2015-12-10,NULL->2019-12-09
+->,Q55825599->Q105379527,Sebastián Bragagnolo,Q1507720,Republican Proposal->Pro,Q44797,Mendoza,2015-12-10->2018-05-09,NULL->2019-12-09
+->,Q21856299,Sergio Javier Wisky,Q1507720,Republican Proposal->Pro,Q44802,Río Negro Province->Río Negro,2015-12-10,NULL->2019-12-09
+---,Q3479675,Sergio Massa,,,Q44754,Buenos Aires Province,2019-12-10,
++++,Q47144945,Sergio Napoleón Leavy,Q1072438,Frente para la Victoria-PJ,Q44803,Salta,2017-12-10,2019-12-09
++++,Q7348343,Sergio Omar Buil,Q1507720,Pro,Q44754,Buenos Aires,2015-12-10,2019-12-09
+->,Q21856301->Q63969048,Sergio Raúl Ziliotto,Q1053668,Justicialist Party->Justicialista,Q44795,La Pampa,2015-12-10,NULL->2019-12-09
+->,Q47142422,Silvana Micaela Ginocchio,Q1072438->Q1053668,Front for Victory->Elijo Catamarca,Q44756,Catamarca Province->Catamarca,2017-12-10,NULL->2021-12-09
+->,Q21856182,Silvia Alejandra Martínez,Q123585,Radical Civic Union->Unión Cívica Radical,Q44764,Province of Jujuy->Jujuy,2015-12-10,NULL->2019-12-09
+->,Q21856177,Silvia Gabriela Lospennato->Silvia  Lospennato,Q1507720,Republican Proposal->Pro,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+---,Q21856129,Silvia Patricia Frana,Q1072438,Front for Victory,Q44823,Santa Fe Province,2015-12-10,
++++,,Silvia Renee Horne,Q30904600,Movimiento Evita,Q44802,Río Negro,2015-12-10,2019-12-09
++++,,Silvina Patricia Frana,Q1072438,Frente para la Victoria-PJ,Q44823,Santa Fe,2015-12-10,2019-12-09
+->,Q47142775,Sofía Brambilla,Q47146931->Q1507720,NULL->Pro,Q44758,Corrientes,2017-12-10,NULL->2021-12-09
+---,Q102347072,Soher El Sukaria,,,Q44759,Córdoba Province,2019-12-10,
++++,,Stella Maris Huczak,Q1507720,Pro,Q44797,Mendoza,2016-03-01,2019-12-09
+---,Q108373971,Susana Graciela Landriscini,Q64590596,Frente de Todos,Q44802,Río Negro Province,2019-12-10,
+->,Q21856189,Vanesa Laura Massetani->Vanesa Massetani,Q15120034,Renewal Front->Federal Unidos por una Nueva Argentina,Q44823,Santa Fe Province->Santa Fe,2015-12-10,NULL->2019-12-09
+->,Q47142273,Vanesa Siley,Q64590596->Q1072438,Frente de Todos->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
+---,Q47455148,Veronica Derna,Q1072438,Front for Victory,Q44798,Misiones Province,2015-12-10,
++++,,Verónica Derna,Q5505872,Frente de la Concordia Misionero,Q44798,Misiones,2017-12-18,2019-12-09
+---,Q21856193,Verónica Mercado,Q1072438,Front for Victory,Q44756,Catamarca Province,2015-12-10,
+->,Q2429045,Victoria Donda->Victoria Analía Donda Pérez,Q5501084->Q63343242,Freemen of the South Movement->Somos,Q1486,Buenos Aires->Ciudad de Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q47145081,Victoria Rosso,Q47146278->Q5668474,NULL->Unidad Justicialista,Q44818,San Luis Province->San Luis,2017-12-10,NULL->2021-12-09
+---,Q107209202,Victoria Tolosa Paz,,,Q44754,Buenos Aires Province,2021-12-10,
++++,,Véronica Mercado,Q1072438,Frente para la Victoria-PJ,Q44756,Catamarca,2015-12-10,2019-12-09
+->,Q47145004,Walberto Enrique Allende,Q47108887,,Q44805,San Juan Province->San Juan,2017-12-10,NULL->2021-12-09
+->,Q21856300,Waldo Wolff->Waldo Ezequiel Wolff,Q1507720,Republican Proposal->Pro,Q44754,Buenos Aires Province->Buenos Aires,2015-12-10,NULL->2019-12-09
+->,Q47142315,Walter Correa,Q30841057->Q1072438,Citizen's Unity->Frente para la Victoria-PJ,Q44754,Buenos Aires Province->Buenos Aires,2017-12-10,NULL->2021-12-09
++++,,Walter Marcelo Santillan,Q1072438,Frente para la Victoria-PJ,Q44829,Tucumán,2015-12-10,2019-12-09
+---,Q21856271,Walter Marcelo Santillán,Q1072438,Front for Victory,Q44829,Tucumán Province,2015-12-10,
+---,Q21856145,Yanina C. Gayol,Q1507720,Republican Proposal,Q44762,Entre Ríos Province,2015-12-10,
++++,,Yanina Celeste Gayol,Q1507720,Pro,Q44762,Entre Ríos,2015-12-10,2019-12-09
+---,Q21856148,Álvaro Gustavo Gonzalez,Q1507720,Republican Proposal,Q1486,Buenos Aires,2015-12-10,
++++,Q104110170,Álvaro Gustavo González,Q1507720,Pro,Q1486,Ciudad de Buenos Aires,2015-12-10,2019-12-09
