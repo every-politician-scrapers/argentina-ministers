@@ -2,7 +2,7 @@ item,name,region,regionLabel,party,partyLabel,startDate,endDate
 Q47142019,Juan José Miguel Aicega,Q44754,Buenos Aires,Q1507720,Pro,2017-12-10,2021-12-09
 Q81549870,Juan Carlos Alderete,Q44754,Buenos Aires,Q64590596,Frente de Todos,2019-12-19,
 Q5791547,María Cristina Álvarez Rodríguez,Q44754,Buenos Aires,Q64590596,Frente de Todos,2019-12-10,2021-09-21
-Q108109574,Pablo Miguel Ansaloni,Q44754,Buenos Aires,,Unidad y Equidad Federal,2017-12-10,2021-12-09
+Q47142093,Pablo Miguel Ansaloni,Q44754,Buenos Aires,,Unidad y Equidad Federal,2017-12-10,2021-12-09
 Q76824320,Alicia Noemí Aparicio,Q44754,Buenos Aires,Q64590596,Frente de Todos,2019-12-10,
 Q87726411,Alberto Emilio Asseff,Q44754,Buenos Aires,Q1507720,Pro,2019-12-10,
 Q21856053,Karina Verónica Banfi,Q44754,Buenos Aires,Q123585,Unión Cívica Radical,2019-12-10,
@@ -56,14 +56,14 @@ Q98770550,Alejandro «Topo» Rodríguez,Q44754,Buenos Aires,Q96754376,Consenso F
 Q47142397,Laura Russo,Q44754,Buenos Aires,Q64590596,Frente de Todos,2017-12-10,2021-12-09
 ,Sebastián Nicolás Salvador,Q44754,Buenos Aires,Q123585,Unión Cívica Radical,2019-12-10,
 Q108261189,Jorge Emilio Sarghini,Q44754,Buenos Aires,Q96754376,Consenso Federal,2019-12-19,2021-12-09
-Q62560219, Mónica Leticia Schlotthauer,Q44754,Buenos Aires,Q11684178,Izquierda SocialistaFrente de Izquierda,2021-06-10,2021-12-09
+Q62560219,Mónica Leticia Schlotthauer,Q44754,Buenos Aires,Q11684178,Izquierda SocialistaFrente de Izquierda,2021-06-10,2021-12-09
 Q21856273,María Liliana Schwindt,Q44754,Buenos Aires,Q64590596,Frente de Todos,2020-02-27,2021-12-09
 Q1162679,Daniel Osvaldo Scioli,Q44754,Buenos Aires,Q1072438,Frente para la Victoria-PJ,2017-12-10,2020-03-05
 ,Carlos Américo Selva,Q44754,Buenos Aires,Q64590596,Frente de Todos,2019-12-10,
 Q23906959,Ada María Magdalena Sierra,Q44754,Buenos Aires,Q64590596,Frente de Todos,2017-12-10,2021-12-09
 Q47142273,Vanesa Raquel Siley,Q44754,Buenos Aires,Q64590596,Frente de Todos,2017-12-10,2021-12-09
 ,Mariana Stilman,Q44754,Buenos Aires,Q1104292,Coalición Cívica,2019-12-10,
-Q45797708,Luis Rodolfo Tailhade,Q44754,Buenos Aires,Q64590596,Frente de Todos,2019-12-10,
+Q21856284,Luis Rodolfo Tailhade,Q44754,Buenos Aires,Q64590596,Frente de Todos,2019-12-10,
 Q21856289,Pablo Torello,Q44754,Buenos Aires,Q1507720,Pro,2019-12-10,
 Q20016052,Mirta Tundis,Q44754,Buenos Aires,Q64590596,Frente de Todos,2017-12-10,2021-12-09
 ,Romina Maricel Uhrig,Q44754,Buenos Aires,Q64590596,Frente de Todos,2019-12-19,2021-12-09
@@ -81,11 +81,11 @@ Q108540459,Álvaro Héctor de Lamadrid,Q1486,Ciudad de Buenos Aires,Q123585,Uni�
 Q16582151,Jorge Ricardo Enríquez,Q1486,Ciudad de Buenos Aires,Q1507720,Pro,2017-12-18,2021-12-09
 Q85015520,Maximiliano Carlos Francisco Ferraro,Q1486,Ciudad de Buenos Aires,Q1104292,Coalición Cívica,2019-12-10,
 ,Alejandro García,Q1486,Ciudad de Buenos Aires,Q1507720,Pro,2017-12-10,2021-12-09
-Q104110170,Álvaro Gustavo González,Q1486,Ciudad de Buenos Aires,Q1507720,Pro,2019-12-10,
+Q21856148,Álvaro Gustavo González,Q1486,Ciudad de Buenos Aires,Q1507720,Pro,2019-12-10,
 Q30347207,Itai Hagman,Q1486,Ciudad de Buenos Aires,Q64590596,Frente de Todos,2019-12-10,
 Q5042165,Carlos Salomón Heller,Q1486,Ciudad de Buenos Aires,Q64590596,Frente de Todos,2019-12-19,2021-12-09
 Q5859724,Fernando Adolfo Iglesias,Q1486,Ciudad de Buenos Aires,Q1507720,Pro,2017-12-10,2021-12-09
-Q104214254,Juan Manuel López,Q1486,Ciudad de Buenos Aires,Q1104292,Coalición Cívica,2017-12-10,2021-12-09
+Q47117877,Juan Manuel López,Q1486,Ciudad de Buenos Aires,Q1104292,Coalición Cívica,2017-12-10,2021-12-09
 Q108426848,María Dolores Martínez,Q1486,Ciudad de Buenos Aires,Q123585,Unión Cívica Radical,2019-12-10,
 Q48216423,Gisela Marziotta,Q1486,Ciudad de Buenos Aires,Q64590596,Frente de Todos,2020-01-29,2021-12-09
 Q63990130,Victoria Morales Gorleri,Q1486,Ciudad de Buenos Aires,Q1507720,Pro,2019-12-10,
@@ -178,7 +178,7 @@ Q21662521,Omar Bruno De Marchi,Q44797,Mendoza,Q1507720,Pro,2019-12-10,
 ,Jimena Hebe Latorre,Q44797,Mendoza,Q123585,Unión Cívica Radical,2019-12-10,
 ,Claudia Inés Najul,Q44797,Mendoza,Q123585,Unión Cívica Radical,2017-12-10,2021-12-09
 Q21856230,Luis Alfonso Petri,Q44797,Mendoza,Q123585,Unión Cívica Radical,2017-12-10,2021-12-09
-Q62024002,José Luis Ramón,Q44797,Mendoza,,Unidad y Equidad Federal,2017-12-10,2021-12-09
+Q47143468,José Luis Ramón,Q44797,Mendoza,,Unidad y Equidad Federal,2017-12-10,2021-12-09
 ,Marisa Lourdes Uceda,Q44797,Mendoza,Q64590596,Frente de Todos,2019-12-10,
 ,Federico Raúl Zamarbide,Q44797,Mendoza,Q123585,Unión Cívica Radical,2017-12-10,2021-12-09
 ,Héctor Orlando Bárbaro,Q44798,Misiones,Q64590596,Frente de Todos,2019-12-10,
@@ -189,7 +189,7 @@ Q110219598,Diego Horacio Sartori,Q44798,Misiones,Q5505872,Frente de la Concordia
 ,Alfredo Oscar Schiavoni,Q44798,Misiones,Q1507720,Pro,2019-12-10,
 Q47143573,Ricardo Wellbach,Q44798,Misiones,Q5505872,Frente de la Concordia Misionero,2017-12-10,2021-12-09
 ,Guillermo Oscar Carnaghi,Q44800,Neuquén,Q64590596,Frente de Todos,2019-12-19,
-Q63863578,Norman Darío Martínez,Q44800,Neuquén,Q64590596,Frente de Todos,2019-12-10,2020-08-28
+Q41555918,Norman Darío Martínez,Q44800,Neuquén,Q64590596,Frente de Todos,2019-12-10,2020-08-28
 ,Francisco Sánchez,Q44800,Neuquén,Q1507720,Pro,2019-12-10,
 Q47144879,Alma Liliana Sapag,Q44800,Neuquén,Q7002024,Movimiento Popular Neuquino,2017-12-10,2021-12-09
 ,David Pablo Schlereth,Q44800,Neuquén,Q1507720,Pro,2017-12-10,2021-12-09
@@ -206,7 +206,7 @@ Q98060325,Virginia María Cornejo,Q44803,Salta,Q1507720,Pro,2019-12-10,
 Q100156038,Alcira Elsa Figueroa,Q44803,Salta,Q64590596,Frente de Todos,2020-10-07,2021-12-09
 Q97999604,Lucas Javier Godoy,Q44803,Salta,Q64590596,Frente de Todos,2019-12-10,
 Q37006507,Martín Federico Grande Durand,Q44803,Salta,Q1507720,Pro,2017-12-10,2021-12-09
-Q98078246,Miguel Nanni Valero,Q44803,Salta,Q123585,Unión Cívica Radical,2019-12-10,
+Q21856216,Miguel Nanni Valero,Q44803,Salta,Q123585,Unión Cívica Radical,2019-12-10,
 Q19601030,Miguel Andrés Costas Zottos,Q44803,Salta,,"",2017-12-10,2021-12-09
 Q47145004,Walberto Enrique Allende,Q44805,San Juan,Q64590596,Frente de Todos,2017-12-10,2021-12-09
 Q19897814,Eduardo Augusto Cáceres Guimenes,Q44805,San Juan,Q1507720,Pro,2017-12-10,2021-12-09
@@ -217,7 +217,7 @@ Q62000019,Humberto Marcelo Orrego,Q44805,San Juan,,"",2019-12-10,
 ,Karim Augusto Alume Sbodio,Q44818,San Luis,Q64590596,Frente de Todos,2017-12-10,2021-12-09
 Q104906639,Alejandro Cacace,Q44818,San Luis,Q123585,Unión Cívica Radical,2019-12-10,
 ,Carlos Ybrhain Ponce,Q44818,San Luis,Q64590596,Frente de Todos,2019-12-10,
-Q104946286,José Luis Riccardo,Q44818,San Luis,Q123585,Unión Cívica Radical,2017-12-10,2021-12-09
+Q21856259,José Luis Riccardo,Q44818,San Luis,Q123585,Unión Cívica Radical,2017-12-10,2021-12-09
 ,Victoria Rosso,Q44818,San Luis,Q64590596,Frente de Todos,2017-12-10,2021-12-09
 ,Antonio José Carambia,Q44821,Santa Cruz,,"",2017-12-10,2021-12-09
 Q18888590,Pablo Gerardo González,Q44821,Santa Cruz,Q64590596,Frente de Todos,2019-12-10,2021-01-10
