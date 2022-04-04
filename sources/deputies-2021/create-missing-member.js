@@ -2,11 +2,10 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (label,region,party) => {
+module.exports = (label,region,began,ended) => {
   mem = {
     value: meta.position,
     qualifiers: {
-      P2937: meta.term.id,
       P768: region,
     },
     references: {
@@ -15,7 +14,8 @@ module.exports = (label,region,party) => {
       P1810: label,
     }
   }
-  if(party) mem['qualifiers']['P4100']  = party
+  if(began) mem['qualifiers']['P580']  = began
+  if(ended) mem['qualifiers']['P582']  = ended
 
   claims = {
     P31: { value: 'Q5' }, // human
@@ -25,7 +25,7 @@ module.exports = (label,region,party) => {
 
   return {
     type: 'item',
-    labels: { en: label },
+    labels: { en: label, es: label },
     descriptions: { en: 'politician in Argentina' },
     claims: claims,
   }
