@@ -4,6 +4,26 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+class String
+  def ztidy
+    gsub(/[\u200B-\u200D\uFEFF]/, '').tidy
+  end
+end
+
+class DmyDate
+  def initialize(datestr)
+    @datestr = datestr
+  end
+
+  def to_s
+    return if datestr.include? 'En el cargo'
+
+    datestr.split('/').map(&:ztidy).reverse.map { |str| format('%02s', str.to_s) }.join('-')
+  end
+
+  attr_reader :datestr
+end
+
 class RepList < Scraped::HTML
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -49,13 +69,11 @@ class RepList < Scraped::HTML
     end
 
     field :startDate do
-      tds[7].text.tidy.split('/').reverse.join('-')
+      DmyDate.new(tds[7].text.tidy).to_s
     end
 
     field :endDate do
-      dstr = tds[8].text.tidy
-      return if dstr.include? 'En el cargo'
-      dstr.split('/').reverse.join('-')
+      DmyDate.new(tds[8].text.tidy).to_s
     end
 
     private
