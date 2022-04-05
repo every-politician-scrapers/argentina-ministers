@@ -43,6 +43,10 @@ Q19263817,Felipe Rodolfo Sapag,father,Q5368671,Elías Sapag
 Q193062,Raúl Alfonsín,child,Q1261399,Ricardo Alfonsín
 Q193062,Raúl Alfonsín,spouse,Q6004142,María Lorenza Barreneche
 Q19760254,Raúl Jalil,spouse,Q47142422,Silvana Micaela Ginocchio
+Q20645466,Juliana Awada,father,Q20652388,Abraham Awada
+Q20645466,Juliana Awada,sibling,Q4714486,Alejandro Awada
+Q20645466,Juliana Awada,spouse,Q21558403,Gustavo Capello
+Q20645466,Juliana Awada,spouse,Q561837,Mauricio Macri
 Q20737416,Juan Fernando Brügge,relative,Q272702,Laura Vicuña
 Q2130489,Ramón Javier Mestre,father,Q6959980,Ramón Mestre
 Q21856082,Remo Carlotto,mother,Q299652,Estela Barnes de Carlotto
@@ -84,9 +88,15 @@ Q40649,Cristina Fernández de Kirchner,child,Q15719117,Máximo Kirchner
 Q40649,Cristina Fernández de Kirchner,child,Q15719141,Florencia Kirchner
 Q40649,Cristina Fernández de Kirchner,spouse,Q170899,Néstor Kirchner
 Q4122225,José Alperovich,spouse,Q4877270,Beatriz Rojkés de Alperovich
+Q4122243,Juan Manuel Urtubey,sibling,Q16302727,Rodolfo Urtubey
+Q4122243,Juan Manuel Urtubey,sibling,Q2836462,Alejandro Urtubey
+Q4122243,Juan Manuel Urtubey,spouse,Q690918,Isabel Macedo
 Q43078686,Romina Del Plá,relative,Q5129431,Claudio del Plá
 Q440580,Alicia Kirchner,relative,Q40649,Cristina Fernández de Kirchner
 Q440580,Alicia Kirchner,sibling,Q170899,Néstor Kirchner
+Q4408025,Jorge Sapag,father,Q5368671,Elías Sapag
+Q4408025,Jorge Sapag,mother,Q106866537,Alma Teresa Natalia Cavallo Medina Onrubia
+Q4408025,Jorge Sapag,sibling,Q9025653,Luz Sapag
 Q452112,Amado Boudou,partner,Q109729369,Agustina Kämpfer
 Q4685482,Adriana Bortolozzi,spouse,Q5461936,Floro Bogado
 Q470603,Aníbal Ibarra,sibling,Q7931145,Vilma Ibarra
@@ -139,6 +149,7 @@ Q6777833,Martín Sabbatella,spouse,Q47142291,Mónica Macha
 Q6782004,María Eugenia Vidal,spouse,Q21280633,Ramiro Tagliaferro
 Q68869954,Santiago Cafiero,father,Q6300652,Juan Pablo Cafiero
 Q721561,Jorge Taiana,father,Q5934429,Jorge Alberto Taiana
+Q72756276,Fabiola Yáñez,partner,Q2642828,Alberto Fernández
 Q75105745,Bettina Romero,father,Q6299395,Juan Carlos Romero
 Q75761706,Lisandro Bonelli,relative,Q941258,Ginés González García
 Q76824320,Alicia Aparicio,spouse,Q5982773,Luis Andreotti
