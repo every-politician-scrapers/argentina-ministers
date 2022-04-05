@@ -74,7 +74,7 @@ module.exports = function () {
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
-        ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.lang}.wikipedia.org') .
+        ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.source}') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
       }
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }
