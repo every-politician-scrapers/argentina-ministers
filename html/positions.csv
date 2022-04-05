@@ -27,7 +27,7 @@ Q108750548,Secretary of Malvinas Affairs,Q414,Q414,,,,,,,
 Q2602792,Chief of the Cabinet of Ministers of Argentina,Q414,Q414,,,1995,,,,Chief of the Cabinet of Ministers
 Q108750501,President of the Argentine Chamber of Deputies,Q414,Q414,,Q24062643,,,,,
 Q17626067,Attorney General of Argentina,Q414,Q414,,,1863-01-15,,,,
-Q65161083,Chief of the Armed Forces Joint Staff (Argentina),,,,,,,,,Chief of the Joint Chiefs of Staff (Argentina)
+Q94876108,Chief of the Joint Staff of the Armed Forces,Q414,Q414,,Q65161083,,,,,Chief of the Joint Chiefs of Staff (Argentina)
 Q94849947,Chief of the Air Force General Staff,Q414,Q414,,,,,,,
 Q89856397,Chief of the Army General Staff,Q414,Q414,,,,,Q94972116,,
 Q94846182,Chief of the Navy General Staff,Q414,Q414,,,,,,,
@@ -41,6 +41,7 @@ Q3249940,Governor of Córdoba,Q414,Q44759,,Q74748693,,,,,
 Q23979151,Governor of Entre Ríos,Q414,Q44762,,,1814-09-10,,,,Governor of Entre Ríos Province
 Q23979499,Governor of Formosa Province,Q414,Q44761,,,,,,,Governor of Formosa Province
 Q23979520,Governor of Jujuy Province,Q414,Q44764,,,,,,,Governor of Jujuy Province
+Q6352202,"Governor of La Pampa Province, Argentina",Q414,Q44795,,,,,,,Governor of La Pampa Province
 Q4122443,Governor of La Rioja Province,Q414,Q44796,,,,,,,Governor of La Rioja Province
 Q5589678,Governor of Mendoza,Q414,Q44797,,,,,,,Governor of Mendoza Province
 Q23979210,Governor of Misiones province,Q414,Q44798,,Q6352206,,,,,
@@ -49,9 +50,9 @@ Q23979080,Governor of Río Negro Province,Q414,Q44802,,Q23921171,,,,,Governor of
 Q23979539,Governor of Salta Province,Q414,Q44803,,,,,,,Governor of Salta Province
 Q23979097,Governor of San Juan province,Q414,Q44805,Q66712725,Q4138770,,,,,Governor of San Juan Province
 Q23978750,Governor of San Luis province,Q414,Q44818,Q110364891,Q6572196,,,,,
-Q23978757,Governor of Santa Cruz province,Q414,Q44821,,Q6572198,,,,,
+Q23978757,Governor of Santa Cruz province,Q414,Q44821,,Q6572198,,,,,Governor of Santa Cruz Province
 Q5589713,Governor of Santa Fe Province,Q414,Q44823,,,,,,,Governor of Santa Fe Province
 Q23979135,Governor of Santiago del Estero,Q414,Q44827,,,,,,,Governor of Santiago del Estero
 Q23979073,Governor of Tierra del Fuego,Q414,Q44832,,Q6572210,,,,,
-Q23979122,Governor of Tucumán Province,Q414,Q44829,,,,,,,Governor of Tucumán Province
+Q23979122,Governor of Tucumán Province,Q414,Q44829,Q111494069,,,,,,Governor of Tucumán Province
 Q21693118,Head of Government of the Autonomous City of Buenos Aires,Q414,Q1486,,,1996-08-07,,Q21693213,,
