@@ -1,44 +1,27 @@
 @@,itemlabel,item,startdate,enddate
-+++,Carlos Maximiliano von der Becke,Q5482726,1943,1946
-+++,Diego Isidro Mason,Q5806251,1946,1948
-+++,Juan Carlos Sanguinetti,Q89626554,1948,1950
-+++,Ángel Ovidio Solari,Q30539180,1950,1951-11-14
-+++,Alfredo Andrés Ávalos,Q96624523,1951-11-14,1953-09-23
-+++,José Domingo Molina Gómez,Q739234,1953-09-23,1955-09-23
-+++,Julio Lagos,Q5804954,1955,1956
-+++,Francisco José Zerda,,1956,1956
+->,Carlos von der Becke->Carlos Maximiliano von der Becke,Q5482726,1943,1946
+->,Diego I. Mason->Diego Isidro Mason,Q5806251,1946,1948
+->,Juan Sanguinetti->Juan Carlos Sanguinetti,Q89626554,1948,1950
+->,Ángel Solari->Ángel Ovidio Solari,Q30539180,1950,1951-11-14
+->,Alfredo Ávalos->Alfredo Andrés Ávalos,Q96624523,1951-11-14,1953-09-23
+->,José Domingo Molina->José Domingo Molina Gómez,Q739234,1953-09-23,1955-09-23
 +++,Luis Carlos Raimundo Bussetti,,1956,1957
-+++,Arturo Ossorio Arana,Q17310378,1957,1958
-+++,Héctor Solanas Pacheco,Q5906436,1958,1959
-+++,Carlos Toranzo Montero,Q20015671,1959,1961
-+++,Raúl Poggi,Q16624442,1961,1962
-+++,Juan Carlos Lorio,Q5948397,1962,1962
-+++,Juan Bautista Loza,Q5947762,1962,1962
-+++,Juan Carlos Onganía,Q365326,1962,1965
-+++,Pascual Pistarini,Q4845362,1965,1966
-+++,Julio Rodolfo Alsogaray,Q9016548,1966,1968
-+++,Alejandro Agustín Lanusse,Q345487,1968-08-26,1973-05-25
-+++,Jorge Raúl Carcagno,Q3183868,1973-05-25,1973-12-19
-+++,Leandro Enrique Anaya,Q5972183,1973-12-19,1975-05-13
++++,Francisco José Zerda,,1956,1956
+->,Jorge Carcagno->Jorge Raúl Carcagno,Q3183868,1973-05-25,1973-12-19
+->,Leandro Anaya->Leandro Enrique Anaya,Q5972183,1973-12-19,1975-05-13
 ->,Jorge Rafael Videla,Q75853,1973->1975-08-27,1975->1978-07-31
-+++,Alberto Numa Laplane,Q5663214,1975-05-13,1975-08-27
-+++,Roberto Eduardo Viola,Q313996,1978-07-31,1979-12-29
-+++,Leopoldo Fortunato Galtieri,Q124993,1979-12-29,1982-06-18
-+++,Cristino Nicolaides,Q177663,1982-06-18,1983-12-16
-+++,Jorge Hugo Arguindegui,Q2837468,1983-12-16,1984-07-04
-+++,Ricardo Gustavo Pianta,Q6108413,1984-07-05,1985-03-04
-+++,Héctor Luis Ríos Ereñú,Q5906417,1985-03-04,1987-04-22
-+++,José Segundo Dante Caridi,Q5938739,1987-04-22,1988-12-21
-+++,Francisco Eduardo Gassino,Q5865850,1988-12-22,1989-07-08
-+++,Isidro Bonifacio Cáceres,Q5921295,1989-07-12,1990-03-21
-+++,Martín Félix Bonnet,Q6002516,1990-03-26,1991-11-01
-+++,Martín Antonio Balza,Q538049,1991-11-04,1999-12-10
-+++,Ricardo Guillermo Brinzoni,Q6960043,1999-12-10,2003-05-28
-+++,Roberto Fernando Bendini,Q6109597,2003-05-28,2008-09-19
-+++,Luis Alberto Pozzi,Q5982689,2008-09-23,2013-07-03
-+++,César Santos Gerardo del Corazón de Jesús Milani,Q16301521,2013-07-03,2015-06-24
-+++,Ricardo Luis Cundom,Q20441940,2015-06-24,2016-01-25
-+++,Diego Luis Suñer,Q22251998,2016-01-25,2018-02-15
+->,Alberto Laplane->Alberto Numa Laplane,Q5663214,1975-05-13,1975-08-27
+->,Ricardo Pianta->Ricardo Gustavo Pianta,Q6108413,1984-07-05,1985-03-04
+->,Héctor Ríos Ereñú->Héctor Luis Ríos Ereñú,Q5906417,1985-03-04,1987-04-22
+->,José Caridi->José Segundo Dante Caridi,Q5938739,1987-04-22,1988-12-21
+->,Francisco Gassino->Francisco Eduardo Gassino,Q5865850,1988-12-22,1989-07-08
+->,Isidro Cáceres->Isidro Bonifacio Cáceres,Q5921295,1989-07-12,1990-03-21
+->,Martín Bonnet->Martín Félix Bonnet,Q6002516,1990-03-26,1991-11-01
+->,Martín Balza->Martín Antonio Balza,Q538049,1991-11-04,1999-12-10
+->,Ricardo Brinzoni->Ricardo Guillermo Brinzoni,Q6960043,1999-12-10,2003-05-28
+->,Roberto Bendini->Roberto Fernando Bendini,Q6109597,2003-05-28,2008-09-19
+->,César Milani->César Santos Gerardo del Corazón de Jesús Milani,Q16301521,2013-07-03,2015-06-24
+->,Diego Suñer->Diego Luis Suñer,Q22251998,2016-01-25,2018-02-15
 ->,Claudio Pasqualini->Claudio Ernesto Pasqualini,Q48873003,2018-01-15->2018-02-15,2020-02-28
-->,Agustín Cejas->Agustín Humberto Cejas,Q86469710,2020-02-28,NULL->2021-12-15
-+++,Guillermo Olegario Gonzalo Pereda,,2021-12-15,
+->,Agustín Cejas->Agustín Humberto Cejas,Q86469710,2020-02-28,2021-12-15
+->,Q111493090->Guillermo Olegario Gonzalo Pereda,Q111493090,2021-12-15,
