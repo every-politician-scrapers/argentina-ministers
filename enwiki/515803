@@ -1,8 +1,6 @@
 {
   "honorific-prefix": "Excelentísimo Señor",
   "name": "Alberto Fernández",
-  "image": "Mensaje_de_fin_de_a%C3%B1o_del_Presidente_Alberto_Fern%C3%A1ndez_(cropped).jpg",
-  "caption": "Fernández in 2021",
   "office": "President of Argentina",
   "term_start": "10 December 2019",
   "vicepresident": "Cristina Fernández de Kirchner",
@@ -42,7 +40,6 @@
   "website": "alferdez.com.ar"
 }
 {
-  "image": "Standard of the President of Argentina Afloat.svg",
   "name": "Alberto Fernández",
   "dipstyle": "Excelentísimo Señor Presidente de la Nación (Most Excellent President of the Nation)",
   "offstyle": "Presidente de la Nación (President of the Nation)",
