@@ -1,6 +1,5 @@
 @@,itemlabel,item,startdate,enddate
-+++,Carlos María de Alvear,Q465493,1824-10-09,1835
-->,Carlos María de Alvear,Q465493,1835->1838-10-11,
++++,Carlos María de Alvear,Q465493,1838-10-11,
 +++,Emilio de Alvear,Q5831380,1864-11-04,
 +++,Manuel Rafael García Aguirre,Q5397672,1868-10-16,
 ->,Domingo Faustino Sarmiento,Q254041,1868->1863-12-04,NULL->1868
@@ -38,7 +37,7 @@
 +++,Martín Luis Drago,,1948-02-02,
 +++,Jerónimo Remorino,Q1688025,1948-06-18,
 +++,Hipólito Jesús Paz,Q5898527,1951-08-24,
-+++,Adolfo Ángel Vicchi,Q5658174,1955-12-09,1957-06
+->,Adolfo Vicchi->Adolfo Ángel Vicchi,Q5658174,1955-12-09,1957-06
 +++,Mauricio Luis Yadarola,Q20022050,1957-07-25,
 +++,César Barros Hurtado,Q88109991,1958-06-10,
 +++,Emilio Donato del Carril,Q5831060,1959-09-29,
@@ -70,6 +69,5 @@
 +++,Héctor Timerman,Q58073,2008-03-13,
 +++,Alfredo Chiaradía,Q4723740,2010-11-01,
 +++,Jorge Argüello,Q6277681,2012-01-05,
-+++,Maria Cecilia Nahón,Q21855134,2013-02-19,2015-12-10
-+++,Fernando Oris de Roa,Q42609962,2018-01-11,2019-12-10
+->,Cecilia Nahón->Maria Cecilia Nahón,Q21855134,2013-02-19,2015-12-10
 +++,Jorge Argüello,Q6277681,2020-02-06,
