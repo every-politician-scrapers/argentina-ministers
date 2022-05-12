@@ -32,7 +32,7 @@ Q94849947,Chief of the Air Force General Staff,Q414,Q414,,,,,,,
 Q89856397,Chief of the Army General Staff,Q414,Q414,,,,,Q94972116,,
 Q94846182,Chief of the Navy General Staff,Q414,Q414,,,,,,,
 Q108750597,General Secretary of the Presidency of Argentina,Q414,Q414,,,,,,,
-Q1425955,Governor of Buenos Aires Province,Q414,Q44754,,,,,,,Governor of Buenos Aires Province
+Q1425955,Governor of Buenos Aires Province,Q414,Q44754,Q62156730,,,,,,Governor of Buenos Aires Province
 Q16571930,governor of the province of Catamarca,Q414,Q44756,,Q6352182,,,,,Governor of Catamarca Province
 Q6352224,Governor of Chaco Province,Q414,Q44757,,,,,,,Governor of Chaco Province
 Q23978846,Governor of Chubut Province,Q414,Q45007,,,,,,,Governor of Chubut Province
@@ -53,6 +53,6 @@ Q23978750,Governor of San Luis province,Q414,Q44818,Q110364891,Q6572196,,,,,
 Q23978757,Governor of Santa Cruz province,Q414,Q44821,,Q6572198,,,,,Governor of Santa Cruz Province
 Q5589713,Governor of Santa Fe Province,Q414,Q44823,,,,,,,Governor of Santa Fe Province
 Q23979135,Governor of Santiago del Estero,Q414,Q44827,,,,,,,Governor of Santiago del Estero
-Q23979073,Governor of Tierra del Fuego,Q414,Q44832,,Q6572210,,,,,
+Q23979073,Governor of Tierra del Fuego,Q414,Q44832,Q111976668,Q6572210,,,,,
 Q23979122,Governor of Tucumán Province,Q414,Q44829,Q111494069,,,,,,Governor of Tucumán Province
 Q21693118,Head of Government of the Autonomous City of Buenos Aires,Q414,Q1486,,,1996-08-07,,Q21693213,,
