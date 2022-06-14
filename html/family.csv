@@ -5,6 +5,7 @@ Q105969717,Martín Soria,sibling,Q21856280,María Emilia Soria
 Q107736916,Enrique Estévez,father,Q9001319,Guillermo Estévez Boero
 Q107802947,Nicolás Rodríguez Saá,partner,Q21856142,Ana Carolina Gaillard
 Q108386730,Martín Berhongaray,father,Q18745601,Antonio Tomás Berhongaray
+Q111492729,José María Torello,sibling,Q21856289,Pablo Torello
 Q11184187,Rogelio Frigerio,father,Q47436405,Octavio Frigerio
 Q11184187,Rogelio Frigerio,relative,Q7357722,Rogelio Julio Frigerio
 Q1162679,Daniel Scioli,spouse,Q20017020,Karina Rabolini
@@ -61,6 +62,7 @@ Q21856278,Guillermo Snopek,father,Q5888526,Guillermo Eugenio Snopek
 Q21856280,María Emilia Soria,father,Q176160,Carlos Soria
 Q21856280,María Emilia Soria,mother,Q17630853,Susana Freydoz
 Q21856280,María Emilia Soria,sibling,Q105969717,Martín Soria
+Q21856289,Pablo Torello,sibling,Q111492729,José María Torello
 Q2324263,Abel Posse,child,Q52889259,Iván Parentini-Langenheim
 Q2347235,Antonio Cafiero,child,Q2841182,Mario Cafiero
 Q2347235,Antonio Cafiero,child,Q6300652,Juan Pablo Cafiero
