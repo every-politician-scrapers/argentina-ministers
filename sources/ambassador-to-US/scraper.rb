@@ -30,6 +30,10 @@ class OfficeholderList < OfficeholderListBase
     def endDate
       end_cell.css('span').map(&:text).first.to_s.delete_prefix('0').tidy
     end
+
+    def empty?
+      super || (start_year < 2000)
+    end
   end
 end
 
