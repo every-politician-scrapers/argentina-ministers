@@ -3,7 +3,7 @@
 
 require 'every_politician_scraper/comparison'
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   REMAP = {
     'Provincia de Buenos Aires'                                          => 'Buenos Aires',
     'Provincia de Catamarca'                                             => 'Catamarca',
