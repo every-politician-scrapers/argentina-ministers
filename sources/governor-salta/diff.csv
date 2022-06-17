@@ -1,4 +1,2 @@
-@@,itemlabel,item,startdate,enddate
----,Martín Miguel de Güemes,Q1394085,1815-05-06,1821-04-24
-+++,Hernán Cornejo,,1987-12-10,1991-12-10
-->,Juan Carlos Romero,Q6299395,1995-12-10,2007-12-09->2007-12-10
+@@,item,itemlabel,startdate,enddate
+->,Q6299395,Juan Carlos Romero,1995-12-10,2007-12-09->2007-12-10
