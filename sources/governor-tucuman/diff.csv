@@ -1,9 +1,3 @@
-@@,itemlabel,item,startdate,enddate
----,Gaspar de Barahona,Q30900246,1702,1707
----,Jorge Rafael Videla,Q75853,1970-08-04,1970-09-03
-+++,Fernando Pedro Riera,,1983-12-11,1987-12-11
-+++,José Domato,,1987-12-11,1991-01-18
-+++,Julio César Aráoz,,1991-01-18,1991-10-29
-->,Palito Ortega->Ramón Bautista Ortega,Q9054826,1991-10-29,1995-10-29
-->,Juan Manzur->Juan Luis Manzur,Q6300262,2015-10-29,2021-09-20
----,Osvaldo Jaldo,Q108611599,2021-09-20,
+@@,item,itemlabel,startdate,enddate
+->,Q6300262,Juan Manzur->Juan Luis Manzur,2015-10-29,2021-09-20
+---,Q108611599,Osvaldo Jaldo,2021-09-20,
