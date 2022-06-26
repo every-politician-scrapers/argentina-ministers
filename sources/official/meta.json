@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Argentina",
+      "id": "Q414"
+    },
+    "cabinet": {
+      "id": "Q108550284",
+      "start": "2019-12-10",
+      "parent": "Q30344748"
+    },
+    "source": {
+        "url":   "https://mapadelestado.jefatura.gob.ar/index.php",
+        "title": "Mapa del Estado",
+        "lang":  {
+            "code": "es",
+            "wikidata": "Q1321"
+        }
+    },
+    "agent": "every-politican-scrapers/argentina-ministers"
+}
