@@ -1,132 +1,28 @@
 #!/bin/env ruby
 # frozen_string_literal: true
 
-require 'csv'
+require 'every_politician_scraper/scraper_data'
 require 'pry'
-require 'scraped'
-require 'table_unspanner'
-require 'wikidata_ids_decorator'
 
-require 'open-uri/cached'
-
-class WikiDate
-  REMAP = {
-    'En el cargo' => '',
-    'de enero de'   => 'January',
-    'de febrero de'  => 'February',
-    'de marzo de'     => 'March',
-    'de abril de'    => 'April',
-    'de mayo de'        => 'May',
-    'de junio de'      => 'June',
-    'de julio de'      => 'July',
-    'de agosto de'     => 'August',
-    'de septiembre de' => 'September',
-    'de octubre de'  => 'October',
-    'de noviembre de'  => 'November',
-    'de diciembre de'  => 'December',
-  }.freeze
-
-  def initialize(date_str)
-    @date_str = date_str
-  end
-
-  def to_s
-    return if date_en.to_s.empty?
-    return date_obj.to_s if (date_en =~ /\d{1,2} \w+ \d{4}/) || (date_en =~ /\w+ \d{1,2}, \d{4}/)
-    return date_obj.to_s[0...7] if date_en =~ /\w+ \d{4}/
-
-    raise "Unknown date format: #{date_en}"
-  end
-
-  private
-
-  attr_reader :date_str
-
-  def date_obj
-    @date_obj ||= Date.parse(date_en)
-  end
-
-  def date_en
-    @date_en ||= REMAP.reduce(date_str) { |str, (ro, en)| str.sub(ro, en) }
-  end
-end
-
-class RemoveReferences < Scraped::Response::Decorator
-  def body
-    Nokogiri::HTML(super).tap do |doc|
-      doc.css('sup.reference').remove
-    end.to_s
-  end
-end
-
-class UnspanAllTables < Scraped::Response::Decorator
-  def body
-    Nokogiri::HTML(super).tap do |doc|
-      doc.css('table.wikitable').each do |table|
-        unspanned_table = TableUnspanner::UnspannedTable.new(table)
-        table.children = unspanned_table.nokogiri_node.children
-      end
-    end.to_s
-  end
-end
-
-class MinistersList < Scraped::HTML
+class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
-  field :ministers do
-    member_entries.map { |ul| fragment(ul => Officeholder) }.reject(&:empty?).map(&:to_h).uniq
+  def header_column
+    'Retrato'
   end
 
-  private
+  class Officeholder < OfficeholderBase
+    def columns
+      %w[img name start end].freeze
+    end
 
-  def member_entries
-    noko.xpath('//table[.//th[contains(.,"Retrato")]][last()]//tr[td]')
-  end
-end
-
-class Officeholder < Scraped::HTML
-  def empty?
-    itemLabel.empty? || raw_start == 'Electo, no llegó a asumir'
-  end
-
-  field :item do
-    tds[1].css('a/@wikidata').map(&:text).first
-  end
-
-  field :itemLabel do
-    tds[1].css('a').map(&:text).first
-  end
-
-  field :startDate do
-    WikiDate.new(raw_start).to_s
-  end
-
-  field :endDate do
-    WikiDate.new(raw_end).to_s
-  end
-
-  private
-
-  def tds
-    noko.css('td')
-  end
-
-  def raw_start
-    tds[2].text.tidy
-  end
-
-  def raw_end
-    tds[3].text.tidy
+    def empty?
+      tds[3].text.to_s.include?('no llegó a asumir') || super
+    end
   end
 end
 
 url = ARGV.first
-data = MinistersList.new(response: Scraped::Request.new(url: url).response).ministers
-
-header = data.first.keys.to_csv
-rows = data.map { |row| row.values.to_csv }
-abort 'No results' if rows.count.zero?
-
-puts header + rows.join
+puts EveryPoliticianScraper::ScraperData.new(url, klass: OfficeholderList).csv
