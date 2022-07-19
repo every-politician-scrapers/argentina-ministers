@@ -1,0 +1,792 @@
+{
+  "title": "Gerardo Morales (politician)",
+  "pageID": 17768834,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People from Jujuy Province",
+    "Argentine people of Spanish descent",
+    "Argentine accountants",
+    "Members of the Argentine Senate for Jujuy",
+    "Radical Civic Union politicians",
+    "Governors of Jujuy Province"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gerardo Rubén Morales (born 18 July 1959) is an Argentine politician, Governor of Jujuy Province and Secretary General of the Radical Civic Union.",
+              "links": [
+                {
+                  "text": "Argentine",
+                  "type": "internal",
+                  "page": "Argentina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of Jujuy Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Radical Civic Union"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gerardo Rubén Morales"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a member of the Argentine Senate representing Jujuy Province, elected for the Front of Jujuy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine Senate"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jujuy Province"
+                }
+              ]
+            },
+            {
+              "text": "He was a candidate for Vice President of Argentina on Roberto Lavagna's UNA ticket in the 2007 elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Argentina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Roberto Lavagna"
+                },
+                {
+                  "text": "2007 elections",
+                  "type": "internal",
+                  "page": "2007 Argentine general election"
+                }
+              ]
+            },
+            {
+              "text": "Since 2015, he has been Governor of Jujuy, the first non-Peronist elected to the post since the restoration of democracy.",
+              "links": [
+                {
+                  "text": "2015",
+                  "type": "internal",
+                  "page": "2015 Argentine general election"
+                },
+                {
+                  "text": "Governor of Jujuy",
+                  "type": "internal",
+                  "page": "Governor of Jujuy Province"
+                },
+                {
+                  "text": "Peronist",
+                  "type": "internal",
+                  "page": "Peronism"
+                },
+                {
+                  "text": "democracy",
+                  "type": "internal",
+                  "page": "democracy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "07",
+          "day": "18",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gerardo Morales"
+          },
+          "nationality": {
+            "text": "Argentine"
+          },
+          "image name": {
+            "text": "Gerardo Morales.png"
+          },
+          "office": {
+            "text": "Governor of Jujuy",
+            "links": [
+              {
+                "text": "Governor of Jujuy",
+                "type": "internal",
+                "page": "Governor of Jujuy Province"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 December 2015"
+          },
+          "preceded": {
+            "text": "Eduardo Fellner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduardo Fellner"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Vice Governor"
+          },
+          "1namedata": {
+            "text": "Carlos Haquim",
+            "links": [
+              {
+                "text": "Carlos Haquim",
+                "type": "internal",
+                "page": ":es:Carlos Haquim"
+              }
+            ]
+          },
+          "office2": {
+            "text": "National Senator",
+            "links": [
+              {
+                "text": "National Senator",
+                "type": "internal",
+                "page": "Argentine Senate"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "December 2001"
+          },
+          "term_end2": {
+            "text": "10 December 2015"
+          },
+          "constituency2": {
+            "text": "Jujuy",
+            "links": [
+              {
+                "text": "Jujuy",
+                "type": "internal",
+                "page": "Jujuy Province"
+              }
+            ]
+          },
+          "office3": {
+            "text": "President of the National Committee of the Radical Civic Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Radical Civic Union"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 December 2006"
+          },
+          "term_end3": {
+            "text": "5 December 2009"
+          },
+          "preceded3": {
+            "text": "Roberto Iglesias",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roberto Iglesias"
+              }
+            ]
+          },
+          "succeeded3": {
+            "text": "Ernesto Sanz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ernesto Sanz"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 18, 1959"
+          },
+          "birth_place": {
+            "text": "San Salvador de Jujuy, Argentina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Salvador de Jujuy"
+              }
+            ]
+          },
+          "party": {
+            "text": "Radical Civic Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Radical Civic Union"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Juntos por el Cambio (2015–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juntos por el Cambio"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Public accountant"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Morales was born in Jujuy Province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jujuy Province"
+                }
+              ]
+            },
+            {
+              "text": "He worked on the Ferrocarril General Manuel Belgrano railway as a waiter at age 18, and was promoted to the post of administrator.",
+              "links": [
+                {
+                  "text": "Ferrocarril General Manuel Belgrano",
+                  "type": "internal",
+                  "page": "General Manuel Belgrano Railway"
+                }
+              ]
+            },
+            {
+              "text": "He enrolled at the National University of Jujuy, where he earned a degree in Accountancy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National University of Jujuy"
+                },
+                {
+                  "text": "Accountancy",
+                  "type": "internal",
+                  "page": "Accounting"
+                }
+              ]
+            },
+            {
+              "text": "Morales was later appointed Director of Liquidations at the Provincial Insurance Institute."
+            },
+            {
+              "text": "He also lectured and was politically active at university, teaching in Political Economy courses from 1985 to 1993.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Political Economy"
+                }
+              ]
+            },
+            {
+              "text": "He married in 1985, and had three children; he admitted to past infidelities in a 2008 interview."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1989 Morales was elected as a provincial deputy and in 1993 became leader of the UCR block in the legislature."
+            },
+            {
+              "text": "He served as president of the Finance Committee in 1991 and 1992."
+            },
+            {
+              "text": "He was nominated for Vice Governor of Jujuy in a defeated 1991 UCR ticket, and with the support of party leader Raúl Alfonsín, ran for Governor of Jujuy in 1995 and 1999, albeit unsuccessfully.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raúl Alfonsín"
+                }
+              ]
+            },
+            {
+              "text": "He stepped down as a Jujuy Congressman in 2000 to join the national government of President Fernando de la Rúa as Secretary for Social Development.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fernando de la Rúa"
+                }
+              ]
+            },
+            {
+              "text": "Morales was elected to the Argentine Senate in 2001 mid-term elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine Senate"
+                },
+                {
+                  "text": "2001 mid-term elections",
+                  "type": "internal",
+                  "page": "2001 Argentine legislative election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the election of Néstor Kirchner as President of Argentina in 2003, many leading Radicals publicly supported Kirchner's populist left-wing agenda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Néstor Kirchner"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Argentina"
+                }
+              ]
+            },
+            {
+              "text": "The group, known as Radicales K, included provincial governors and national legislators.",
+              "formatting": {
+                "italic": [
+                  "Radicales K"
+                ]
+              }
+            },
+            {
+              "text": "The national president of the Radicals, Roberto Iglesias took a hard-line approach against Kirchner, however, opposing efforts to re-align UCR elected officials toward the popular Kirchner.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roberto Iglesias"
+                }
+              ]
+            },
+            {
+              "text": "Morales, who supported Iglesias' policy, was re-elected to the Senate in 2005."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Iglesias led negotiations to find a suitable candidate for the UCR to back in the 2007 Presidential elections against Kirchner's wife and FpV nominee, Cristina Fernández de Kirchner.",
+              "links": [
+                {
+                  "text": "FpV",
+                  "type": "internal",
+                  "page": "Front for Victory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cristina Fernández de Kirchner"
+                }
+              ]
+            },
+            {
+              "text": "Roberto Lavagna, a former minister under Kirchner who subsequently opposed his policies, appeared to be the favored candidate for the majority of the party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roberto Lavagna"
+                }
+              ]
+            },
+            {
+              "text": "Iglesias resigned the presidency of the party in November 2006, however, due to differences with Lavagna, having reached the conclusion that an alliance with him would be a mistake, and joined those who maintained that the party should look for its own candidate (the so-called Radicales R).",
+              "formatting": {
+                "italic": [
+                  "Radicales R"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The UCR National Committee appointed Morales as its new president in December 2006."
+            },
+            {
+              "text": "Morales supported the party's Rosario convention, in which Alfonsín's call for an alliance with Lavagna was adopted into the party platform.",
+              "links": [
+                {
+                  "text": "Rosario",
+                  "type": "internal",
+                  "page": "Rosario, Santa Fe"
+                },
+                {
+                  "text": "party platform",
+                  "type": "internal",
+                  "page": "party platform"
+                }
+              ]
+            },
+            {
+              "text": "He became Lavagna's running mate in the presidential election of October 2007, on a centrist electoral front known as \"An Advanced Nation\" ('UNA'), and placed third.",
+              "links": [
+                {
+                  "text": "presidential election of October 2007",
+                  "type": "internal",
+                  "page": "2007 Argentine general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morales entered subsequently into a heated political dispute with Milagro Sala, the leader of the Indigenist Tupac Amaru Neighborhood Association.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Milagro Sala"
+                },
+                {
+                  "text": "Indigenist",
+                  "type": "internal",
+                  "page": "Indigenism"
+                }
+              ]
+            },
+            {
+              "text": "He was attacked in 2009, though without injury, by two youths tied to the association, and filed charges against their leader."
+            },
+            {
+              "text": "Sala, who denied involvement, alleged that the accusations were politically and racially motivated."
+            },
+            {
+              "text": "She responded with demands that Morales' estate be investigated, and each exchanged accusations of corruption.",
+              "links": [
+                {
+                  "text": "corruption",
+                  "type": "internal",
+                  "page": "corruption"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morales was elected leader of the UCR Caucus in the Senate in December 2009; he succeeded Ernesto Sanz, who replaced Morales as President of the party's National Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ernesto Sanz"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://prensajujuy.wordpress.com/2008/04/21/gerardo-morales-en-calzoncillos-%E2%80%9Cfui-infiel-y-me-arrepiento%E2%80%9D/",
+          "title": "Fui infiel y me arrepiento",
+          "publisher": "Prensa Jujuy",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20120325235144/http://prensajujuy.wordpress.com/2008/04/21/gerardo-morales-en-calzoncillos-%E2%80%9Cfui-infiel-y-me-arrepiento%E2%80%9D/",
+          "archive-date": "2012-03-25",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.lanacion.com.ar/25761",
+          "title": "De la Rúa colocó a un alfonsinista en un puesto clave del área social",
+          "newspaper": "La Nación",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.lanacion.com.ar/nota.asp?nota_id=1312198",
+          "title": "Procesaron a Milagro Sala por la agresión al senador Morales=",
+          "newspaper": "La Nación",
+          "access-date": "2011-06-21",
+          "archive-date": "2011-01-01",
+          "archive-url": "https://web.archive.org/web/20110101185352/http://www.lanacion.com.ar/nota.asp?nota_id=1312198",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.buenosairesherald.com/article/70547/milagro-sala-defends-her-housing-programme-",
+          "title": "Milagro Sala defends her housing programme",
+          "newspaper": "Buenos Aires Herald",
+          "access-date": "2011-06-21",
+          "archive-date": "2011-06-24",
+          "archive-url": "https://web.archive.org/web/20110624185414/http://www.buenosairesherald.com/article/70547/milagro-sala-defends-her-housing-programme-",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.cronista.com/economiapolitica/Cruces-entre-Morales-y-Milagro-Sala-por-los-fondos-del-Gobierno-20110620-0123.html",
+          "title": "Cruces entre Morales y Milagro Sala por los fondos del Gobierno",
+          "publisher": "El Cronista Comercial",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.mdzol.com/mdz/nota/176151/",
+          "title": "Ernesto Sanz fue elegido como nuevo presidente del Comité Nacional de la UCR",
+          "publisher": "MDZ Online",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Governor of Jujuy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Morales was elected governor in 2015."
+            },
+            {
+              "text": "Expecting protests from Milagro Sala, he requested policial reinforcements to the national government, to prevent riots during the end of the year."
+            },
+            {
+              "text": "43 gendarmeries were sent to Jujuy, but died in a car accident at Rosario de la Frontera, in unclear circumstances.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rosario de la Frontera"
+                }
+              ]
+            },
+            {
+              "text": "The Tupac Amaru organization denied the existence of violence in the province, and started a permanent demonstration at the Jujuy plaza.",
+              "formatting": {
+                "italic": [
+                  "Tupac Amaru"
+                ]
+              }
+            },
+            {
+              "text": "Morales accused the organizations that compose the Tupac Amaru of keeping the social welfare money for themselves, and distributing it only to their political supporters.",
+              "formatting": {
+                "italic": [
+                  "Tupac Amaru"
+                ]
+              }
+            },
+            {
+              "text": "To reduce their influence, he arranged that those payments should be done through bank accounts and not with cash, to keep track of the money."
+            },
+            {
+              "text": "After a month, he urged the organizations to accept the terms and leave the plaza, or he would revoke their legal authorizations."
+            },
+            {
+              "text": "The Tupac Amaru was split by this, as most organizations accepted Morales' proposal, but Sala and a reduced faction rejected it.",
+              "formatting": {
+                "italic": [
+                  "Tupac Amaru"
+                ]
+              }
+            },
+            {
+              "text": "Milagro Sala was arrested a few days later, accused of calling to riots and civil disorder."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.lanacion.com.ar/1854135-los-gendarmes-de-la-tragedia-viajaban-a-jujuy-para-prevenir-disturbios",
+          "title": "Los gendarmes de la tragedia viajaban a Jujuy para prevenir disturbios",
+          "trans-title": "The gendarmerie of the tragedy were traveling to Jujuy to prevent riots",
+          "language": "es",
+          "date": "December 14, 2015",
+          "newspaper": "La Nación",
+          "access-date": "January 17, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.lanacion.com.ar/1854207-la-tupac-amaru-sobre-el-pedido-de-gendarmes-no-hay-violencia-en-jujuy-es-una-fantasia-de-gerardo-morales",
+          "title": "La Tupac Amaru, sobre el pedido de gendarmes: \"No hay violencia en Jujuy, es una fantasía de Gerardo Morales\"",
+          "trans-title": "The Tupac Amaru, on the request of gendarmeries: \"There is no violence in Jujuy, that's a fantasy of Gerardo Morales\"",
+          "language": "es",
+          "author": "Brenda Struminger",
+          "date": "December 14, 2015",
+          "newspaper": "La Nación",
+          "access-date": "January 17, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.lanacion.com.ar/1861894-gerardo-morales-emplazo-por-decreto-a-la-tupac-amaru-despues-del-14-que-les-pague-milagro-sala",
+          "title": "Gerardo Morales emplazó por decreto a la Tupac Amaru: \"Después del 14, que les pague Milagro Sala\"",
+          "trans-title": "Gerardo Morales urged by decree the Tupac Amaru: \"After the 14, let Milagro Sala pay them\"",
+          "language": "es",
+          "date": "January 13, 2016",
+          "newspaper": "La Nación",
+          "access-date": "January 17, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.lanacion.com.ar/1862039-ultimatum-de-morales-a-sala-por-el-control-de-los-planes-en-jujuy-pero-sigue-el-acampe",
+          "title": "Ultimátum de Morales a Sala por el control de los planes en Jujuy, pero sigue el acampe",
+          "trans-title": "Ultimatum of Morales to Sala for the control of the plans in Jujuy, the camping continues",
+          "language": "es",
+          "author": "Lucrecia Bullrich",
+          "date": "January 14, 2016",
+          "newspaper": "La Nación",
+          "access-date": "January 17, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.lanacion.com.ar/1862818-detuvieron-a-milagro-sala-en-jujuy-por-el-acampe-contra-gerardo-morales",
+          "title": "Detuvieron a Milagro Sala en Jujuy por el acampe contra Gerardo Morales",
+          "trans-title": "Milagro Sala was detained in Jujuy for the camping against Gerardo Morales",
+          "language": "es",
+          "date": "January 16, 2016",
+          "newspaper": "La Nación",
+          "access-date": "January 17, 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "title": "Governor of Jujuy",
+          "before": "Eduardo Fellner",
+          "years": "2015 &ndash; present",
+          "after": "incumbent",
+          "template": "succession box"
+        },
+        {
+          "title": "Gerardo Morales navigational boxes",
+          "state": "collapsed",
+          "template": "navboxes top"
+        },
+        {
+          "template": "argentinagovernors"
+        },
+        {
+          "template": "argentine national senators, 2001–2003"
+        },
+        {
+          "template": "argentine national senators, 2003–2005"
+        },
+        {
+          "template": "argentine national senators, 2005–2007"
+        },
+        {
+          "template": "argentine national senators, 2007–2009"
+        },
+        {
+          "template": "argentine national senators, 2009–2011"
+        },
+        {
+          "template": "argentine national senators, 2011–2013"
+        },
+        {
+          "template": "argentine national senators, 2013–2015"
+        },
+        {
+          "template": "navboxes end"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Senate profile",
+            "links": [
+              {
+                "text": "Senate profile",
+                "type": "external",
+                "site": "https://web.archive.org/web/20110531190053/http://www.senado.gov.ar/web/senadores/biografia.php?id_sena=295"
+              }
+            ]
+          },
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://web.archive.org/web/20080610164101/http://morales.radicales.org.ar/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

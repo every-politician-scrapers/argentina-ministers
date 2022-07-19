@@ -1,0 +1,416 @@
+{
+  "title": "Martín Soria",
+  "pageID": 67179675,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "21st-century Argentine lawyers",
+    "Justicialist Party politicians",
+    "Mayors of General Roca, Río Negro",
+    "Members of the Argentine Chamber of Deputies elected in Río Negro",
+    "Ministers of Justice of Argentina",
+    "People from General Roca",
+    "University of Buenos Aires alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martín Ignacio Soria (born 15 December 1975) is an Argentine lawyer and politician, currently serving as a Minister of Justice and Human Rights of Argentina, since 29 March 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine"
+                },
+                {
+                  "text": "Minister of Justice and Human Rights",
+                  "type": "internal",
+                  "page": "Ministry of Justice and Human Rights (Argentina)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Martín Ignacio Soria"
+                ]
+              }
+            },
+            {
+              "text": "Having previously served as a member of the Argentine Chamber of Deputies elected in Río Negro Province, Soria was designated to succeed Marcela Losardo following her resignation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Río Negro Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marcela Losardo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soria previously served as intendente (mayor) of his hometown of General Roca from 2011 to 2019, succeeding his father Carlos Soria and preceding his sister, María Emilia Soria.",
+              "links": [
+                {
+                  "text": "intendente",
+                  "type": "internal",
+                  "page": "intendente"
+                },
+                {
+                  "text": "General Roca",
+                  "type": "internal",
+                  "page": "General Roca, Río Negro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Carlos Soria"
+                },
+                {
+                  "type": "internal",
+                  "page": "María Emilia Soria"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "intendente"
+                ]
+              }
+            },
+            {
+              "text": "He belongs to the Justicialist Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1975",
+          "month": "12",
+          "day": "15",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Martín Soria"
+          },
+          "image": {
+            "text": "Ministro Martín Soria 2021.jpg"
+          },
+          "office": {
+            "text": "Minister of Justice and Human Rights",
+            "links": [
+              {
+                "text": "Minister of Justice and Human Rights",
+                "type": "internal",
+                "page": "Ministry of Justice and Human Rights (Argentina)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 March 2021"
+          },
+          "predecessor": {
+            "text": "Marcela Losardo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marcela Losardo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "National Deputy",
+            "links": [
+              {
+                "text": "National Deputy",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 December 2019"
+          },
+          "term_end1": {
+            "text": "27 March 2021"
+          },
+          "constituency1": {
+            "text": "Río Negro",
+            "links": [
+              {
+                "text": "Río Negro",
+                "type": "internal",
+                "page": "Río Negro Province"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of General Roca",
+            "links": [
+              {
+                "text": "Mayor of General Roca",
+                "type": "internal",
+                "page": "General Roca, Río Negro"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 December 2011"
+          },
+          "term_end2": {
+            "text": "10 December 2019"
+          },
+          "predecessor2": {
+            "text": "Carlos Soria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carlos Soria"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "María Emilia Soria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "María Emilia Soria"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 15, 1975"
+          },
+          "birth_place": {
+            "text": "General Roca, Río Negro Province, Argentina",
+            "links": [
+              {
+                "text": "General Roca",
+                "type": "internal",
+                "page": "General Roca, Río Negro"
+              },
+              {
+                "type": "internal",
+                "page": "Río Negro Province"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Frente de Todos (since 2019)",
+            "links": [
+              {
+                "text": "Frente de Todos",
+                "type": "internal",
+                "page": "Frente de Todos (2019 coalition)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Buenos Aires",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Buenos Aires"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lanacion.com.ar/politica/martin-soria-asume-hoy-como-ministro-de-justicia-nid29032021/",
+          "work": "La Nación",
+          "title": "Asumió Soria. “Losardo hizo exactamente lo que yo le pedí”, afirmó Alberto Fernández",
+          "date": "29 March 2021",
+          "access-date": "29 March 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://elpais.com/internacional/2021-03-16/alberto-fernandez-nombra-a-martin-soria-un-politico-cercano-a-cristina-kirchner-como-ministro-de-justicia.html",
+          "work": "El País",
+          "title": "Alberto Fernández nombra a Martín Soria, un político cercano a Cristina Kirchner, como ministro de Justicia",
+          "last": "González",
+          "first": "Enric",
+          "date": "16 March 2021",
+          "access-date": "22 March 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "Infobae",
+          "url": "https://www.infobae.com/politica/2021/03/16/martin-soria-el-nuevo-ministro-de-justicia-asumira-el-viernes-26-de-marzo/",
+          "title": "Martín Soria, el nuevo ministro de Justicia, asumirá el viernes 26 de marzo",
+          "date": "16 March 2021",
+          "access-date": "22 March 2021",
+          "last": "Menegazzi",
+          "first": "Eduardo",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/329715-quien-es-martin-soria-el-nuevo-ministro-de-justicia",
+          "work": "Página/12",
+          "title": "Quién es Martín Soria, el nuevo ministro de Justicia",
+          "date": "15 March 2021",
+          "access-date": "22 March 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://argentina.as.com/argentina/2021/03/16/actualidad/1615896664_782594.html",
+          "work": "AS",
+          "title": "Conocé a Martín Soria, el sustituto de Marcela Losardo y nuevo ministro de Justicia",
+          "last": "Cannataro",
+          "first": "Micaela",
+          "date": "16 March 2021",
+          "access-date": "22 March 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Carlos Soria",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of General Roca",
+          "years": "2011–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "María Emilia Soria",
+          "template": "s-aft"
+        },
+        {
+          "before": "Marcela Losardo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Justice and Human Rights",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "template": "argentine deputies, 2019–2021"
+        },
+        {
+          "template": "alberto fernández cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "argentina-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of the Ministry of Justice and Human Rights (in Spanish)",
+            "links": [
+              {
+                "text": "Official website of the Ministry of Justice and Human Rights",
+                "type": "external",
+                "site": "https://www.argentina.gob.ar/justicia"
+              }
+            ]
+          },
+          {
+            "text": "@SoriaEnAccion on Twitter",
+            "links": [
+              {
+                "text": "@SoriaEnAccion",
+                "type": "external",
+                "site": "https://twitter.com/soriaenaccion"
+              },
+              {
+                "type": "internal",
+                "page": "Twitter"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

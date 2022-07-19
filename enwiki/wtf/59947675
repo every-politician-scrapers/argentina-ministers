@@ -1,0 +1,938 @@
+{
+  "title": "Juan Cabandié",
+  "pageID": 59947675,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "Politicians from Buenos Aires",
+    "Argentine human rights activists",
+    "Members of La Cámpora",
+    "Government ministers of Argentina",
+    "Environment ministers of Argentina",
+    "Members of the Buenos Aires City Legislature",
+    "Members of the Argentine Chamber of Deputies elected in Buenos Aires",
+    "Children of people disappeared during Dirty War"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Cabandié Alfonsín (born 16 March 1978) is an Argentine politician, human rights activist and teacher.",
+              "formatting": {
+                "bold": [
+                  "Juan Cabandié Alfonsín"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Justicialist Party and a founding member of La Cámpora, a kirchnerist youth organization, Cabandié served two terms in the Argentine Chamber of Deputies before being named Minister of the Environment and Sustainable Development by President Alberto Fernández in 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "La Cámpora"
+                },
+                {
+                  "text": "kirchnerist",
+                  "type": "internal",
+                  "page": "Kirchnerism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                },
+                {
+                  "text": "Minister of the Environment and Sustainable Development",
+                  "type": "internal",
+                  "page": "Ministry of the Environment and Sustainable Development (Argentina)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alberto Fernández"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "La Cámpora"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in 1978 in the ESMA clandestine detention center, Cabandié is the son of two \"desaparecidos\", alleged political dissidents of the military dictatorship that ruled Argentina from 1976 to 1983.",
+              "links": [
+                {
+                  "text": "ESMA",
+                  "type": "internal",
+                  "page": "Navy Petty-Officers School"
+                },
+                {
+                  "text": "desaparecidos",
+                  "type": "internal",
+                  "page": "desaparecidos"
+                },
+                {
+                  "text": "military dictatorship",
+                  "type": "internal",
+                  "page": "National Reorganization Process"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "\"desaparecidos\""
+                ]
+              }
+            },
+            {
+              "text": "Raised under a false name by a family linked to the dictatorship, Cabandié discovered his true identity in 2004 with the help of the Grandmothers of the Plaza de Mayo, becoming the 77th grandchild to have their identity restored.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grandmothers of the Plaza de Mayo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Cabandié",
+            "Alfonsín"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1978",
+          "month": "3",
+          "day": "16",
+          "mf": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Juan Cabandié"
+          },
+          "image": {
+            "text": "Ministro Juan Cabandié en 2020.jpg"
+          },
+          "office": {
+            "text": "Minister of the Environment",
+            "links": [
+              {
+                "text": "Minister of the Environment",
+                "type": "internal",
+                "page": "Ministry of the Environment and Sustainable Development (Argentina)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 December 2019"
+          },
+          "predecessor": {
+            "text": "Sergio Bergman (as Secretary of the Environment)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergio Bergman"
+              }
+            ]
+          },
+          "office1": {
+            "text": "National Deputy",
+            "links": [
+              {
+                "text": "National Deputy",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 December 2013"
+          },
+          "term_end1": {
+            "text": "10 December 2019"
+          },
+          "constituency1": {
+            "text": "City of Buenos Aires",
+            "links": [
+              {
+                "text": "City of Buenos Aires",
+                "type": "internal",
+                "page": "Buenos Aires"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Legislator of the City of Buenos Aires",
+            "links": [
+              {
+                "text": "Legislator of the City of Buenos Aires",
+                "type": "internal",
+                "page": "Buenos Aires City Legislature"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 December 2007"
+          },
+          "term_end2": {
+            "text": "10 December 2013"
+          },
+          "birth_name": {
+            "text": "Juan Cabandié Alfonsín"
+          },
+          "birth_date": {
+            "text": "March 16, 1978"
+          },
+          "birth_place": {
+            "text": "ESMA, Buenos Aires, Argentina",
+            "links": [
+              {
+                "text": "ESMA",
+                "type": "internal",
+                "page": "Navy Petty-Officers School"
+              },
+              {
+                "type": "internal",
+                "page": "Buenos Aires"
+              },
+              {
+                "type": "internal",
+                "page": "Argentina"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Teacher, politician"
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Front for Victory (2004–2017)\nLa Cámpora (since 2006)\nFrente de Todos (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Front for Victory"
+              },
+              {
+                "type": "internal",
+                "page": "La Cámpora"
+              },
+              {
+                "text": "Frente de Todos",
+                "type": "internal",
+                "page": "Frente de Todos (2019 coalition)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://directorio.directoriolegislativo.org/node/92409#menu1",
+          "work": "Directorio Legislativo",
+          "title": "Juan Cabandié",
+          "accessdate": "22 April 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Cabandié Alfonsín was born in March 1978 in the ESMA clandestine detention center, where his mother, Alicia Alfonsín (then aged 17), was being held in captivity after being kidnapped by the Armed Forces during the last military dictatorship of Argentina (1976–1983).",
+              "links": [
+                {
+                  "text": "ESMA",
+                  "type": "internal",
+                  "page": "Navy Petty-Officers School"
+                },
+                {
+                  "text": "Armed Forces",
+                  "type": "internal",
+                  "page": "Argentine Armed Forces"
+                },
+                {
+                  "text": "military dictatorship",
+                  "type": "internal",
+                  "page": "National Reorganization Process"
+                }
+              ]
+            },
+            {
+              "text": "She and Cabandié's father, Damián Abel Cabandié (aged 19) were taken from their homes by the military on 23 November 1977."
+            },
+            {
+              "text": "Damián Abel Cabandié and Alicia Alfonsín remain \"disappeared\" to this day.",
+              "links": [
+                {
+                  "text": "disappeared",
+                  "type": "internal",
+                  "page": "desaparecidos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The newborn Juan stayed with his mother during the first days of his life, following which he was taken by a non-commissioned officer and given to a Federal Police officer named Luis Falco, to be raised by him and his wife, Teresa Perrone, as their own child.",
+              "links": [
+                {
+                  "text": "Federal Police",
+                  "type": "internal",
+                  "page": "Argentine Federal Police"
+                }
+              ]
+            },
+            {
+              "text": "Cabandié grew up unaware of his true parentage and identity under a false name."
+            },
+            {
+              "text": "In Cabandié's own words, Falco's attitude towards him and the \"lack of memories and records\" in his family led him to doubt the veracity of his identity."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://chequeado.com/verificacionfb/es-falso-que-estan-vivos-tres-desaparecidos-de-la-ultima-dictadura/",
+          "work": "Chequeado",
+          "title": "Es falso que están vivos tres desaparecidos de la última dictadura",
+          "last": "Subiela Salvo",
+          "first": "Imanol",
+          "date": "6 February 2019",
+          "access-date": "11 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abuelas.org.ar/caso/cabandie-alfonsin-juan-292",
+          "work": "Abuelas de Plaza de Mayo",
+          "title": "CABANDIÉ ALFONSÍN, Juan",
+          "access-date": "11 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/diario/elpais/1-33393-2004-03-28.html",
+          "work": "Página/12",
+          "title": "\"Nunca tuve nada, siempre me faltaba algo\"",
+          "last": "Ginzberg",
+          "first": "Victoria",
+          "date": "28 March 2004",
+          "access-date": "11 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/diario/elpais/1-30877-2004-01-28.html",
+          "work": "Página/12",
+          "last": "Hauser",
+          "first": "Irina",
+          "title": "Juan recuperó su identidad",
+          "date": "28 January 2004",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Restoration of his identity",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cabandié's doubts on his identity led him to press his parents on the subject, and eventually, in 2003, Parrone de Falco admitted the truth to him."
+            },
+            {
+              "text": "Accompanied by his adoptive sister, Vanina Falco, Cabandié went to the National Commission for the Right to Identity (CONADI) and to the Grandmothers of the Plaza de Mayo to start the inquiries about his identity.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grandmothers of the Plaza de Mayo"
+                }
+              ]
+            },
+            {
+              "text": "On 26 January 2004, Cabandié's was informed that his DNA had matched that of Damián Abel Cabandié and Alicia Alfosín's, as recorded in the Grandmothers' genetic database."
+            },
+            {
+              "text": "He was the 77th grandchild whose identity was restored by the Grandmothers."
+            },
+            {
+              "text": "His true name was restored as well; Cabandié has repeatedly said that, during his childhood and adolescence, he had chosen for himself the name of Juan, and had dreams in which his mother called him by that name."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cabandié has stated that, although he considers Luis Falco to be a mere appropriator who kept his true identity from him, he holds ambiguous feelings over Teresa Perrone, whom he considers his \"foster mother\"."
+            },
+            {
+              "text": "He also considers Vanina Falco his true sister; she asked to stand as a plaintiff with her brother in the trial against Luis Falco, but the court denied her request due to her close relationship to both Falco and Cabandié."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Luis Antonio Falco was sentenced to 18 years in prison by a Buenos Aires tribunal in 2011 for the crimes of appropriation of minors and suppression of identity."
+            },
+            {
+              "text": "It is, to this date, the highest penalty granted to anyone on those grounds."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ellitoral.com/index.php/id_um/63675",
+          "work": "El Litoral",
+          "title": "Soy mis padres, soy Alicia y Damián, les pertenezco y tengo la sangre de ellos",
+          "date": "17 May 2011",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lanacion.com.ar/politica/condenan-a-18-anos-al-apropiador-de-cabandie-nid1374225/",
+          "work": "La Nación",
+          "title": "Condenan a 18 años al apropiador de Cabandié",
+          "date": "18 May 2011",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the restoration of his identity in 2004, Cabandié was invited by then president Néstor Kirchner to give a speech at an official act in the former ESMA detention center, now a designated memorial space; this was the first time he made a public appearance in a political act.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Néstor Kirchner"
+                },
+                {
+                  "text": "ESMA",
+                  "type": "internal",
+                  "page": "Navy Petty-Officers School"
+                }
+              ]
+            },
+            {
+              "text": "From then on, he began to be more and more involved in politics and eventually became one of the co-founders of La Cámpora, the main youth wing of the Front for Victory (FPV) and the Kirchnerist movement, alongside Máximo Kirchner, Eduardo de Pedro, and Mariano Recalde, and others.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "La Cámpora"
+                },
+                {
+                  "type": "internal",
+                  "page": "Front for Victory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kirchnerist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Máximo Kirchner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eduardo de Pedro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mariano Recalde"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "La Cámpora"
+                ]
+              }
+            },
+            {
+              "text": "Cabandié was also secretary general of the Peronist Youth (JP) and human rights secretary of the Justicialist Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ahead of the 2007 elections in Buenos Aires, Cabandié ran in the Front for Victory list to the City Legislature as the fourth candidate.",
+              "links": [
+                {
+                  "text": "2007 elections",
+                  "type": "internal",
+                  "page": "2007 Argentine general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Front for Victory"
+                },
+                {
+                  "text": "City Legislature",
+                  "type": "internal",
+                  "page": "Buenos Aires City Legislature"
+                }
+              ]
+            },
+            {
+              "text": "Although the FPV only received enough votes to win three seats in the Legislature, one of the elected candidates, Ginés González García, took up the position of Argentine ambassador to Chile and so Cabandié was sworn in in his stead.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ginés González García"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chile"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected to the Legislature in 2011 as the first candidate in the FPV list.",
+              "links": [
+                {
+                  "text": "2011",
+                  "type": "internal",
+                  "page": "2011 Argentine general election"
+                }
+              ]
+            },
+            {
+              "text": "He would then serve as president of the FPV parliamentary bloc in the Legislature."
+            },
+            {
+              "text": "During his term as city legislator he introduced legislation to erect a monument to Diego Maradona, whom Cabandié lauded as an \"icon of popular culture\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Diego Maradona"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Cabandie.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Cabandie.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Cabandie.jpg",
+          "caption": "Cabandié as a city legislator in 2009.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.telam.com.ar/notas/201403/56329-cabandie-el-24-de-marzo-de-2004-fue-un-hito-que-marco-el-camino-para-la-construccion-de-un-proyecto-de-bases-populares.html",
+          "work": "Télam",
+          "title": "Cabandié: \"El 24 de marzo de 2004 marcó el camino para la construcción de un proyecto de bases populares\"",
+          "last": "De Vedia y Mitre",
+          "first": "Martín",
+          "date": "23 March 2014",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cronista.com/economiapolitica/Quien-es-Wado-De-Pedro-el-camporista-que-gana-poder-en-el-Gobierno-20150226-0110.html",
+          "title": "Quién es Wado De Pedro, el camporista que gana poder en el Gobierno",
+          "date": "26 February 2015",
+          "accessdate": "15 December 2020",
+          "work": "El Cronista",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lanacion.com.ar/politica/la-campora-gana-espacio-en-el-entorno-kirchnerista-nid1299780/",
+          "work": "La Nación",
+          "title": "Avance de los jóvenes oficialistas. La Cámpora gana espacio en el entorno kirchnerista",
+          "date": "31 August 2010",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.telam.com.ar/notas/201405/62538-cabandie-la-renovacion-del-partido-justicialista-era-necesaria-para-unirnos-de-cara-al-2015.html",
+          "work": "Télam",
+          "title": "Cabandié: \"La renovación del Partido Justicialista era necesaria para unirnos de cara al 2015\"",
+          "date": "9 May 2014",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/diario/elpais/1-95008-2007-11-21.html",
+          "work": "Página/12",
+          "title": "Ginés pega el salto a la cordillera",
+          "date": "21 November 2007",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lmneuquen.com/el-pro-retiene-sus-bancas-la-legislatura-n113845",
+          "work": "La Mañana Neuquén",
+          "title": "El PRO retiene sus bancas en la Legislatura",
+          "date": "11 July 2011",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.elargentino.com/nota-97841-Fuerte-defensa-al-proyecto-del-monumento-a-Maradona.html",
+          "title": "Fuerte defensa del monumento a Maradona",
+          "work": "El Argentino",
+          "archive-url": "http://www.elargentino.com/nota-97841-Fuerte-defensa-al-proyecto-del-monumento-a-Maradona.html",
+          "date": "7 July 2010",
+          "archive-date": "5 March 2016",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Member of the Chamber of Deputies",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2013 Cabandié was elected to the Argentine Chamber of Deputies on the FPV list for the City of Buenos Aires.",
+              "links": [
+                {
+                  "text": "2013",
+                  "type": "internal",
+                  "page": "2013 Argentine legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                }
+              ]
+            },
+            {
+              "text": "He served as member and vice president of the parliamentary commission on consumer and user rights and fair competition."
+            },
+            {
+              "text": "During his time in office he sponsored a number of bills aimed at protecting consumer rights, such as a bill on price and offers display."
+            },
+            {
+              "text": "He was re-elected in 2017 as the third candidate in the Unidad Porteña list within the Citizen's Unity alliance.",
+              "links": [
+                {
+                  "text": "2017",
+                  "type": "internal",
+                  "page": "2017 Argentine legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Citizen's Unity"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Unidad Porteña"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018, Cabandié voted in favor of the Voluntary Termination of Pregnancy (IVE) bill that intended to legalize abortion in Argentina; the bill passed the Chamber of Deputies but was eventually struck down by the Senate.",
+              "links": [
+                {
+                  "text": "Voluntary Termination of Pregnancy",
+                  "type": "internal",
+                  "page": "Voluntary Termination of Pregnancy Bill (Argentina)"
+                },
+                {
+                  "text": "legalize abortion",
+                  "type": "internal",
+                  "page": "Abortion in Argentina"
+                },
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Argentine Senate"
+                }
+              ]
+            },
+            {
+              "text": "According to Cabandié, going into the vote he was \"unsure\" about his position, but that \"the women's fight made [him] reflect [on it]\"."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Sesión_13-06-2018_Diputado_Juan_Cabandie.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Sesi%C3%B3n_13-06-2018_Diputado_Juan_Cabandie.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Sesi%C3%B3n_13-06-2018_Diputado_Juan_Cabandie.jpg",
+          "caption": "Cabandié, as a National Deputy, during the session to vote on the Voluntary Termination of Pregnancy (IVE) bill in 2018.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ambito.com/politica/juan-cabandie/quien-es-secretario-ambiente-y-desarrollo-n5069774",
+          "title": "¿Quién es Juan Cabandié, secretario de Ambiente y Desarrollo?",
+          "work": "Ámbito",
+          "date": "6 December 2019",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.telam.com.ar/notas/201410/82872-juan-cabandie-diputados-proyectos-regulacion-precios-ofertas.html",
+          "work": "Télam",
+          "title": "Cabandié presentó un proyecto para regular el sistema de exhibición de precios y ofertas",
+          "date": "24 October 2014",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.telam.com.ar/notas/201706/193370-filmus-cerruti-y-cabandie-seran-los-postulantes-a-diputados-nacionales-por-unidad-ciudadana-portena.html",
+          "work": "Télam",
+          "title": "Filmus, Cerruti y Cabandié encabezan la lista a diputados nacionales",
+          "date": "24 June 2017",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-latin-america-45125687",
+          "work": "BBC",
+          "title": "Argentina abortion: Senate defeats bill after polarising debate",
+          "date": "9 August 2018",
+          "access-date": "15 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cronista.com/economiapolitica/Cabandie-No-lo-tenia-tan-claro-pero-la-lucha-de-las-mujeres-me-hizo-reflexionar-20180305-0025.html",
+          "work": "El Cronista",
+          "title": "Cabandié: \"No lo tenía tan claro, pero la lucha de las mujeres me hizo reflexionar\"",
+          "last": "Barral Grigera",
+          "first": "Noelia",
+          "date": "5 March 2018",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister of the Environment",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 10 December 2019, Cabandié was appointed by incoming president Alberto Fernández as minister of the newly restored Ministry of the Environment and Sustainable Development, succeeding Sergio Bergman, who was secretary of the environment in Mauricio Macri's cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alberto Fernández"
+                },
+                {
+                  "text": "Ministry of the Environment and Sustainable Development",
+                  "type": "internal",
+                  "page": "Ministry of the Environment and Sustainable Development (Argentina)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sergio Bergman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mauricio Macri"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As minister, Cabandié overturned a decree signed by former president Macri that loosened restrictions on the import of plastic waste."
+            },
+            {
+              "text": "The environment ministry has also had to deal with the worst fires in decades, that have hit locations across Argentina since late 2019."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "El Gobierno derogó el decreto de Mauricio Macri que permitía importar basura",
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-derogo-decreto-mauricio-macri-permitia-nid2333771",
+          "work": "La Nación",
+          "date": "14 February 2020",
+          "access-date": "15 December 2020",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://phys.org/news/2020-08-argentine-marshland-threatened-worst-decades.html",
+          "work": "Phys",
+          "last": "Hiba",
+          "first": "Jorgelina",
+          "title": "Argentine marshland threatened by worst fires in decades",
+          "date": "7 August 2020",
+          "access-date": "15 December 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons"
+        },
+        {
+          "title": "Juan Cabandié navigational boxes",
+          "state": "collapsed",
+          "template": "navboxes top"
+        },
+        {
+          "template": "alberto fernández cabinet"
+        },
+        {
+          "template": "argentine deputies, 2013–2015"
+        },
+        {
+          "template": "argentine deputies, 2015–2017"
+        },
+        {
+          "template": "argentine deputies, 2017–2019"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "navboxes end"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of the Ministry of the Environment and Sustainable Development (in Spanish)",
+            "links": [
+              {
+                "text": "Official website of the Ministry of the Environment and Sustainable Development",
+                "type": "external",
+                "site": "https://www.argentina.gob.ar/ambiente"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

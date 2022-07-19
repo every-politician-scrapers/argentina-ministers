@@ -1,0 +1,603 @@
+{
+  "title": "Julio Vitobello",
+  "pageID": 65921974,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "20th-century Argentine lawyers",
+    "Justicialist Party politicians",
+    "Politicians from Buenos Aires",
+    "University of Buenos Aires alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julio Fernando Vitobello (born 2 March 1957) is an Argentine politician who has served as General Secretary of the Presidency of the Nation since 2019, designated by President Alberto Fernández.",
+              "links": [
+                {
+                  "text": "Argentine",
+                  "type": "internal",
+                  "page": "Argentina"
+                },
+                {
+                  "text": "General Secretary of the Presidency of the Nation",
+                  "type": "internal",
+                  "page": "General Secretariat of the Presidency (Argentina)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alberto Fernández"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Julio Fernando Vitobello"
+                ]
+              }
+            },
+            {
+              "text": "Previously, from 2009 to 2015, he was head of the Anti-Corruption Bureau.",
+              "links": [
+                {
+                  "text": "Anti-Corruption Bureau",
+                  "type": "internal",
+                  "page": "Anti-Corruption Bureau (Argentina)"
+                }
+              ]
+            },
+            {
+              "text": "He also served as General Comptroller of the Nation from 2007 to 2009 and as a member of the Buenos Aires City Legislature.",
+              "links": [
+                {
+                  "text": "General Comptroller of the Nation",
+                  "type": "internal",
+                  "page": "Sindicatura General de la Nación"
+                },
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires City Legislature"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentinian lawyer",
+          "template": "short description"
+        },
+        {
+          "date": "November 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1957",
+          "month": "3",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Julio Vitobello"
+          },
+          "image": {
+            "text": "Julio Vitobello 2020.jpg"
+          },
+          "office": {
+            "text": "General Secretary of the Presidency",
+            "links": [
+              {
+                "text": "General Secretary of the Presidency",
+                "type": "internal",
+                "page": "General Secretariat of the Presidency (Argentina)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 December 2019"
+          },
+          "predecessor": {
+            "text": "Fernando de Andreis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando de Andreis"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary of Public Ethics, Transparency and the Fight against Corruption",
+            "links": [
+              {
+                "text": "Secretary of Public Ethics, Transparency and the Fight against Corruption",
+                "type": "internal",
+                "page": "Anti-Corruption Bureau (Argentina)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "23 January 2009"
+          },
+          "term_end1": {
+            "text": "29 December 2015"
+          },
+          "predecessor1": {
+            "text": "Abel Fleitas Ortiz de Rozas"
+          },
+          "successor1": {
+            "text": "Laura Alonso",
+            "links": [
+              {
+                "text": "Laura Alonso",
+                "type": "internal",
+                "page": "Laura Alonso (politician)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "General Comptroller of the Nation",
+            "links": [
+              {
+                "text": "General Comptroller of the Nation",
+                "type": "internal",
+                "page": "Sindicatura General de la Nación"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 December 2007"
+          },
+          "term_end2": {
+            "text": "23 January 2009"
+          },
+          "president2": {
+            "text": "Cristina Fernández de Kirchner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristina Fernández de Kirchner"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Claudio Moroni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Claudio Moroni"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Carlos Pacios"
+          },
+          "birth_date": {
+            "text": "March 2, 1957"
+          },
+          "birth_place": {
+            "text": "Buenos Aires, Argentina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Buenos Aires"
+              },
+              {
+                "type": "internal",
+                "page": "Argentina"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Front for Victory (2003–2017)\nFrente de Todos (2019–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Front for Victory"
+              },
+              {
+                "text": "Frente de Todos",
+                "type": "internal",
+                "page": "Frente de Todos (2019 coalition)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Buenos Aires",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Buenos Aires"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julio Fernando Vitobello was born on 2 March 1957 in Buenos Aires.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires"
+                }
+              ]
+            },
+            {
+              "text": "He studied law at the University of Buenos Aires.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Buenos Aires"
+                }
+              ]
+            },
+            {
+              "text": "His political career started in the Buenos Aires City chapter of the Justicialist Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                }
+              ]
+            },
+            {
+              "text": "During the presidency of Carlos Menem he was chief of staff at the Secretariat of the Interior.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carlos Menem"
+                },
+                {
+                  "text": "Secretariat of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Argentina)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vitobello ran for a seat in the Buenos Aires City Legislature in the 2000 local election under the Action for the Republic list, alongside, among others, Alberto Fernández.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires City Legislature"
+                },
+                {
+                  "text": "2000 local election",
+                  "type": "internal",
+                  "page": ":es:Elecciones de la Ciudad Autónoma de Buenos Aires de 2000"
+                },
+                {
+                  "type": "internal",
+                  "page": "Action for the Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alberto Fernández"
+                }
+              ]
+            },
+            {
+              "text": "Vitobello had met Fernández earlier, during the 1999 presidential campaign of Eduardo Duhalde; they remained close associates ever since.",
+              "links": [
+                {
+                  "text": "1999",
+                  "type": "internal",
+                  "page": "1999 Argentine general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eduardo Duhalde"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.treslineas.com.ar/julio-vitobello-bio-4346.html",
+          "work": "Tres Líneas",
+          "title": "Julio Vitobello - Biografía",
+          "accessdate": "23 November 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.laizquierdadiario.com/Quien-es-Alberto-Fernandez-el-candidato-que-CFK-propone-a-presidente",
+          "work": "La Izquierda Diario",
+          "title": "¿Quién es Alberto Fernández, el candidato que CFK propone a presidente?",
+          "last": "Leone",
+          "first": "Emilia",
+          "date": "18 May 2019",
+          "accessdate": "23 November 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lanacion.com.ar/politica/julio-vitobello-amigo-encargado-cubrir-espalda-del-nid2313305",
+          "work": "La Nación",
+          "title": "Julio Vitobello, el amigo encargado de cubrir la espalda del presidente",
+          "date": "6 December 2019",
+          "accessdate": "23 November 2020",
+          "last": "Dapelo",
+          "first": "Santiago",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.treslineas.com.ar/hombre-kirchner-n-52228.html",
+          "work": "Tres Líneas",
+          "title": "Un hombre de Kirchner irá a la OA",
+          "date": "24 January 2009",
+          "accessdate": "23 November 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-cubre-mas-cargos-vanoli-anses-nid2310267",
+          "work": "La Nación",
+          "title": "Alberto Fernández cubre más cargos: Vanoli, a la Anses, y Vitobello, a la Secretaría General",
+          "last": "Sued",
+          "first": "Gabriel",
+          "date": "27 November 2019",
+          "accessdate": "23 November 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cronista.com/economiapolitica/Quien-es-Julio-Vitobello-el-candidato-para-la-Secretaria-General-de-Presidencia-20191204-0024.html",
+          "work": "El Cronista",
+          "title": "Quién es Julio Vitobello, el candidato para la Secretaría General de Presidencia",
+          "date": "4 December 2019",
+          "accessdate": "23 November 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.infobae.com/politica/2019/12/29/julio-vitobello-los-secretos-del-hombre-que-le-maneja-la-agenda-al-presidente/",
+          "work": "Infobae",
+          "title": "Julio Vitobello: los secretos del hombre que le maneja la agenda al Presidente",
+          "date": "29 December 2019",
+          "accessdate": "23 November 2020",
+          "last": "Juárez",
+          "first": "Paola",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/diario/elpais/subnotas/1-30571-2007-12-29.html",
+          "work": "Página/12",
+          "title": "Julio Vitobello, en la Sigen",
+          "date": "29 December 2007",
+          "accessdate": "23 November 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Later career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Upon the election of Néstor Kirchner to the presidency and the appointment of Alberto Fernández as Chief of Cabinet, Vitobello resigned from the Legislature and was appointed by Fernández as his Undersecretary.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Néstor Kirchner"
+                },
+                {
+                  "text": "Chief of Cabinet",
+                  "type": "internal",
+                  "page": "Chief of the Cabinet of Ministers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007 he was appointed to the General Comptrolling Bureau of the Nation (SIGEN), replacing Claudio Moroni.",
+              "links": [
+                {
+                  "text": "General Comptrolling Bureau of the Nation",
+                  "type": "internal",
+                  "page": "Sindicatura General de la Nación"
+                },
+                {
+                  "type": "internal",
+                  "page": "Claudio Moroni"
+                }
+              ]
+            },
+            {
+              "text": "In 2009 he was appointed Secretary of Public Ethics, Transparency and the Fight against Corruption (head of the Anti-Corruption Bureau) by President Cristina Fernández de Kirchner, a position he kept until Fernández de Kirchner's departure from the presidency in 2015.",
+              "links": [
+                {
+                  "text": "Anti-Corruption Bureau",
+                  "type": "internal",
+                  "page": "Anti-Corruption Bureau (Argentina)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cristina Fernández de Kirchner"
+                },
+                {
+                  "text": "2015",
+                  "type": "internal",
+                  "page": "2015 Argentine general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following Alberto Fernández's presidential win at the 2019 general election, Vitobello was invited to take over the General Secretariat of the Presidency, replacing Fernando de Andreis.",
+              "links": [
+                {
+                  "text": "2019 general election",
+                  "type": "internal",
+                  "page": "2019 Argentine general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fernando de Andreis"
+                }
+              ]
+            },
+            {
+              "text": "He took office on 10 December 2019."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commonscat"
+        },
+        {
+          "list": [
+            "es"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Claudio Moroni",
+          "template": "s-bef"
+        },
+        {
+          "title": "General Comptroller of the Nation",
+          "years": "2007–2009",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Carlos Pacios",
+          "template": "s-non"
+        },
+        {
+          "before": "Abel Ortiz de Rozas",
+          "template": "s-bef"
+        },
+        {
+          "title": "Head of the Anti-Corruption Bureau",
+          "years": "2009–2015",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Laura Alonso",
+          "template": "s-non"
+        },
+        {
+          "before": "Fernando de Andreis",
+          "template": "s-bef"
+        },
+        {
+          "title": "General Secretary of the Presidency",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "template": "alberto fernández cabinet"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of the General Secretariat of the Presidency",
+            "links": [
+              {
+                "text": "Official website of the General Secretariat of the Presidency",
+                "type": "external",
+                "site": "https://www.argentina.gob.ar/secretariageneral"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

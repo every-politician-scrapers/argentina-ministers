@@ -1,0 +1,603 @@
+{
+  "title": "Ricardo Quintela",
+  "pageID": 66262440,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "People from La Rioja Province, Argentina",
+    "Members of the Argentine Chamber of Deputies elected in La Rioja",
+    "Members of the Legislature of La Rioja",
+    "Mayors of places in Argentina",
+    "Governors of La Rioja Province, Argentina",
+    "Justicialist Party politicians",
+    "21st-century Argentine politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ricardo Clemente Quintela (born 16 March 1960) is an Argentine Justicialist Party politician who is currently Governor of La Rioja Province, since 11 December 2019.",
+              "links": [
+                {
+                  "text": "Argentine",
+                  "type": "internal",
+                  "page": "Argentina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of La Rioja Province"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ricardo Clemente Quintela"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was previously Mayor of the City of La Rioja from 2003 to 2015, as well as a member of the provincial legislature during two non-consecutive terms and a National Deputy from 1997 to 2003.",
+              "links": [
+                {
+                  "text": "City of La Rioja",
+                  "type": "internal",
+                  "page": "La Rioja, Argentina"
+                },
+                {
+                  "text": "provincial legislature",
+                  "type": "internal",
+                  "page": "Legislature of La Rioja"
+                },
+                {
+                  "text": "National Deputy",
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 2020, Quintela has been the president of the La Rioja chapter of the Justicialist Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "image": "RQ WIkipedia.jpg",
+          "bsize": "650",
+          "cwidth": "230",
+          "cheight": "300",
+          "otop": "10",
+          "oleft": "240",
+          "location": "center",
+          "template": "css image crop"
+        },
+        {
+          "year": "1960",
+          "month": "3",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ricardo Quintela"
+          },
+          "order": {
+            "text": "Governor of La Rioja",
+            "links": [
+              {
+                "text": "Governor of La Rioja",
+                "type": "internal",
+                "page": "Governor of La Rioja Province"
+              }
+            ]
+          },
+          "vicegovernor": {
+            "text": "Florencia López",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florencia López"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 December 2019"
+          },
+          "predecessor": {
+            "text": "Sergio Casas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergio Casas"
+              }
+            ]
+          },
+          "order1": {
+            "text": "Provincial Legislator of La Rioja",
+            "links": [
+              {
+                "text": "Provincial Legislator of La Rioja",
+                "type": "internal",
+                "page": "Legislature of La Rioja"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 December 2017"
+          },
+          "term_end1": {
+            "text": "24 November 2019"
+          },
+          "constituency1": {
+            "text": "Capital Department",
+            "links": [
+              {
+                "text": "Capital Department",
+                "type": "internal",
+                "page": "Capital Department, La Rioja"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 December 1993"
+          },
+          "term_end2": {
+            "text": "10 December 1997"
+          },
+          "constituency2": {
+            "text": "Capital Department",
+            "links": [
+              {
+                "text": "Capital Department",
+                "type": "internal",
+                "page": "Capital Department, La Rioja"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Mayor of La Rioja",
+            "links": [
+              {
+                "text": "Mayor of La Rioja",
+                "type": "internal",
+                "page": "La Rioja, Argentina"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "10 December 2003"
+          },
+          "term_end3": {
+            "text": "10 December 2015"
+          },
+          "predecessor3": {
+            "text": "Luis Agost Carreño"
+          },
+          "successor3": {
+            "text": "Alberto Paredes Urquiza"
+          },
+          "office4": {
+            "text": "National Deputy",
+            "links": [
+              {
+                "text": "National Deputy",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "10 December 1997"
+          },
+          "term_end4": {
+            "text": "10 December 2003"
+          },
+          "constituency4": {
+            "text": "La Rioja",
+            "links": [
+              {
+                "text": "La Rioja",
+                "type": "internal",
+                "page": "La Rioja Province, Argentina"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 16, 1960"
+          },
+          "birth_place": {
+            "text": "La Rioja, La Rioja Province, Argentina",
+            "links": [
+              {
+                "text": "La Rioja",
+                "type": "internal",
+                "page": "La Rioja, Argentina"
+              },
+              {
+                "text": "La Rioja Province",
+                "type": "internal",
+                "page": "La Rioja Province, Argentina"
+              },
+              {
+                "type": "internal",
+                "page": "Argentina"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Quintela's political activism began early in his life in the Peronist Youth; he was appointed president of the La Rioja Capital Department Peronist Youth in 1986.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peronist Youth"
+                }
+              ]
+            },
+            {
+              "text": "In 1993 he was elected to the Legislature of La Rioja for a four-year term, representing the Capital Department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislature of La Rioja"
+                },
+                {
+                  "text": "Capital Department",
+                  "type": "internal",
+                  "page": "Capital Department, La Rioja"
+                }
+              ]
+            },
+            {
+              "text": "Following the end of this term, he was elected to the Argentine Chamber of Deputies for La Rioja, serving a full four-year term until 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2003 to 2015 he was intendente (mayor) of the City of La Rioja.",
+              "links": [
+                {
+                  "text": "intendente",
+                  "type": "internal",
+                  "page": "intendente"
+                },
+                {
+                  "text": "City of La Rioja",
+                  "type": "internal",
+                  "page": "La Rioja, Argentina"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "intendente"
+                ]
+              }
+            },
+            {
+              "text": "In 2017 he was elected again to the Provincial Chamber of Deputies, representing the Capital Department as well."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019, then-governor Sergio Casas attempted to hold a referendum to modify the provincial constitution and allow further re-elections; the attempt was blocked by the Supreme Court of Argentina, and so Casas nominated Quintela, a close ally, to succeed him in the post.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "Governor of La Rioja Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sergio Casas"
+                },
+                {
+                  "text": "referendum",
+                  "type": "internal",
+                  "page": "referendum"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Argentina"
+                }
+              ]
+            },
+            {
+              "text": "Quintela ran in the 2019 election in a three-way race against a fellow Justicialist Party candidate and former governor, Luis Beder Herrera, as well as Juntos por el Cambio candidate Julio Martínez; Quintela won with 45% of the vote and was sworn in on 11 December 2019.",
+              "links": [
+                {
+                  "text": "2019 election",
+                  "type": "internal",
+                  "page": "2019 Argentine general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Beder Herrera"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juntos por el Cambio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 13 October 2020, Quintela was elected as president of the La Rioja provincial chapter of the Justicialist Party, following the resignation of Casas from the post."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.infobae.com/politica/2020/11/29/los-gobernadores-de-san-luis-formosa-tucuman-y-la-rioja-se-negaron-a-informar-cuanto-ganan-por-mes/",
+          "work": "Infobae",
+          "title": "Los gobernadores de San Luis, Formosa, Tucumán y La Rioja se negaron a informar cuánto ganan por mes",
+          "last1": "Fitz Patrick",
+          "first1": "Mariel",
+          "last2": "Crucianelli",
+          "first2": "Sandra",
+          "date": "29 November 2020",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elindependiente.com.ar/pagina.php?id=227731",
+          "work": "El Independiente",
+          "title": "Quintela concluyó su mandato como diputado y se prepara para asumir como gobernador",
+          "date": "24 November 2019",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lanacion.com.ar/politica/elecciones-2019-la-rioja-gano-ricardo-quintela-y-retuvo-la-provincia-para-el-peronismo-nid2301287",
+          "work": "La Nación",
+          "title": "Elecciones 2019. La Rioja: ganó Ricardo Quintela y retuvo la provincia para el peronismo",
+          "last": "Ybarra",
+          "first": "Gustavo",
+          "date": "28 October 2019",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cadena3.com/noticia/elecciones-2019/el-peronista-ricardo-quintela-gobernara-la-rioja_244526",
+          "work": "Cadena 3",
+          "title": "El peronista Ricardo Quintela gobernará La Rioja",
+          "date": "27 October 2019",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.clarin.com/politica/rioja-impuso-frente-ricardo-quintela-supero-45-votos_0_smpxNtbL.html",
+          "work": "Clarín",
+          "title": "En La Rioja se impuso el Frente de Todos: Ricardo Quintela superó el 45% de los votos",
+          "date": "27 October 2019",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/298976-el-gobernador-ricardo-quintela-fue-elegido-como-presidente-d",
+          "work": "Página/12",
+          "title": "El gobernador Ricardo Quintela fue elegido como presidente del PJ riojano",
+          "date": "14 October 2020",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elindependiente.com.ar/pagina.php?id=231355",
+          "work": "El Independiente",
+          "title": "\"La Rioja maduró un sueño de dignidad\"",
+          "date": "6 January 2020",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Quintela is nicknamed \"El Gitano\".",
+              "links": [
+                {
+                  "text": "Gitano",
+                  "type": "internal",
+                  "page": "Gitanos"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "\"El Gitano\""
+                ]
+              }
+            },
+            {
+              "text": "He has five children: Emilse, Christian, Exequiel, Jerónimo and Guadalupe."
+            },
+            {
+              "text": "His sister, Teresa Quintela, is also active in politics and served as a national senator for La Rioja.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Teresa Quintela"
+                },
+                {
+                  "text": "national senator",
+                  "type": "internal",
+                  "page": "Argentine Senate"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lanacion.com.ar/politica/coronavirus-insolito-fallido-del-gobernador-la-rioja-nid2351920",
+          "work": "La Nación",
+          "title": "Coronavirus: el insólito fallido del gobernador de La Rioja en el que lamentó tener \"cerrados cabarets\"",
+          "last": "Rodríguez",
+          "first": "Leonel",
+          "date": "7 April 2020",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/diario/elpais/1-272946-2015-05-18.html",
+          "work": "Página/12",
+          "title": "Los seis en La Rioja",
+          "date": "18 May 2015",
+          "access-date": "1 January 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Sergio Casas",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of La Rioja",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "argentinagovernors"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of the Governorship of La Rioja (in Spanish)",
+            "links": [
+              {
+                "text": "Official website of the Governorship of La Rioja",
+                "type": "external",
+                "site": "https://www.larioja.gob.ar/institucional/autoridades.php"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

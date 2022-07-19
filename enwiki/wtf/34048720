@@ -1,0 +1,930 @@
+{
+  "title": "Jorge Argüello",
+  "pageID": 34048720,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "People from Buenos Aires",
+    "Argentine people of Spanish descent",
+    "University of Buenos Aires alumni",
+    "Members of the Argentine Chamber of Deputies elected in Buenos Aires",
+    "Justicialist Party politicians",
+    "Permanent Representatives of Argentina to the United Nations",
+    "Ambassadors of Argentina to the United States",
+    "Ambassadors of Argentina to Portugal",
+    "People from Rochester, Indiana"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jorge Martín Arturo Argüello (born 20 April 1956) is an Argentine politician and diplomat.",
+              "formatting": {
+                "bold": [
+                  "Jorge Martín Arturo Argüello"
+                ]
+              }
+            },
+            {
+              "text": "He is the Ambassador of Argentina to the United States.",
+              "links": [
+                {
+                  "text": "Ambassador of Argentina to the United States",
+                  "type": "internal",
+                  "page": "Argentina-United States relations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Argüello served as Permanent Representative of Argentina to the United Nations between 2007 and 2011, and was designated Ambassador of Argentina to the United States during 2011-2013.",
+              "links": [
+                {
+                  "text": "Permanent Representative of Argentina to the United Nations",
+                  "type": "internal",
+                  "page": "List of current Permanent Representatives to the United Nations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Argentina"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            },
+            {
+              "text": "In 2013 was appointed Ambassador of Argentina to Portugal."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician and diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "likeresume"
+        },
+        {
+          "date": "August 2021",
+          "template": "refimprove"
+        },
+        {
+          "date": "December 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1956",
+          "month": "4",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jorge Argüello"
+          },
+          "image": {
+            "text": "Secretary Pompeo Meets with Argentine Ambassador to the United States Argüello (49580291358) (cropped).jpg"
+          },
+          "office": {
+            "text": "Argentine Ambassador to the United States",
+            "links": [
+              {
+                "text": "Argentine Ambassador to the United States",
+                "type": "internal",
+                "page": "Argentina-United States relations"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 December 2019"
+          },
+          "predecessor": {
+            "text": "Fernando Oris de Roa",
+            "links": [
+              {
+                "text": "Fernando Oris de Roa",
+                "type": "internal",
+                "page": ":es:Fernando Oris de Roa"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 December 2011"
+          },
+          "term_end2": {
+            "text": "8 January 2013"
+          },
+          "preceded2": {
+            "text": "Alfredo Chiaradía",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alfredo Chiaradía"
+              }
+            ]
+          },
+          "succeeded2": {
+            "text": "Cecilia Nahón",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cecilia Nahón"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Permanent Representative of Argentina to the United Nations",
+            "links": [
+              {
+                "text": "Permanent Representative of Argentina to the United Nations",
+                "type": "internal",
+                "page": "List of current Permanent Representatives to the United Nations"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "18 June 2007"
+          },
+          "term_end3": {
+            "text": "1 December 2011"
+          },
+          "preceded3": {
+            "text": "César Mayoral",
+            "links": [
+              {
+                "type": "internal",
+                "page": "César Mayoral"
+              }
+            ]
+          },
+          "succeeded3": {
+            "text": "María Perceval",
+            "links": [
+              {
+                "type": "internal",
+                "page": "María Perceval"
+              }
+            ]
+          },
+          "office4": {
+            "text": "National Deputy",
+            "links": [
+              {
+                "text": "National Deputy",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "10 December 1991"
+          },
+          "term_end4": {
+            "text": "10 December 1995"
+          },
+          "constituency4": {
+            "text": "City of Buenos Aires",
+            "links": [
+              {
+                "text": "City of Buenos Aires",
+                "type": "internal",
+                "page": "Buenos Aires"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "10 December 2003"
+          },
+          "term_end5": {
+            "text": "18 June 2007"
+          },
+          "constituency5": {
+            "text": "City of Buenos Aires",
+            "links": [
+              {
+                "text": "City of Buenos Aires",
+                "type": "internal",
+                "page": "Buenos Aires"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Legislator of the City of Buenos Aires",
+            "links": [
+              {
+                "text": "Legislator of the City of Buenos Aires",
+                "type": "internal",
+                "page": "Buenos Aires City Legislature"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "4 December 1997"
+          },
+          "term_end6": {
+            "text": "10 December 2003"
+          },
+          "birth_date": {
+            "text": "April 20, 1956"
+          },
+          "birth_place": {
+            "text": "Córdoba, Córdoba Province, Argentina",
+            "links": [
+              {
+                "text": "Córdoba",
+                "type": "internal",
+                "page": "Córdoba, Argentina"
+              },
+              {
+                "text": "Córdoba Province",
+                "type": "internal",
+                "page": "Córdoba Province, Argentina"
+              },
+              {
+                "type": "internal",
+                "page": "Argentina"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Erika Grinberg"
+          },
+          "nationality": {
+            "text": "Argentine"
+          },
+          "alma_mater": {
+            "text": "University of Buenos Aires University of San Andrés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Buenos Aires"
+              },
+              {
+                "type": "internal",
+                "page": "University of San Andrés"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Frente de Todos (2019–present)\nCitizen's Unity (2017–2019) Front for Victory (2003–2017)",
+            "links": [
+              {
+                "text": "Frente de Todos",
+                "type": "internal",
+                "page": "Frente de Todos (2019 coalition)"
+              },
+              {
+                "type": "internal",
+                "page": "Citizen's Unity"
+              },
+              {
+                "type": "internal",
+                "page": "Front for Victory"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Life and public service",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Argüello was born in Córdoba in 1956 as the first of four children by Jorge Marcelo Argüello Varela and Raquel Luque Colombres.",
+              "links": [
+                {
+                  "text": "Córdoba",
+                  "type": "internal",
+                  "page": "Córdoba, Argentina"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from Rochester Community High School, Rochester, Indiana, in 1974, and returned to Argentina, where he enrolled at the University of Buenos Aires and earned a law degree in 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rochester Community High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rochester, Indiana"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Buenos Aires"
+                }
+              ]
+            },
+            {
+              "text": "He later earned a master's degree in Administration and Public Affairs at the University of San Andrés (Argentina), and authored numerous articles and books on democratic participation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of San Andrés"
+                },
+                {
+                  "text": "democratic participation",
+                  "type": "internal",
+                  "page": "democratic participation"
+                }
+              ]
+            },
+            {
+              "text": "Argüello is married to journalist Erika Grinberg, and has a son and three daughters."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He entered public service upon his election in 1987 to the Buenos Aires City Council, and served in the Argentine Chamber of Deputies between 1991 and 1995.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                }
+              ]
+            },
+            {
+              "text": "Argüello served as host organizer in 1994 of the first official visit to Argentina of a British Parliamentary delegation since the Falklands War twelve years earlier, and later represented Latin America countries in the 1994-95 meeting of the Parliamentarians for Global Action.",
+              "links": [
+                {
+                  "text": "host organizer",
+                  "type": "internal",
+                  "page": "Sherpa (emissary)"
+                },
+                {
+                  "text": "British Parliamentary",
+                  "type": "internal",
+                  "page": "British Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Falklands War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Latin America"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliamentarians for Global Action"
+                }
+              ]
+            },
+            {
+              "text": "In 1996, he was elected in the convention of Buenos Aires City (Convención Constituyente) called in 1996 to write the Constitution of the City of Buenos Aires."
+            },
+            {
+              "text": "Between 1997 and 2003 he served as deputy of the newly established Buenos Aires City Legislature in two successive periods (1997-2000 and 2000-2003).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Buenos Aires City Legislature"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2003, Argüello was again elected to the Chamber of Deputies and he became Chairman of the Foreign Relations Committee, and in that capacity organized the office of the Parliamentary Monitor for the Falkland Islands (Observatorio Parliamentario Cuestión Islas Malvinas).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Falkland Islands"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Observatorio Parliamentario Cuestión Islas Malvinas"
+                ]
+              }
+            },
+            {
+              "text": "In 2007, he was appointed by President Nestor Kirchner as Permanent Representative of Argentina to the United Nations.",
+              "links": [
+                {
+                  "text": "Nestor Kirchner",
+                  "type": "internal",
+                  "page": "Néstor Kirchner"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            },
+            {
+              "text": "In that capacity Argüello served as Vice President of the Peace and Security Committee of Inter-Parliamentary Union in 2006 and 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inter-Parliamentary Union"
+                }
+              ]
+            },
+            {
+              "text": "He was Chairman of the UN Special Committee on Decolonization in 2008, and president of the Group of 77 and China for their 2011 session.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Special Committee on Decolonization"
+                },
+                {
+                  "type": "internal",
+                  "page": "Group of 77"
+                }
+              ]
+            },
+            {
+              "text": "In November 2011, Arguello was designated as Ambassador of Argentina to the United States, and his credentials were formally accepted on 1 December.",
+              "links": [
+                {
+                  "text": "Ambassador of Argentina to the United States",
+                  "type": "internal",
+                  "page": "Argentina-United States relations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2013, was designated as Ambassador of Argentina to Portugal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Portugal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Barack_Obama_y_Jorge_Argüello.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Barack_Obama_y_Jorge_Arg%C3%BCello.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Barack_Obama_y_Jorge_Arg%C3%BCello.jpg",
+          "caption": "Argüello with U.S President Barack Obama.",
+          "links": []
+        },
+        {
+          "file": "File:Secretary_Pompeo_Meets_with_Argentine_Ambassador_to_the_United_States_Argüello_(49580291358).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_with_Argentine_Ambassador_to_the_United_States_Arg%C3%BCello_(49580291358).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_with_Argentine_Ambassador_to_the_United_States_Arg%C3%BCello_(49580291358).jpg",
+          "caption": "Argüello with U.S Secretary of State Mike Pompeo.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.allgov.com/news/appointments-and-resignations/ambassador-from-argentina-who-is-jorge-arguello?news=844004",
+          "title": "Ambassador from Argentina: Who Is Jorge Argüello?",
+          "publisher": "AllGov",
+          "date": "9 February 2012",
+          "accessdate": "20 December 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "format": "PDF",
+          "author": "Araujo, María Fernanda",
+          "url": "http://www.saap.org.ar/esp/docs-congresos/congresos-saap/VI/areas/06/araujo-oliveros.pdf",
+          "title": "La Legislatura de la Ciudad Autónoma de Buenos Aires. Un estudio sobre las relaciones Ejecutivo-Legislativo en el nuevo marco institucional (1997-2000)",
+          "publisher": "Facultad de Ciencias Sociales. Universidad de Buenos Aires",
+          "access-date": "2011-12-13",
+          "archive-url": "https://web.archive.org/web/20120426050930/http://www.saap.org.ar/esp/docs-congresos/congresos-saap/VI/areas/06/araujo-oliveros.pdf",
+          "archive-date": "2012-04-26",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "url": "http://www.lanacion.com.ar/898904-arguello-sera-el-nuevo-embajador-argentino-ante-la-onu",
+          "title": "Argüello será el nuevo embajador argentino ante la ONU",
+          "work": "La Nación",
+          "date": "2 April 2007",
+          "accessdate": "3 July 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://en.mercopress.com/2011/12/02/washington-approves-jorge-arg-ello-as-argentina-s-next-ambassador",
+          "title": "Washington approves Jorge Argüello as Argentina’s next ambassador",
+          "work": "MercoPress",
+          "date": "2 December 2011",
+          "accessdate": "3 July 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "format": "PDF",
+          "title": "Jorge Martín Arturo Argüello",
+          "url": "http://sharepoint.unibo.edu.ar/mailing/docmailing/Curriculum%20Emb.%20Arguello%20espanol.pdf",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20120426050921/http://sharepoint.unibo.edu.ar/mailing/docmailing/Curriculum%20Emb.%20Arguello%20espanol.pdf",
+          "archivedate": "2012-04-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.un.org/News/Press/docs/2008/bio4026.doc.htm",
+          "title": "Jorge Argüello of Argentina, Chairman of the Fourth Committee",
+          "publisher": "United Nations",
+          "date": "16 September 2008",
+          "accessdate": "13 December 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "International work",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "• Inter-Parliamentary Union (IPU): Vice-President of the First Standing Committee on Peace and International Security Inter-Parliamentary Union (2006-2007)"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Member of the Commission negotiating the External Debt of the Autonomous City of Buenos Aires (London, 2003)"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Organizer of the first visit after the British Parliamentary conflict Falkland Islands (1994)"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• President of \"Parliamentarians for Global Action\" on behalf of the Latin American countries(1994–95)"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Chairman of the Twinning Buenos Aires - Tel Aviv (Sister Cities, 1989)"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Honors and awards received various international"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Academic work",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "• Georgetown University (USA): Member of the Class Advisory Board School of Foreign Service.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Georgetown University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• University of Belgrano (Argentina).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Belgrano"
+                }
+              ]
+            },
+            {
+              "text": "Member of the Academic Council of the School of Government."
+            },
+            {
+              "text": "Professor of the Chair of the Parliamentary Operation School of Public Officers."
+            },
+            {
+              "text": "Professor of the Chair of Technical Trading Course in Political Science from the Faculty of Law and Social Sciences."
+            },
+            {
+              "text": "1998 - 2003."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Author of several opinion articles published in national and international media, author, co-author and compiler of books on political participation and citizenship."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Falkland Islands (Islas Malvinas) sovereignty dispute",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Argüello has dictated conferences to advance Argentine claims in the Falkland Islands sovereignty dispute on several universities.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Falkland Islands"
+                },
+                {
+                  "text": "sovereignty dispute",
+                  "type": "internal",
+                  "page": "Falkland Islands sovereignty dispute"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Universita di Bologna, Facolta di Scienze, Bologna, Italy",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Universita di Bologna"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Chinese Academy of Social Sciences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chinese Academy of Social Sciences"
+                }
+              ]
+            },
+            {
+              "text": "Beijing, China."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Foundation for International Studies of China, Beijing, China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foundation for International Studies of China"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Universita Dell'Insubria, Varese, Italy;",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Universita Dell'Insubria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• National Autonomous University of Mexico (USE), Mexico;",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Autonomous University of Mexico"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Cape Town University, Cape Town, South Africa;",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cape Town University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Academic Centre ADEN Business School, Panama;"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Chulalongkorn University, Bangkok, Thailand• Jawalharial Nehru University (JNU), New Delhi, India",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chulalongkorn University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Institute of International Relations \"Raúl Roa García\", La Habana, Cuba:"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• Columbia University, New York, USA;",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Columbia University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• University of California, Los Angeles, USA;",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of California, Los Angeles"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• New School University, New York, USA;",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New School University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "• University of Chicago, Illinois, USA",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Chicago"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Embassy of Argentina in Portugal",
+            "links": [
+              {
+                "text": "Embassy of Argentina in Portugal",
+                "type": "external",
+                "site": "http://eport.mrecic.gob.ar"
+              }
+            ]
+          },
+          {
+            "text": "Embassy of Argentina in the United States",
+            "links": [
+              {
+                "text": "Embassy of Argentina in the United States",
+                "type": "external",
+                "site": "https://web.archive.org/web/20100803150248/http://www.embassyofargentina.us/en/home/news.htm"
+              }
+            ]
+          },
+          {
+            "text": "Permanent Mission of the Argentine Republic in the United Nations",
+            "links": [
+              {
+                "text": "Permanent Mission of the Argentine Republic in the United Nations",
+                "type": "external",
+                "site": "https://web.archive.org/web/20111122194604/http://www.un.int/argentina/"
+              }
+            ]
+          },
+          {
+            "text": "Observatorio Parlamentario-Cuestión Malvinas",
+            "links": [
+              {
+                "text": "Observatorio Parlamentario-Cuestión Malvinas",
+                "type": "external",
+                "site": "https://web.archive.org/web/20100527071831/http://www.cuestionmalvinas.com.ar/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

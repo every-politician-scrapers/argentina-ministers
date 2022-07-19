@@ -1,0 +1,504 @@
+{
+  "title": "Darío Martínez",
+  "pageID": 68490967,
+  "categories": [
+    "Living people",
+    "1974 births",
+    "People from Río Negro Province",
+    "Members of the Argentine Chamber of Deputies elected in Neuquén",
+    "Justicialist Party politicians",
+    "21st-century Argentine politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Normán Darío Martínez (born 3 September 1974) is an Argentine politician, currently serving as Secretary of Energy in the Ministry of Economy, in the administration of minister Martín Guzmán.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentine"
+                },
+                {
+                  "text": "Ministry of Economy",
+                  "type": "internal",
+                  "page": "Ministry of Economy (Argentina)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Martín Guzmán"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Normán Darío Martínez"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Justicialist Party, Martínez previously served as a National Deputy representing Neuquén Province from 2016 to 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justicialist Party"
+                },
+                {
+                  "text": "National Deputy",
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Neuquén Province"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "image": "Sesión 13-06-2018 Diputado DARIO MARTINEZ 14.jpg",
+          "bsize": "700",
+          "cwidth": "230",
+          "cheight": "300",
+          "otop": "25",
+          "oleft": "150",
+          "location": "center",
+          "template": "css image crop"
+        },
+        {
+          "year": "1974",
+          "month": "9",
+          "day": "3",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Darío Martínez"
+          },
+          "office": {
+            "text": "Secretary of Energy",
+            "links": [
+              {
+                "text": "Secretary of Energy",
+                "type": "internal",
+                "page": "Ministry of Economy (Argentina)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 August 2020"
+          },
+          "president": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sergio Lanziani",
+            "links": [
+              {
+                "text": "Sergio Lanziani",
+                "type": "internal",
+                "page": ":es:Sergio Lanziani"
+              }
+            ]
+          },
+          "office1": {
+            "text": "National Deputy",
+            "links": [
+              {
+                "text": "National Deputy",
+                "type": "internal",
+                "page": "Argentine Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 March 2016"
+          },
+          "term_end1": {
+            "text": "28 August 2020"
+          },
+          "constituency1": {
+            "text": "Neuquén",
+            "links": [
+              {
+                "text": "Neuquén",
+                "type": "internal",
+                "page": "Neuquén Province"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 3, 1974"
+          },
+          "birth_place": {
+            "text": "Ingeniero Huergo, Argentina",
+            "links": [
+              {
+                "text": "Ingeniero Huergo",
+                "type": "internal",
+                "page": "Ingeniero Luis A. Huergo"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Front for Victory (2003–2017)\nUnidad Ciudadana (2017–2019)\nFrente de Todos (2019–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Front for Victory"
+              },
+              {
+                "type": "internal",
+                "page": "Unidad Ciudadana"
+              },
+              {
+                "type": "internal",
+                "page": "Frente de Todos"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martínez was born on 3 September 1974 in Ingeniero Luis A. Huergo, a small town in Northern Río Negro Province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ingeniero Luis A. Huergo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Río Negro Province"
+                }
+              ]
+            },
+            {
+              "text": "He studied public accounting at the National University of Comahue, but dropped out before finishing his degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National University of Comahue"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lanacion.com.ar/economia/dario-martinez-quien-es-diputado-cristinista-llega-nid2427494/",
+          "work": "La Nación",
+          "title": "Darío Martínez. Quién es el diputado cristinista que llega a la secretaría de Energía",
+          "last": "Lafuente",
+          "first": "Esteba",
+          "date": "21 August 2020",
+          "access-date": "16 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martínez was elected to the City Council of Neuquén in 2005, and served continuously until 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Neuquén"
+                }
+              ]
+            },
+            {
+              "text": "He unsuccessfully ran for the mayoralty of Neuquén in 2011, landing fourth with 7% of the vote."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2013 legislative election, Martínez ran for a seat in the Argentine Chamber of Deputies as the second candidate in the Front for Victory list, behind Nanci Parrilli.",
+              "links": [
+                {
+                  "text": "2013 legislative election",
+                  "type": "internal",
+                  "page": "2013 Argentine legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Argentine Chamber of Deputies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Front for Victory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nanci Parrilli"
+                }
+              ]
+            },
+            {
+              "text": "The list received 21.31% of the vote, not enough for Martínez to be elected."
+            },
+            {
+              "text": "Parrilli resigned in 2016, and Martínez assumed office in her stead."
+            },
+            {
+              "text": "He was re-elected in 2017, as the first candidate in the Unidad Ciudadana list, which landed third with 19.36%.",
+              "links": [
+                {
+                  "text": "2017",
+                  "type": "internal",
+                  "page": "2017 Argentine legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Unidad Ciudadana"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Martínez ran for re-election in the 2019 legislative election as the first candidate in the Frente de Todos list, which was the most voted, with 36.39% of the vote.",
+              "links": [
+                {
+                  "text": "2019 legislative election",
+                  "type": "internal",
+                  "page": "2019 Argentine general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Frente de Todos"
+                }
+              ]
+            },
+            {
+              "text": "As he was still a sitting deputy with mandate to 2021, upon taking office on 10 December 2019 he resigned from his 2017–2021 term, and Carlos Alberto Vivero took his seat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carlos Alberto Vivero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As a national deputy, Martínez was a supporter of the legalization of abortion in Argentina, voting in favour of the 2018 Voluntary Interruption of Pregnancy bill.",
+              "links": [
+                {
+                  "text": "legalization of abortion",
+                  "type": "internal",
+                  "page": "Abortion in Argentina"
+                },
+                {
+                  "text": "Voluntary Interruption of Pregnancy bill",
+                  "type": "internal",
+                  "page": "Voluntary Interruption of Pregnancy Bill (Argentina)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2020, Martínez was appointed Secretary of Energy in replacement of Sergio Lanziani."
+            },
+            {
+              "text": "Martínez's seat in the Chamber of Deputies was taken by Guillermo Carnaghi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guillermo Carnaghi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ambito.com/politica/martinez/quien-es-dario-el-nuevo-secretario-energia-n5126772",
+          "work": "Ámbito",
+          "title": "¿Quién es Darío Martínez, el nuevo secretario de Energía?",
+          "date": "21 August 2020",
+          "access-date": "16 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.parlamentario.com/2016/04/07/quien-es-dario-martinez-el-diputado-que-denuncio-a-macri-por-los-panama-papers/",
+          "work": "Parlamentario",
+          "title": "Quién es Darío Martínez, el diputado que denunció a Macri por los Panamá Papers",
+          "date": "7 April 2016",
+          "access-date": "16 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.clarin.com/politica/resultados-elecciones-2017-provincia-provincia_0_BJbEO996-.html",
+          "work": "Clarín",
+          "title": "Resultados de las elecciones 2017, provincia por provincia",
+          "date": "23 October 2017",
+          "access-date": "17 July 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.primerafuente.com.ar/noticias/72477/como-quedara-conformado-congreso-partir-10-diciembre",
+          "work": "Primera Fuente",
+          "title": "Cómo quedará conformado el Congreso a partir del 10 de diciembre",
+          "date": "30 October 2017",
+          "access-date": "3 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pagina12.com.ar/237442-juraron-los-nuevos-diputados",
+          "work": "Página/12",
+          "title": "Juraron los nuevos diputados",
+          "date": "19 December 2019",
+          "access-date": "16 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rionegro.com.ar/martinez-resalto-que-tener-una-ley-a-favor-del-aborto-es-una-decision-politica-NY5203681//",
+          "work": "Río Negro",
+          "title": "Martínez resaltó que tener una ley a favor del aborto es una decisión política",
+          "date": "14 June 2018",
+          "access-date": "16 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.parlamentario.com/2020/08/21/dario-martinez-sera-el-nuevo-secretario-de-energia/",
+          "work": "Parlamentario",
+          "title": "Darío Martínez será el nuevo secretario de Energía",
+          "date": "21 August 2020",
+          "access-date": "16 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.parlamentario.com/2020/09/24/juro-el-reemplazante-de-dario-martinez/",
+          "work": "Parlamentario",
+          "title": "Juró el reemplazante de Darío Martínez",
+          "date": "24 September 2020",
+          "access-date": "16 August 2021",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "dariomartinezpj",
+          "template": "twitter"
+        },
+        {
+          "template": "argentine deputies, 2015–2017"
+        },
+        {
+          "template": "argentine deputies, 2017–2019"
+        },
+        {
+          "template": "argentine deputies, 2019–2021"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of the Secretariat of Energy (in Spanish)",
+            "links": [
+              {
+                "text": "Official website of the Secretariat of Energy",
+                "type": "external",
+                "site": "https://www.argentina.gob.ar/economia/energia"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "title": "Domingo Peppo",
+  "pageID": 49335230,
+  "categories": [
+    "Governors of Chaco Province",
+    "Justicialist Party politicians",
+    "People from Santo Tomé, Corrientes",
+    "1958 births",
+    "Living people",
+    "National University of the Northeast alumni",
+    "Mayors of places in Argentina",
+    "Ambassadors of Argentina to Paraguay",
+    "21st-century Argentine politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Oscar Domingo Peppo (born 6 July 1958) is an Argentine politician.",
+              "links": [
+                {
+                  "text": "Argentine",
+                  "type": "internal",
+                  "page": "Argentina"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Oscar Domingo Peppo"
+                ]
+              }
+            },
+            {
+              "text": "He was elected governor of the Chaco Province in 2015 (with 55.42% of the vote).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chaco Province"
+                }
+              ]
+            },
+            {
+              "text": "In the early 1980s, he received a degree in construction, hydraulic and civil engineering in Resistencia and later worked as technical representative and general coordinator of the silo plants for a company.",
+              "links": [
+                {
+                  "text": "civil engineering",
+                  "type": "internal",
+                  "page": "civil engineering"
+                },
+                {
+                  "text": "Resistencia",
+                  "type": "internal",
+                  "page": "Resistencia, Chaco"
+                }
+              ]
+            },
+            {
+              "text": "He also previously served as mayor of Villa Ángela.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Villa Ángela"
+                }
+              ]
+            },
+            {
+              "text": "On 2020-01-29 he was appointed Argentinian ambassador to Paraguay.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentinian ambassador to Paraguay"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1958",
+          "month": "7",
+          "day": "6",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Domingo Peppo"
+          },
+          "image": {
+            "text": "Domingo Peppo.jpg"
+          },
+          "office": {
+            "text": "Argentine Ambassador to Paraguay",
+            "links": [
+              {
+                "text": "Argentine Ambassador to Paraguay",
+                "type": "internal",
+                "page": "List of ambassadors of Argentina to Paraguay"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 January 2020"
+          },
+          "predecessor": {
+            "text": "Héctor Lostri"
+          },
+          "office1": {
+            "text": "Governor of Chaco",
+            "links": [
+              {
+                "text": "Governor of Chaco",
+                "type": "internal",
+                "page": "Governor of Chaco Province"
+              }
+            ]
+          },
+          "vicegovernor1": {
+            "text": "Daniel Capitanich"
+          },
+          "term_start1": {
+            "text": "10 December 2015"
+          },
+          "term_end1": {
+            "text": "10 December 2019"
+          },
+          "predecessor1": {
+            "text": "Jorge Capitanich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jorge Capitanich"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jorge Capitanich"
+          },
+          "office2": {
+            "text": "Mayor of Villa Ángela",
+            "links": [
+              {
+                "text": "Mayor of Villa Ángela",
+                "type": "internal",
+                "page": "Villa Ángela"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 December 2003"
+          },
+          "term_end2": {
+            "text": "10 December 2015"
+          },
+          "predecessor2": {
+            "text": "Carlos Lobera"
+          },
+          "successor2": {
+            "text": "Adalberto Papp"
+          },
+          "birth_date": {
+            "text": "July 6, 1958"
+          },
+          "birth_place": {
+            "text": "Santo Tomé, Corrientes Province, Argentina",
+            "links": [
+              {
+                "text": "Santo Tomé",
+                "type": "internal",
+                "page": "Santo Tomé, Corrientes"
+              },
+              {
+                "type": "internal",
+                "page": "Corrientes Province"
+              },
+              {
+                "type": "internal",
+                "page": "Argentina"
+              }
+            ]
+          },
+          "party": {
+            "text": "Justicialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justicialist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "National University of the Northeast",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National University of the Northeast"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.chaco.gov.ar/pagina/1656/domingo-peppo",
+          "language": "Spanish",
+          "title": "DOMINGO PEPPO",
+          "accessdate": "2 June 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "argentina-politician-stub"
+        }
+      ]
+    }
+  ]
+}

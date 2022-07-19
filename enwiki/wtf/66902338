@@ -1,0 +1,160 @@
+{
+  "title": "Julio Guardia",
+  "pageID": 66902338,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Place of birth missing (living people)",
+    "Argentine Navy admirals"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julio Horacio Guardia (born 14 December 1962) is an Argentine navy officer.",
+              "formatting": {
+                "bold": [
+                  "Julio Horacio Guardia"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Chief of the General Staff of the Argentine Navy.",
+              "links": [
+                {
+                  "text": "Chief of the General Staff",
+                  "type": "internal",
+                  "page": "List of Chiefs of the General Staff of the Argentine Navy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Argentine Navy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He graduated from the Naval Academy in 1985."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Argentine navy officer",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "12",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2020",
+            "2",
+            "28"
+          ],
+          "lc": "yes",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Julio Guardia"
+          },
+          "image": {
+            "text": "Julio Horacio Guardia.jpg"
+          },
+          "office": {
+            "text": "Chief of the General Staff of the Argentine Navy",
+            "links": [
+              {
+                "text": "Chief of the General Staff of the Argentine Navy",
+                "type": "internal",
+                "page": "List of Chiefs of the General Staff of the Argentine Navy"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 February 2020"
+          },
+          "birth_date": {
+            "text": "December 14, 1962"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Jefe del Estado Mayor General de la Armada",
+          "language": "es",
+          "work": "Ministerio de Defensa",
+          "url": "https://www.argentina.gob.ar/armada/autoridades/curriculum-del-jefe-de-estado-mayor-general-de-la-armada",
+          "url-status": "live",
+          "access-date": "25 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "20 February 2020",
+          "title": "El Gobierno designó la nueva conducción de las Fuerzas Armadas",
+          "language": "es",
+          "work": "LA NACION",
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-designo-nueva-conduccion-fuerzas-armadas-nid2335793",
+          "url-status": "live",
+          "access-date": "25 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "21 February 2020",
+          "title": "Decreto 179/2020",
+          "language": "es",
+          "work": "Boletín Oficial de la República Argentina",
+          "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/225854/20200222",
+          "url-status": "live",
+          "access-date": "25 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Bertoia",
+          "first": "Luciana",
+          "date": "22 February 2020",
+          "title": "Relatives keep up fight to uncover truth about ARA San Juan sinking",
+          "work": "Buenos Aires Times",
+          "url": "https://www.batimes.com.ar/news/argentina/relatives-keep-up-fight-to-uncover-truth-about-ara-san-juan-sinking.phtml",
+          "url-status": "live",
+          "access-date": "25 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "argentina-bio-stub"
+        }
+      ]
+    }
+  ]
+}
