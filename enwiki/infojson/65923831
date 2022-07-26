@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+        "Superintendency of Insurance (Argentina)"
+      ],
+      "stated_as": "Superintendent of Insurance"
+    },
+    "P580": "1995-12-09",
+    "P1365": {
+      "links": [
+        "Alberto Fernández"
+      ],
+      "stated_as": "Alberto Fernández"
+    },
+    "P582": "1998-02-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Daniel Di Nucci"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Superintendency of Insurance (Argentina)"
+      ],
+      "stated_as": "Superintendent of Insurance"
+    },
+    "P580": "2002-02-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rubén Domingo Poncio"
+    },
+    "P582": "2004-10-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Miguel Baelo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Sindicatura General de la Nación"
+      ],
+      "stated_as": "General Comptroller of the Nation"
+    },
+    "P580": "2004-10-08",
+    "P1365": {
+      "links": [
+        "Miguel Ángel Pesce"
+      ],
+      "stated_as": "Miguel Ángel Pesce"
+    },
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+        "Julio Vitobello"
+      ],
+      "stated_as": "Julio Vitobello"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "ANSES"
+      ],
+      "stated_as": "Executive Director of the National Social Security Administration"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+        "Sergio Massa"
+      ],
+      "stated_as": "Sergio Massa"
+    },
+    "P582": "2008-05-06",
+    "P1366": {
+      "links": [
+        "Amado Boudou"
+      ],
+      "stated_as": "Amado Boudou"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Administración Federal de Ingresos Públicos"
+      ],
+      "stated_as": "Federal Administrator of Public Income"
+    },
+    "P580": "2008-05-06",
+    "P1365": {
+      "links": [
+        "Carlos Rafael Fernández"
+      ],
+      "stated_as": "Carlos Rafael Fernández"
+    },
+    "P582": "2008-12-30",
+    "P1366": {
+      "links": [
+        ":es:Ricardo Echegaray"
+      ],
+      "stated_as": "Ricardo Echegaray"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Labour, Employment and Social Security (Argentina)"
+      ],
+      "stated_as": "Minister of Labour"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        ":es:Dante Sica"
+      ],
+      "stated_as": "Dante Sica (as Minister of Production and Labour)"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health of Tucumán"
+    },
+    "P580": "2003-12-10",
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+        "Pablo Yedlin"
+      ],
+      "stated_as": "Pablo Yedlin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tucumán"
+      ],
+      "stated_as": "Vice Governor of Tucumán"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Fernando Juri"
+    },
+    "P582": "2009-07-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sergio Mansilla"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Argentina)"
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2009-07-01",
+    "P1365": {
+      "links": [
+        "Graciela Ocaña"
+      ],
+      "stated_as": "Graciela Ocaña"
+    },
+    "P582": "2015-02-26",
+    "P1366": {
+      "links": [
+        "Daniel Gollán"
+      ],
+      "stated_as": "Daniel Gollán"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tucumán"
+      ],
+      "stated_as": "Vice Governor of Tucumán"
+    },
+    "P580": "2015-02-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Regino Amado"
+    },
+    "P582": "2015-10-29",
+    "P1366": {
+      "links": [
+        "Osvaldo Jaldo"
+      ],
+      "stated_as": "Osvaldo Jaldo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tucumán"
+      ],
+      "stated_as": "Governor of Tucumán"
+    },
+    "P580": "2015-10-29",
+    "P1365": {
+      "links": [
+        "José Alperovich"
+      ],
+      "stated_as": "José Alperovich"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2021-09-20",
+    "P1365": {
+      "links": [
+        "Santiago Cafiero"
+      ],
+      "stated_as": "Santiago Cafiero"
+    }
+  }
+]

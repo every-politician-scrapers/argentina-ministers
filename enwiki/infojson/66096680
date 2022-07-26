@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Salta"
+      ],
+      "stated_as": "Provincial Senator of Salta"
+    },
+    "P580": "2009-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Fernando Yarade"
+    },
+    "P582": "2013-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Gabriela Cerrano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Salta"
+      ],
+      "stated_as": "Mayor of Salta"
+    },
+    "P580": "2015-12-09",
+    "P1365": {
+      "links": [
+        ":es:Miguel Isa"
+      ],
+      "stated_as": "Miguel Isa"
+    },
+    "P582": "2019-12-09",
+    "P1366": {
+      "links": [
+        ":es:Bettina Romero"
+      ],
+      "stated_as": "Bettina Romero"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Salta Province"
+      ],
+      "stated_as": "Governor of Salta"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Juan Manuel Urtubey"
+      ],
+      "stated_as": "Juan Manuel Urtubey"
+    }
+  }
+]

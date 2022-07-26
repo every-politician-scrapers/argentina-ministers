@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and Worship"
+      ],
+      "stated_as": "Minister of Foreign Affairs and Worship"
+    },
+    "P580": "2005-12-01",
+    "P1365": {
+      "links": [
+        "Rafael Bielsa"
+      ],
+      "stated_as": "Rafael Bielsa"
+    },
+    "P582": "2010-06-18",
+    "P1366": {
+      "links": [
+        "Héctor Timerman"
+      ],
+      "stated_as": "Héctor Timerman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Buenos Aires City Legislature"
+      ],
+      "stated_as": "Legislator of the City of Buenos Aires"
+    },
+    "P580": "2013-12-10",
+    "P582": "2015-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Cristina Fernández de Kirchner"
+      ],
+      "stated_as": "Cristina Fernández de Kirchner"
+    },
+    "P582": "2021-08-09",
+    "P1366": {
+      "links": [
+        "Juliana Di Tullio"
+      ],
+      "stated_as": "Juliana Di Tullio"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defense (Argentina)"
+      ],
+      "stated_as": "Minister of Defense"
+    },
+    "P580": "2021-08-10",
+    "P1365": {
+      "links": [
+        "Agustín Rossi"
+      ],
+      "stated_as": "Agustín Rossi"
+    }
+  }
+]

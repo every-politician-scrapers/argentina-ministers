@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy (Argentina)"
+      ],
+      "stated_as": "Minister of Economy and Public Finances"
+    },
+    "P580": "2013-11-18",
+    "P1365": {
+      "links": [
+        "Hernán Lorenzino"
+      ],
+      "stated_as": "Hernán Lorenzino"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Alfonso Prat-Gay"
+      ],
+      "stated_as": "Alfonso Prat-Gay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2015-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of the Buenos Aires Province"
+      ],
+      "stated_as": "Governor of Buenos Aires"
+    },
+    "P580": "2019-12-11",
+    "P1365": {
+      "links": [
+        "María Eugenia Vidal"
+      ],
+      "stated_as": "María Eugenia Vidal"
+    }
+  }
+]

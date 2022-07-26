@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Avellaneda Partido"
+      ],
+      "stated_as": "Mayor of Avellaneda"
+    },
+    "P580": "2009-08-03",
+    "P1365": {
+      "links": [
+        ":es:Baldomero Álvarez de Olivera"
+      ],
+      "stated_as": "Baldomero Álvarez de Olivera"
+    },
+    "P582": "2020-11-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Alejandro Chornobroff"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Territorial Development and Habitat"
+      ],
+      "stated_as": "Minister of Territorial Development and Habitat"
+    },
+    "P580": "2020-11-11",
+    "P1365": {
+      "links": [
+        "María Eugenia Bielsa"
+      ],
+      "stated_as": "María Eugenia Bielsa"
+    }
+  }
+]

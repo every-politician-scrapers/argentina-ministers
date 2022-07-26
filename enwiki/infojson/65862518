@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislature of Río Negro"
+      ],
+      "stated_as": "Provincial Legislator of Río Negro"
+    },
+    "P580": "2011-12-10",
+    "P582": "2017-09-20"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Tourism, Culture and Sports of Río Negro"
+    },
+    "P580": "2017-09-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Silvina Arrieta"
+    },
+    "P582": "2019-02-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Daniel Sanguinetti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Río Negro Province"
+      ],
+      "stated_as": "Governor of Río Negro"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Alberto Weretilneck"
+      ],
+      "stated_as": "Alberto Weretilneck"
+    }
+  }
+]

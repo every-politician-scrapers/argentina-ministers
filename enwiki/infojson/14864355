@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federal intervention",
+        "Santiago del Estero Province"
+      ],
+      "stated_as": "Federal Interventor of Santiago del Estero Province"
+    },
+    "P580": "1993-12-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Fernando Lobo (governor)"
+    },
+    "P582": "1995-07-06",
+    "P1366": {
+      "links": [
+        "Carlos Arturo Juárez"
+      ],
+      "stated_as": "Carlos Arturo Juárez (governor)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Córdoba"
+      ],
+      "stated_as": "Vice Governor of Córdoba"
+    },
+    "P580": "2003-07-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Germán Kammerath"
+    },
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+        "Héctor Campana"
+      ],
+      "stated_as": "Héctor Campana"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Córdoba"
+      ],
+      "stated_as": "Governor of Córdoba"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+        "José Manuel de la Sota"
+      ],
+      "stated_as": "José Manuel de la Sota"
+    },
+    "P582": "2011-12-09",
+    "P1366": {
+      "links": [
+        "José Manuel de la Sota"
+      ],
+      "stated_as": "José Manuel de la Sota"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Córdoba"
+      ],
+      "stated_as": "Governor of Córdoba"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "José Manuel de la Sota"
+      ],
+      "stated_as": "José Manuel de la Sota"
+    }
+  }
+]

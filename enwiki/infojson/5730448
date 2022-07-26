@@ -1,0 +1,93 @@
+[
+  {
+    "office": {
+      "links": [
+        "Santiago del Estero"
+      ],
+      "stated_as": "Mayor of Santiago del Estero"
+    },
+    "P580": "2001-12-10",
+    "P1365": {
+      "links": [
+        ":es:José Zavalía"
+      ],
+      "stated_as": "José Zavalía"
+    },
+    "P582": "2005-12-10",
+    "P1366": {
+      "links": [
+        ":es:Julio Alegre"
+      ],
+      "stated_as": "Julio Alegre"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Santiago del Estero"
+      ],
+      "stated_as": "Governor of Santiago del Estero"
+    },
+    "P580": "2005-03-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Pablo Lanusse"
+    },
+    "P582": "2013-12-10",
+    "P1366": {
+      "links": [
+        "Claudia Ledesma Abdala"
+      ],
+      "stated_as": "Claudia Ledesma Abdala"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2013-12-04",
+    "P582": "2017-11-29"
+  },
+  {
+    "office": {
+      "links": [
+        "List of provisional presidents of the Argentine Senate"
+      ],
+      "stated_as": "Provisional President of the Senate"
+    },
+    "P580": "2014-02-28",
+    "P1365": {
+      "links": [
+        "Beatriz Rojkés de Alperovich"
+      ],
+      "stated_as": "Beatriz Rojkés de Alperovich"
+    },
+    "P582": "2015-12-03",
+    "P1366": {
+      "links": [
+        "Federico Pinedo"
+      ],
+      "stated_as": "Federico Pinedo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Santiago del Estero"
+      ],
+      "stated_as": "Governor of Santiago del Estero"
+    },
+    "P580": "2017-12-10",
+    "P1365": {
+      "links": [
+        "Claudia Ledesma Abdala"
+      ],
+      "stated_as": "Claudia Ledesma Abdala"
+    }
+  }
+]

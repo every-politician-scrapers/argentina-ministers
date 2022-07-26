@@ -1,0 +1,59 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Government of Corrientes"
+    },
+    "P580": "2009-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Walter Insaurralde"
+    },
+    "P582": "2013-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Pedro Braillard Poccard"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2013-12-10",
+    "P582": "2017-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Council of Magistracy of the Nation"
+      ],
+      "stated_as": "Councillor of Magistracy"
+    },
+    "P580": "2014-11-18",
+    "P582": "2017-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Corrientes Province"
+      ],
+      "stated_as": "Governor of Corrientes"
+    },
+    "P580": "2017-12-10",
+    "P1365": {
+      "links": [
+        "Ricardo Colombi"
+      ],
+      "stated_as": "Ricardo Colombi"
+    }
+  }
+]

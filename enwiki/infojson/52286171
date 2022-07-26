@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Concordia, Entre Ríos"
+      ],
+      "stated_as": "Mayor of Concordia"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+        "Juan Carlos Cresto"
+      ],
+      "stated_as": "Juan Carlos Cresto"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Enrique Tomás Cresto"
+      ],
+      "stated_as": "Enrique Tomás Cresto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Entre Ríos Province"
+      ],
+      "stated_as": "Governor of Entre Ríos"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "Sergio Urribarri"
+      ],
+      "stated_as": "Sergio Urribarri"
+    }
+  }
+]

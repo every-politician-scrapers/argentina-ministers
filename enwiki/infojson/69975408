@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislature of Tierra del Fuego"
+      ],
+      "stated_as": "Provincial Legislator of Tierra del Fuego"
+    },
+    "P580": "2007-12-10",
+    "P582": "2011-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Legislature of Tierra del Fuego"
+      ],
+      "stated_as": "Provincial Legislator of Tierra del Fuego"
+    },
+    "P580": "2015-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tierra del Fuego"
+      ],
+      "stated_as": "Vice Governor of Tierra del Fuego"
+    },
+    "P580": "2019-12-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Juan Carlos Arcando"
+    }
+  }
+]

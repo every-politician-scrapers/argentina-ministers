@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Marcos Peña"
+      ],
+      "stated_as": "Marcos Peña"
+    },
+    "P582": "2021-09-20",
+    "P1366": {
+      "links": [
+        "Juan Manzur"
+      ],
+      "stated_as": "Juan Manzur"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and Worship"
+      ],
+      "stated_as": "Minister of Foreign Affairs and Worship"
+    },
+    "P580": "2021-09-20",
+    "P1365": {
+      "links": [
+        "Felipe Solá"
+      ],
+      "stated_as": "Felipe Solá"
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Catamarca Province"
+      ],
+      "stated_as": "Provincial Legislator of Catamarca"
+    },
+    "P580": "2005-12-10",
+    "P582": "2009-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "San Fernando del Valle de Catamarca"
+      ],
+      "stated_as": "Mayor of Catamarca"
+    },
+    "P580": "2011-12-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ricardo Guzmán"
+    },
+    "P582": "2019-12-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Gustavo Saadi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Catamarca Province"
+      ],
+      "stated_as": "Governor of Catamarca"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Lucía Corpacci"
+      ],
+      "stated_as": "Lucía Corpacci"
+    }
+  }
+]

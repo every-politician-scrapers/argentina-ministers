@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Argentina)"
+      ],
+      "stated_as": "Secretary of Education"
+    },
+    "P580": "2011-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "María Inés Abrile de Vollmer"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Elena Mariana Duro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Argentina)"
+      ],
+      "stated_as": "Secretary of University Policies"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Pablo Domenichini"
+    },
+    "P582": "2021-09-20"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Argentina)"
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2021-09-20",
+    "P1365": {
+      "links": [
+        "Nicolás Trotta"
+      ],
+      "stated_as": "Nicolás Trotta"
+    }
+  }
+]

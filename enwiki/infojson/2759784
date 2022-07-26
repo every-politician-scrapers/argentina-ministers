@@ -1,0 +1,137 @@
+[
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2001-12-10",
+    "P582": "2007-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy (Argentina)"
+      ],
+      "stated_as": "Minister of Economy, Social Development, Labour and Health"
+    },
+    "P580": "2001-12-21",
+    "P1365": {
+      "links": [
+        "Domingo Cavallo"
+      ],
+      "stated_as": "Domingo Cavallo (as Minister of Economy)"
+    },
+    "P582": "2007-12-23",
+    "P1366": {
+      "links": [
+        "Rodolfo Frigeri"
+      ],
+      "stated_as": "Rodolfo Frigeri (as Secretary of the Treasury)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2002-01-02",
+    "P1365": {
+      "links": [
+        "Antonio Cafiero"
+      ],
+      "stated_as": "Antonio Cafiero"
+    },
+    "P582": "2002-05-03",
+    "P1366": {
+      "links": [
+        "Alfredo Atanasof"
+      ],
+      "stated_as": "Alfredo Atanasof"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Chaco"
+      ],
+      "stated_as": "Governor of Chaco"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+        "Roy Nikisch"
+      ],
+      "stated_as": "Roy Nikisch"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Domingo Peppo"
+      ],
+      "stated_as": "Domingo Peppo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2013-11-20",
+    "P1365": {
+      "links": [
+        "Juan Manuel Abal Medina, Jr."
+      ],
+      "stated_as": "Juan Manuel Abal Medina"
+    },
+    "P582": "2015-02-26",
+    "P1366": {
+      "links": [
+        "Aníbal Fernández"
+      ],
+      "stated_as": "Aníbal Fernández"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Resistencia, Chaco"
+      ],
+      "stated_as": "Mayor of Resistencia"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "Aída Ayala"
+      ],
+      "stated_as": "Aída Ayala"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Gustavo Martínez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Chaco"
+      ],
+      "stated_as": "Governor of Chaco"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Domingo Peppo"
+      ],
+      "stated_as": "Domingo Peppo"
+    }
+  }
+]

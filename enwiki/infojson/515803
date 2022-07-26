@@ -1,0 +1,101 @@
+[
+  {
+    "office": {
+      "links": [
+        "Superintendency of Insurance (Argentina)"
+      ],
+      "stated_as": "Superintendent of Insurance"
+    },
+    "P580": "1989-08-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Diego Peluffo"
+    },
+    "P582": "1995-12-08",
+    "P1366": {
+      "links": [
+        "Claudio Moroni"
+      ],
+      "stated_as": "Claudio Moroni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Buenos Aires City Legislature"
+      ],
+      "stated_as": "Legislator of Buenos Aires City"
+    },
+    "P580": "2000-08-07",
+    "P582": "2003-05-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2003-05-25",
+    "P1365": {
+      "links": [
+        "Alfredo Atanasof"
+      ],
+      "stated_as": "Alfredo Atanasof"
+    },
+    "P582": "2008-07-23",
+    "P1366": {
+      "links": [
+        "Sergio Massa"
+      ],
+      "stated_as": "Sergio Massa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Argentina"
+      ],
+      "stated_as": "President of Argentina"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Mauricio Macri"
+      ],
+      "stated_as": "Mauricio Macri"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Justicialist Party"
+      ],
+      "stated_as": "President of the Justicialist Party"
+    },
+    "P580": "2021-03-21",
+    "P1365": {
+      "links": [
+        "José Luis Gioja"
+      ],
+      "stated_as": "José Luis Gioja"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President pro tempore of the Community of Latin American and Caribbean States"
+      ],
+      "stated_as": "President pro tempore of CELAC"
+    },
+    "P580": "2022-01-07",
+    "P1365": {
+      "links": [
+        "Andrés Manuel López Obrador"
+      ],
+      "stated_as": "Andrés Manuel López Obrador"
+    }
+  }
+]

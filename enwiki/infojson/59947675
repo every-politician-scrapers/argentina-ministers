@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "Buenos Aires City Legislature"
+      ],
+      "stated_as": "Legislator of the City of Buenos Aires"
+    },
+    "P580": "2007-12-10",
+    "P582": "2013-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2013-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of the Environment and Sustainable Development (Argentina)"
+      ],
+      "stated_as": "Minister of the Environment"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Sergio Bergman"
+      ],
+      "stated_as": "Sergio Bergman (as Secretary of the Environment)"
+    }
+  }
+]

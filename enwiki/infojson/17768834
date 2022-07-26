@@ -1,0 +1,31 @@
+[
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2001-12",
+    "P582": "2015-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Radical Civic Union"
+      ],
+      "stated_as": "President of the National Committee of the Radical Civic Union"
+    },
+    "P580": "2006-12-01",
+    "P582": "2009-12-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Jujuy Province"
+      ],
+      "stated_as": "Governor of Jujuy"
+    },
+    "P580": "2015-12-10"
+  }
+]

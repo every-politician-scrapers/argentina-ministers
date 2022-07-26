@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Chubut"
+      ],
+      "stated_as": "Vice Governor of Chubut"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gustavo Mac Karthy"
+    },
+    "P582": "2017-11-01",
+    "P1366": {
+      "links": [
+        ":es:Ricardo Sastre"
+      ],
+      "stated_as": "Ricardo Sastre"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Chubut"
+      ],
+      "stated_as": "Governor of Chubut"
+    },
+    "P580": "2017-11-01",
+    "P1365": {
+      "links": [
+        "Mario Das Neves"
+      ],
+      "stated_as": "Mario Das Neves"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Villa Ángela"
+      ],
+      "stated_as": "Mayor of Villa Ángela"
+    },
+    "P580": "2003-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carlos Lobera"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Adalberto Papp"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Chaco Province"
+      ],
+      "stated_as": "Governor of Chaco"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "Jorge Capitanich"
+      ],
+      "stated_as": "Jorge Capitanich"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jorge Capitanich"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of Argentina to Paraguay"
+      ],
+      "stated_as": "Argentine Ambassador to Paraguay"
+    },
+    "P580": "2020-01-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Héctor Lostri"
+    }
+  }
+]

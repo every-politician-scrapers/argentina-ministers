@@ -1,59 +1,59 @@
-pageid,title
-515803,Alberto Fernández
-1644780,Cristina Fernández de Kirchner
-2759784,Jorge Capitanich
-3923497,Daniel Scioli
-5730448,Gerardo Zamora
-5828020,Alberto Rodríguez Saá
-5931002,Daniel Filmus
-5931259,Aníbal Fernández
-5931455,Jorge Taiana
-6163007,Gildo Insfrán
-6658265,Alicia Kirchner
-14864355,Juan Schiaretti
-17768834,Gerardo Morales (politician)
-21489621,Sergio Massa
-21536085,Tristán Bauer
-23453002,Juan Luis Manzur
-24533305,Julián Domínguez
-34048720,Jorge Argüello
-40792229,Axel Kicillof
-46627106,Horacio Rodríguez Larreta
-49335230,Domingo Peppo
-52286171,Gustavo Bordet
-53360835,Omar Gutiérrez
-53370181,Sergio Uñac
-59947675,Juan Cabandié
-61282894,Gustavo Melella
-62719496,Santiago Cafiero
-62742225,Eduardo de Pedro
-63783266,Elizabeth Gómez Alcorta
-63830020,Gabriel Katopodis
-63884059,Fabiola Yáñez
-63929782,Matías Lammens
-65192977,Juan Martín Paleo
-65826100,Jorge Ferraresi
-65862518,Arabela Carreras
-65885241,Omar Perotti
-65921974,Julio Vitobello
-65923831,Claudio Moroni
-66044601,Raúl Jalil
-66095408,Mariano Arcioni
-66096680,Gustavo Sáenz
-66160386,Verónica Magario
-66163197,Sergio Ziliotto
-66168491,Gustavo Valdés
-66170933,Rodolfo Suárez
-66262440,Ricardo Quintela
-66269465,Oscar Herrera Ahuad
-66329368,Carla Vizzotti
-66902338,Julio Guardia
-67179675,Martín Soria
-67576628,Alexis Guerrera
-68448165,Juan Zabaleta
-68490967,Darío Martínez
-68776066,Jaime Perczyk
-69926947,Xavier Isaac
-69975408,Mónica Urquiza
-69978328,Guillermo Carmona
-71219760,Silvina Batakis
+pageid,title,wikidata,label
+515803,Alberto Fernández,Q2642828,Alberto Fernández
+1644780,Cristina Fernández de Kirchner,Q40649,Cristina Fernández de Kirchner
+2759784,Jorge Capitanich,Q4837917,Jorge Capitanich
+3923497,Daniel Scioli,Q1162679,Daniel Scioli
+5730448,Gerardo Zamora,Q4838698,Gerardo Zamora
+5828020,Alberto Rodríguez Saá,Q4712180,Alberto Rodríguez Saá
+5931002,Daniel Filmus,Q5217139,Daniel Filmus
+5931259,Aníbal Fernández,Q2857937,Aníbal Fernández
+5931455,Jorge Taiana,Q721561,Jorge Taiana
+6163007,Gildo Insfrán,Q1524240,Gildo Insfrán
+6658265,Alicia Kirchner,Q440580,Alicia Kirchner
+14864355,Juan Schiaretti,Q1710644,Juan Schiaretti
+17768834,Gerardo Morales (politician),Q5483783,Gerardo Morales
+21489621,Sergio Massa,Q3479675,Sergio Massa
+21536085,Tristán Bauer,Q2454290,Tristán Bauer
+23453002,Juan Luis Manzur,Q6300262,Juan Manzur
+24533305,Julián Domínguez,Q5474594,Julián Domínguez
+34048720,Jorge Argüello,Q6277681,Jorge Argüello
+40792229,Axel Kicillof,Q3754443,Axel Kicillof
+46627106,Horacio Rodríguez Larreta,Q2843714,Horacio Rodríguez Larreta
+49335230,Domingo Peppo,Q20969964,Domingo Peppo
+52286171,Gustavo Bordet,Q21105472,Gustavo Bordet
+53360835,Omar Gutiérrez,Q20016443,Omar Gutiérrez
+53370181,Sergio Uñac,Q20735856,Sergio Uñac
+59947675,Juan Cabandié,Q5948039,Juan Cabandié
+61282894,Gustavo Melella,Q64686950,Gustavo Melella
+62719496,Santiago Cafiero,Q68869954,Santiago Cafiero
+62742225,Eduardo de Pedro,Q12164058,Eduardo de Pedro
+63783266,Elizabeth Gómez Alcorta,Q77432169,Elizabeth Gómez Alcorta
+63830020,Gabriel Katopodis,Q2844048,Gabriel Katopodis
+63884059,Fabiola Yáñez,Q72756276,Fabiola Yáñez
+63929782,Matías Lammens,Q6006648,Matías Lammens
+65192977,Juan Martín Paleo,Q86466895,Juan Martín Paleo
+65826100,Jorge Ferraresi,Q5935055,Jorge Ferraresi
+65862518,Arabela Carreras,Q63119899,Arabela Carreras
+65885241,Omar Perotti,Q20015616,Omar Perotti
+65921974,Julio Vitobello,Q77435999,Julio Vitobello
+65923831,Claudio Moroni,Q70873898,Claudio Moroni
+66044601,Raúl Jalil,Q19760254,Raúl Jalil
+66095408,Mariano Arcioni,Q42451221,Mariano Arcioni
+66096680,Gustavo Sáenz,Q21002940,Gustavo Sáenz
+66160386,Verónica Magario,Q21480801,Verónica Magario
+66163197,Sergio Ziliotto,Q21856301,Sergio Raúl Ziliotto
+66168491,Gustavo Valdés,Q21856293,Gustavo Adolfo Valdés
+66170933,Rodolfo Suárez,Q29121872,Rodolfo Suárez
+66262440,Ricardo Quintela,Q72707787,Ricardo Quintela
+66269465,Oscar Herrera Ahuad,Q21279728,Oscar Herrera Ahuad
+66329368,Carla Vizzotti,Q93147520,Carla Vizzotti
+66902338,Julio Guardia,Q86449413,Julio Horacio Guardia
+67179675,Martín Soria,Q105969717,Martín Soria
+67576628,Alexis Guerrera,Q106674728,Alexis Guerrera
+68448165,Juan Zabaleta,Q17635667,Juan Zabaleta
+68490967,Darío Martínez,Q41555918,Norman Dario Martinez
+68776066,Jaime Perczyk,Q108578670,Jaime Perczyk
+69926947,Xavier Isaac,Q86458161,Xavier Isaac
+69975408,Mónica Urquiza,Q110799631,Mónica Urquiza
+69978328,Guillermo Carmona,Q21856065,Guillermo Ramón Carmona
+71219760,Silvina Batakis,Q21480472,Silvina Batakis

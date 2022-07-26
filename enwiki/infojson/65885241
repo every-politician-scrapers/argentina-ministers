@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "Rafaela"
+      ],
+      "stated_as": "Mayor of Rafaela"
+    },
+    "P580": "1991-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jorge Fernández"
+    },
+    "P582": "1995-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ricardo M. Peirone"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Rafaela"
+      ],
+      "stated_as": "Mayor of Rafaela"
+    },
+    "P580": "2003-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ricardo M. Pairone"
+    },
+    "P582": "2011-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Luis Castellano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2011-12-10",
+    "P582": "2015-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2015-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Santa Fe Province"
+      ],
+      "stated_as": "Governor of Santa Fe"
+    },
+    "P580": "2019-12-11",
+    "P1365": {
+      "links": [
+        "Miguel Lifschitz"
+      ],
+      "stated_as": "Miguel Lifschitz"
+    }
+  }
+]

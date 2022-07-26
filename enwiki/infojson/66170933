@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mendoza, Argentina"
+      ],
+      "stated_as": "Mayor of Mendoza"
+    },
+    "P580": "2014-08-07",
+    "P1365": {
+      "links": [
+        "Víctor Fayad"
+      ],
+      "stated_as": "Víctor Fayad"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        "Ulpiano Suárez"
+      ],
+      "stated_as": "Ulpiano Suárez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Mendoza Province"
+      ],
+      "stated_as": "Governor of Mendoza"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Alfredo Cornejo (politician)"
+      ],
+      "stated_as": "Alfredo Cornejo"
+    }
+  }
+]

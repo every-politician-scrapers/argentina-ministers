@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Pocito Department"
+      ],
+      "stated_as": "Mayor of Pocito"
+    },
+    "P580": "2003-12-10",
+    "P582": "2011-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of San Juan Province"
+      ],
+      "stated_as": "Vice Governor of San Juan"
+    },
+    "P580": "2011-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rubén Uñac"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        ":es:Marcelo Lima"
+      ],
+      "stated_as": "Marcelo Lima"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of San Juan Province"
+      ],
+      "stated_as": "Governor of San Juan"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "José Luis Gioja"
+      ],
+      "stated_as": "José Luis Gioja"
+    }
+  }
+]

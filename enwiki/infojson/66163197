@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Social Welfare of La Pampa"
+    },
+    "P580": "2006-05-31",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo Mauricio Gazia"
+    },
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Gustavo Fernández Mandía"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2015-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of La Pampa Province"
+      ],
+      "stated_as": "Governor of La Pampa"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Carlos Verna"
+      ],
+      "stated_as": "Carlos Verna"
+    }
+  }
+]
