@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Hurlingham Partido"
+      ],
+      "stated_as": "Mayor of Hurlingham"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        ":es:Luis Emilio Acuña"
+      ],
+      "stated_as": "Luis Emilio Acuña"
+    },
+    "P582": "2021-08-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Damián Selci"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Development (Argentina)"
+      ],
+      "stated_as": "Minister of Social Development"
+    },
+    "P580": "2021-08-10",
+    "P1365": {
+      "links": [
+        "Daniel Arroyo"
+      ],
+      "stated_as": "Daniel Arroyo"
+    }
+  }
+]

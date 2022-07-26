@@ -1,0 +1,69 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislature of La Rioja"
+      ],
+      "stated_as": "Provincial Legislator of La Rioja"
+    },
+    "P580": "1993-12-10",
+    "P582": "1997-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "1997-12-10",
+    "P582": "2003-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "La Rioja, Argentina"
+      ],
+      "stated_as": "Mayor of La Rioja"
+    },
+    "P580": "2003-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Luis Agost Carreño"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Alberto Paredes Urquiza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislature of La Rioja"
+      ],
+      "stated_as": "Provincial Legislator of La Rioja"
+    },
+    "P580": "2017-12-10",
+    "P582": "2019-11-24"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of La Rioja Province"
+      ],
+      "stated_as": "Governor of La Rioja"
+    },
+    "P580": "2019-12-11",
+    "P1365": {
+      "links": [
+        "Sergio Casas"
+      ],
+      "stated_as": "Sergio Casas"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Río Grande, Tierra del Fuego"
+      ],
+      "stated_as": "Mayor of Río Grande"
+    },
+    "P580": "2011-12-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jorge Martín"
+    },
+    "P582": "2019-12-17",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Martín Pérez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tierra del Fuego, Antarctica and Southern Atlantic Islands"
+      ],
+      "stated_as": "Governor of Tierra del Fuego, Antarctica and Southern Atlantic Islands"
+    },
+    "P580": "2019-12-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Juan Carlos Arcando"
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2013-12-10",
+    "P582": "2015-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "La Matanza Partido"
+      ],
+      "stated_as": "Mayor of La Matanza"
+    },
+    "P580": "2015-12-12",
+    "P1365": {
+      "links": [
+        "Fernando Espinoza (politician)"
+      ],
+      "stated_as": "Fernando Espinoza"
+    },
+    "P582": "2019-12-11",
+    "P1366": {
+      "links": [
+        "Fernando Espinoza (politician)"
+      ],
+      "stated_as": "Fernando Espinoza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Buenos Aires Province"
+      ],
+      "stated_as": "Vice Governor of Buenos Aires"
+    },
+    "P580": "2019-12-11",
+    "P1365": {
+      "links": [
+        ":es:Daniel Salvador"
+      ],
+      "stated_as": "Daniel Salvador"
+    }
+  }
+]

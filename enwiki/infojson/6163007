@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Formosa Province"
+      ],
+      "stated_as": "Vice Governor of Formosa"
+    },
+    "P580": "1987-12-10",
+    "P1365": {
+      "links": [
+        "Lisbel Rivira"
+      ],
+      "stated_as": "Lisbel Rivira"
+    },
+    "P582": "1995-12-10",
+    "P1366": {
+      "links": [
+        "Floro Bogado"
+      ],
+      "stated_as": "Floro Bogado"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Formosa Province"
+      ],
+      "stated_as": "Governor of Formosa"
+    },
+    "P580": "1995-12-10",
+    "P1365": {
+      "links": [
+        "Vicente Joga"
+      ],
+      "stated_as": "Vicente Joga"
+    }
+  }
+]

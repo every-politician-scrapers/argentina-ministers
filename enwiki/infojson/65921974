@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sindicatura General de la Nación"
+      ],
+      "stated_as": "General Comptroller of the Nation"
+    },
+    "P580": "2007-12-28",
+    "P1365": {
+      "links": [
+        "Claudio Moroni"
+      ],
+      "stated_as": "Claudio Moroni"
+    },
+    "P582": "2009-01-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carlos Pacios"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Anti-Corruption Bureau (Argentina)"
+      ],
+      "stated_as": "Secretary of Public Ethics, Transparency and the Fight against Corruption"
+    },
+    "P580": "2009-01-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Abel Fleitas Ortiz de Rozas"
+    },
+    "P582": "2015-12-29",
+    "P1366": {
+      "links": [
+        "Laura Alonso (politician)"
+      ],
+      "stated_as": "Laura Alonso"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "General Secretariat of the Presidency (Argentina)"
+      ],
+      "stated_as": "General Secretary of the Presidency"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Fernando de Andreis"
+      ],
+      "stated_as": "Fernando de Andreis"
+    }
+  }
+]

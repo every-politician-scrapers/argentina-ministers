@@ -1,0 +1,79 @@
+[
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2011-12-10",
+    "P582": "2015-02-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Council of Magistracy of the Nation"
+      ],
+      "stated_as": "Councillor of Magistracy"
+    },
+    "P580": "2014-02-04",
+    "P582": "2015-02-26"
+  },
+  {
+    "office": {
+      "links": [
+        "General Secretariat of the Presidency (Argentina)"
+      ],
+      "stated_as": "General Secretary of the Presidency"
+    },
+    "P580": "2015-02-26",
+    "P1365": {
+      "links": [
+        "Aníbal Fernández"
+      ],
+      "stated_as": "Aníbal Fernández"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Fernando de Andreis"
+      ],
+      "stated_as": "Fernando de Andreis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2015-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Council of Magistracy of the Nation"
+      ],
+      "stated_as": "Councillor of Magistracy"
+    },
+    "P580": "2018-11-21",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of the Interior (Argentina)"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Rogelio Frigerio"
+      ],
+      "stated_as": "Rogelio Frigerio"
+    }
+  }
+]

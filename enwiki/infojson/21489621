@@ -1,0 +1,124 @@
+[
+  {
+    "office": {
+      "links": [
+        "ANSES"
+      ],
+      "stated_as": "Executive Director of the National Social Security Administration"
+    },
+    "P580": "2002-01-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gustavo Macchi"
+    },
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+        "Claudio Moroni"
+      ],
+      "stated_as": "Claudio Moroni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Tigre Partido"
+      ],
+      "stated_as": "Mayor of Tigre"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hiram Gualdoni"
+    },
+    "P582": "2008-07-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Julio Zamora"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2008-07-23",
+    "P1365": {
+      "links": [
+        "Alberto Fernández"
+      ],
+      "stated_as": "Alberto Fernández"
+    },
+    "P582": "2009-07-07",
+    "P1366": {
+      "links": [
+        "Aníbal Fernández"
+      ],
+      "stated_as": "Aníbal Fernández"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Tigre Partido"
+      ],
+      "stated_as": "Mayor of Tigre"
+    },
+    "P580": "2009-07-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Julio Zamora"
+    },
+    "P582": "2013-11-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Julio Zamora"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2013-12-10",
+    "P582": "2017-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2019-12-04"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the Argentine Chamber of Deputies"
+      ],
+      "stated_as": "President of the Chamber of Deputies"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Emilio Monzó"
+      ],
+      "stated_as": "Emilio Monzó"
+    }
+  }
+]

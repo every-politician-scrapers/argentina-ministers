@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chacabuco, Buenos Aires"
+      ],
+      "stated_as": "Mayor of Chacabuco"
+    },
+    "P580": "1995-12-10",
+    "P582": "1999-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Buenos Aires Province Chamber of Deputies"
+      ],
+      "stated_as": "Provincial Deputy of Buenos Aires"
+    },
+    "P580": "2003-12-10",
+    "P582": "2009-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture (Argentina)"
+      ],
+      "stated_as": "Minister of Agriculture"
+    },
+    "P580": "2009-10-01",
+    "P582": "2011-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2011-12-05",
+    "P582": "2015-12-04"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the Argentine Chamber of Deputies"
+      ],
+      "stated_as": "President of the Chamber of Deputies"
+    },
+    "P580": "2011-12-06",
+    "P582": "2015-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture (Argentina)"
+      ],
+      "stated_as": "Minister of Agriculture"
+    },
+    "P580": "2021-09-20"
+  }
+]

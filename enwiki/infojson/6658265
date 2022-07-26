@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Development (Argentina)"
+      ],
+      "stated_as": "Minister of Social Development"
+    },
+    "P580": "2003-05-25",
+    "P1365": {
+      "links": [
+        "Daniel Sartor"
+      ],
+      "stated_as": "Daniel Sartor"
+    },
+    "P582": "2005-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Juan Carlos Nadalich"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2005-12-10",
+    "P582": "2006-08-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Development (Argentina)"
+      ],
+      "stated_as": "Minister of Social Development"
+    },
+    "P580": "2006-08-14",
+    "P1365": {
+      "links": [
+        "Juan Carlos Nadalich"
+      ],
+      "stated_as": "Juan Carlos Nadalich"
+    },
+    "P582": "2015-12-09",
+    "P1366": {
+      "links": [
+        "Carolina Stanley"
+      ],
+      "stated_as": "Carolina Stanley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Santa Cruz Province"
+      ],
+      "stated_as": "Governor of Santa Cruz"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "Daniel Peralta"
+      ],
+      "stated_as": "Daniel Peralta"
+    }
+  }
+]

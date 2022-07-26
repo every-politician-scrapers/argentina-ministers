@@ -1,0 +1,165 @@
+[
+  {
+    "office": {
+      "links": [
+        "Río Gallegos, Santa Cruz"
+      ],
+      "stated_as": "First Lady of Río Gallegos"
+    },
+    "P580": "1987-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sofía Vicic de Ceperníc"
+    },
+    "P582": "1991-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Eva María Henríquez de Martínez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Santa Cruz"
+      ],
+      "stated_as": "Provincial Deputy of Santa Cruz"
+    },
+    "P580": "1989-12-10",
+    "P582": "1995-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Santa Cruz Province, Argentina"
+      ],
+      "stated_as": "First Lady of Santa Cruz"
+    },
+    "P580": "1991-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Marta Arana de García"
+    },
+    "P582": "2003-05-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "María Gloria Ros de Icazuriaga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "1994 amendment of the Constitution of Argentina"
+      ],
+      "stated_as": "Member of the Constitutional Convention"
+    },
+    "P580": "1994-05-01",
+    "P582": "1994-08-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "1995-12-10",
+    "P582": "1997-12-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "1997-12-10",
+    "P582": "2001-12-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2001-12-10",
+    "P582": "2007-11-28"
+  },
+  {
+    "office": {
+      "links": [
+        "First Ladies and Gentlemen of Argentina"
+      ],
+      "stated_as": "First Lady of Argentina"
+    },
+    "P580": "2003-05-25",
+    "P1365": {
+      "links": [
+        "Hilda González de Duhalde"
+      ],
+      "stated_as": "Hilda González de Duhalde"
+    },
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+        "Néstor Kirchner"
+      ],
+      "stated_as": "Néstor Kirchner\n(First Gentleman)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Argentina"
+      ],
+      "stated_as": "President of Argentina"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+        "Néstor Kirchner"
+      ],
+      "stated_as": "Néstor Kirchner"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Mauricio Macri"
+      ],
+      "stated_as": "Mauricio Macri"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2017-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "List of vice presidents of Argentina"
+      ],
+      "stated_as": "Vice President of Argentina"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Gabriela Michetti"
+      ],
+      "stated_as": "Gabriela Michetti"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Misiones Province"
+      ],
+      "stated_as": "Vice Governor of Misiones"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hugo Passalacqua"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carlos Omar Arce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Misiones Province"
+      ],
+      "stated_as": "Governor of Misiones"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Hugo Passalacqua"
+      ],
+      "stated_as": "Hugo Passalacqua"
+    }
+  }
+]

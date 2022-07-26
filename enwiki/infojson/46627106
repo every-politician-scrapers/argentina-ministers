@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of mayors and chiefs of government of Buenos Aires"
+      ],
+      "stated_as": "Chief of Cabinet of Ministers of Buenos Aires"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Raúl Fernández"
+    },
+    "P582": "2015-12-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Felipe Miguel"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors and chiefs of government of Buenos Aires"
+      ],
+      "stated_as": "Chief of Government of Buenos Aires"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "Mauricio Macri"
+      ],
+      "stated_as": "Mauricio Macri"
+    }
+  }
+]

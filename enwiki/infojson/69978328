@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislature of Mendoza"
+      ],
+      "stated_as": "Provincial Deputy of Mendoza"
+    },
+    "P580": "2003-12-10",
+    "P582": "2007-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2011-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and Worship"
+      ],
+      "stated_as": "Secretary of Malvinas Affairs"
+    },
+    "P580": "2021-09-24",
+    "P1365": {
+      "links": [
+        "Daniel Filmus"
+      ],
+      "stated_as": "Daniel Filmus"
+    }
+  }
+]

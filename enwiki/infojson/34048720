@@ -1,0 +1,67 @@
+[
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "1991-12-10",
+    "P582": "1995-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Buenos Aires City Legislature"
+      ],
+      "stated_as": "Legislator of the City of Buenos Aires"
+    },
+    "P580": "1997-12-04",
+    "P582": "2003-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2003-12-10",
+    "P582": "2007-06-18"
+  },
+  {
+    "office": {
+      "links": [
+        "List of current Permanent Representatives to the United Nations"
+      ],
+      "stated_as": "Permanent Representative of Argentina to the United Nations"
+    },
+    "P580": "2007-06-18",
+    "P582": "2011-12-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentina-United States relations"
+      ],
+      "stated_as": "Argentine Ambassador to the United States"
+    },
+    "P580": "2011-12-01",
+    "P582": "2013-01-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentina-United States relations"
+      ],
+      "stated_as": "Argentine Ambassador to the United States"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        ":es:Fernando Oris de Roa"
+      ],
+      "stated_as": "Fernando Oris de Roa"
+    }
+  }
+]

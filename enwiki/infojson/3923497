@@ -1,0 +1,141 @@
+[
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "1997-12-10",
+    "P582": "2001-12-23"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Vice Presidents of Argentina"
+      ],
+      "stated_as": "Vice President of Argentina"
+    },
+    "P580": "2003-05-25",
+    "P1365": {
+      "links": [
+        "Carlos Álvarez (Argentine politician)"
+      ],
+      "stated_as": "Carlos Álvarez"
+    },
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+        "Julio Cobos"
+      ],
+      "stated_as": "Julio Cobos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Buenos Aires Province"
+      ],
+      "stated_as": "Governor of Buenos Aires"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+        "Felipe Solá"
+      ],
+      "stated_as": "Felipe Solá"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "María Eugenia Vidal"
+      ],
+      "stated_as": "María Eugenia Vidal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Justicialist Party"
+      ],
+      "stated_as": "President of the Justicialist Party"
+    },
+    "P580": "2009-06-29",
+    "P1365": {
+      "links": [
+        "Néstor Kirchner"
+      ],
+      "stated_as": "Néstor Kirchner"
+    },
+    "P582": "2009-11-11",
+    "P1366": {
+      "links": [
+        "Néstor Kirchner"
+      ],
+      "stated_as": "Néstor Kirchner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Justicialist Party"
+      ],
+      "stated_as": "President of the Justicialist Party"
+    },
+    "P580": "2010-10-27",
+    "P1365": {
+      "links": [
+        "Néstor Kirchner"
+      ],
+      "stated_as": "Néstor Kirchner"
+    },
+    "P582": "2014-05-09",
+    "P1366": {
+      "links": [
+        "Eduardo Fellner"
+      ],
+      "stated_as": "Eduardo Fellner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2017-12-10",
+    "P582": "2019-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentina–Brazil relations"
+      ],
+      "stated_as": "Ambassador of Argentina to Brazil"
+    },
+    "P580": "2020-06-29",
+    "P1365": {
+      "links": [
+        "Carlos Magariños"
+      ],
+      "stated_as": "Carlos Magariños"
+    },
+    "P582": "2022-06-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Productive Development"
+      ],
+      "stated_as": "Minister of Productive Development"
+    },
+    "P580": "2022-06-15",
+    "P1365": {
+      "links": [
+        "Matías Kulfas"
+      ],
+      "stated_as": "Matías Kulfas"
+    }
+  }
+]

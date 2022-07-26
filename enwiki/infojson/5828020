@@ -1,0 +1,59 @@
+[
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "1983-12-10",
+    "P582": "1994-12-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2000-03-08",
+    "P582": "2001-03-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of San Luis"
+      ],
+      "stated_as": "Governor of San Luis"
+    },
+    "P580": "2003-12-10",
+    "P1365": {
+      "links": [
+        "Alicia Lemme"
+      ],
+      "stated_as": "Alicia Lemme"
+    },
+    "P582": "2011-12-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Claudio Poggi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of San Luis"
+      ],
+      "stated_as": "Governor of San Luis"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "Claudio Poggi"
+      ],
+      "stated_as": "Claudio Poggi"
+    }
+  }
+]

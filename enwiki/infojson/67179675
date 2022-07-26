@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "General Roca, Río Negro"
+      ],
+      "stated_as": "Mayor of General Roca"
+    },
+    "P580": "2011-12-10",
+    "P1365": {
+      "links": [
+        "Carlos Soria"
+      ],
+      "stated_as": "Carlos Soria"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        "María Emilia Soria"
+      ],
+      "stated_as": "María Emilia Soria"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Chamber of Deputies"
+      ],
+      "stated_as": "National Deputy"
+    },
+    "P580": "2019-12-10",
+    "P582": "2021-03-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice and Human Rights (Argentina)"
+      ],
+      "stated_as": "Minister of Justice and Human Rights"
+    },
+    "P580": "2021-03-29",
+    "P1365": {
+      "links": [
+        "Marcela Losardo"
+      ],
+      "stated_as": "Marcela Losardo"
+    }
+  }
+]

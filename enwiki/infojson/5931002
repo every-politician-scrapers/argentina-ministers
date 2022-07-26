@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Argentina)"
+      ],
+      "stated_as": "Minister of Education, Science and Technology"
+    },
+    "P580": "2003-05-25",
+    "P582": "2007-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2007-12-10",
+    "P582": "2013-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and Worship"
+      ],
+      "stated_as": "Secretary of Malvinas Affairs"
+    },
+    "P580": "2014-01-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Javier Esteban Figueroa (as General Director)"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "María Teresa Kralikas (as Undersecretary)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and Worship"
+      ],
+      "stated_as": "Secretary of Malvinas Affairs"
+    },
+    "P580": "2019-12-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mateo Estreme (as Undersecretary)"
+    },
+    "P582": "2021-09-20",
+    "P1366": {
+      "links": [
+        "Guillermo Carmona"
+      ],
+      "stated_as": "Guillermo Carmona"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Science, Technology and Innovation (Argentina)"
+      ],
+      "stated_as": "Minister of Science, Technology and Innovation"
+    },
+    "P580": "2021-09-20",
+    "P1365": {
+      "links": [
+        "Roberto Salvarezza"
+      ],
+      "stated_as": "Roberto Salvarezza"
+    }
+  }
+]

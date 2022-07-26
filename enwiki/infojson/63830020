@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "General San Martín Partido"
+      ],
+      "stated_as": "Mayor of General San Martín"
+    },
+    "P580": "2011-12-10",
+    "P1365": {
+      "links": [
+        "Ricardo Ivoskus"
+      ],
+      "stated_as": "Ricardo Ivoskus"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        ":es:Fernando Adrián Moreira"
+      ],
+      "stated_as": "Fernando Moreira"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Public Works (Argentina)"
+      ],
+      "stated_as": "Minister of Public Works"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Rogelio Frigerio"
+      ],
+      "stated_as": "Rogelio Frigerio (as Minister of the Interior, Public Works and Housing)"
+    }
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "office": {
+      "links": [
+        "Quilmes, Buenos Aires"
+      ],
+      "stated_as": "Mayor of Quilmes"
+    },
+    "P580": "1991",
+    "P1365": {
+      "links": [
+        "Eduardo Camaño"
+      ],
+      "stated_as": "Eduardo Camaño"
+    },
+    "P582": "1995",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Federico Scabarino"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "General Secretariat of the Presidency (Argentina)"
+      ],
+      "stated_as": "General Secretary of the Presidency"
+    },
+    "P580": "2002-01-02",
+    "P1365": {
+      "links": [
+        "Luis Lusquiños"
+      ],
+      "stated_as": "Luis Lusquiños"
+    },
+    "P582": "2002-10-03",
+    "P1366": {
+      "links": [
+        "José Pampuro"
+      ],
+      "stated_as": "José Pampuro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Productive Development"
+      ],
+      "stated_as": "Minister of Production"
+    },
+    "P580": "2002-10-03",
+    "P1365": {
+      "links": [
+        "José Ignacio de Mendiguren"
+      ],
+      "stated_as": "José Ignacio de Mendiguren"
+    },
+    "P582": "2003-05-25",
+    "P1366": {
+      "links": [
+        "Débora Giorgi"
+      ],
+      "stated_as": "Débora Giorgi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of the Interior (Argentina)"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "2003-05-25",
+    "P1365": {
+      "links": [
+        ":es:Jorge Matzkin"
+      ],
+      "stated_as": "Jorge Matzkin"
+    },
+    "P582": "2007-12-10",
+    "P1366": {
+      "links": [
+        "Florencio Randazzo"
+      ],
+      "stated_as": "Florencio Randazzo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice and Human Rights (Argentina)"
+      ],
+      "stated_as": "Minister of Justice, Security and Human Rights"
+    },
+    "P580": "2007-12-10",
+    "P1365": {
+      "links": [
+        "Alberto Iribarne"
+      ],
+      "stated_as": "Alberto Iribarne"
+    },
+    "P582": "2009-07-08",
+    "P1366": {
+      "links": [
+        "Julio Alak"
+      ],
+      "stated_as": "Julio Alak"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2009-07-08",
+    "P1365": {
+      "links": [
+        "Sergio Massa"
+      ],
+      "stated_as": "Sergio Massa"
+    },
+    "P582": "2011-12-10",
+    "P1366": {
+      "links": [
+        "Juan Manuel Abal Medina Jr."
+      ],
+      "stated_as": "Juan Manuel Abal Medina"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Argentine Senate"
+      ],
+      "stated_as": "National Senator"
+    },
+    "P580": "2011-12-10",
+    "P1365": {
+      "links": [
+        "Eric Calcagno"
+      ],
+      "stated_as": "Eric Calcagno"
+    },
+    "P582": "2014-12-16",
+    "P1366": {
+      "links": [
+        "Juan Manuel Abal Medina Jr."
+      ],
+      "stated_as": "Juan Manuel Abal Medina Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "General Secretariat of the Presidency (Argentina)"
+      ],
+      "stated_as": "General Secretary of the Presidency"
+    },
+    "P580": "2014-12-16",
+    "P1365": {
+      "links": [
+        "Oscar Parrilli"
+      ],
+      "stated_as": "Oscar Parrilli"
+    },
+    "P582": "2015-02-26",
+    "P1366": {
+      "links": [
+        "Eduardo de Pedro"
+      ],
+      "stated_as": "Eduardo de Pedro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Cabinet of Ministers"
+      ],
+      "stated_as": "Chief of the Cabinet of Ministers"
+    },
+    "P580": "2015-02-26",
+    "P1365": {
+      "links": [
+        "Jorge Capitanich"
+      ],
+      "stated_as": "Jorge Capitanich"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Marcos Peña"
+      ],
+      "stated_as": "Marcos Peña"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Security (Argentina)"
+      ],
+      "stated_as": "Minister of Security"
+    },
+    "P580": "2021-09-20",
+    "P1365": {
+      "links": [
+        "Sabina Frederic"
+      ],
+      "stated_as": "Sabina Frederic"
+    }
+  }
+]

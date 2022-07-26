@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Buenos Aires Province"
+      ],
+      "stated_as": "Minister of Economy of Buenos Aires Province"
+    },
+    "P580": "2011-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alejandro Gaspar Arlía"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Hernán Lacunza"
+      ],
+      "stated_as": "Hernán Lacunza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of the Interior (Argentina)"
+      ],
+      "stated_as": "Secretary of Provinces"
+    },
+    "P580": "2019-12-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alejandro Caldarelli"
+    },
+    "P582": "2022-07-03"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy (Argentina)"
+      ],
+      "stated_as": "Minister of Economy"
+    },
+    "P580": "2022-07-03",
+    "P1365": {
+      "links": [
+        "Martín Guzmán"
+      ],
+      "stated_as": "Martín Guzmán"
+    }
+  }
+]

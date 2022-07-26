@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Economy and Public Works of Neuquén"
+    },
+    "P580": "2011-12-10",
+    "P582": "2015-12-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Neuquén"
+      ],
+      "stated_as": "Governor of Neuquén"
+    },
+    "P580": "2015-12-10",
+    "P1365": {
+      "links": [
+        "Jorge Sapag"
+      ],
+      "stated_as": "Jorge Sapag"
+    }
+  }
+]
